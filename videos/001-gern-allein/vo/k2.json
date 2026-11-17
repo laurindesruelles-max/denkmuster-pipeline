@@ -1,0 +1,566 @@
+{
+"words": [
+{
+"w": "Moderne",
+"s": 0.0,
+"e": 0.32
+},
+{
+"w": "Hirnscans",
+"s": 0.48,
+"e": 1.12
+},
+{
+"w": "liefern",
+"s": 1.2,
+"e": 1.52
+},
+{
+"w": "einen",
+"s": 1.6,
+"e": 1.72
+},
+{
+"w": "zweiten",
+"s": 1.84,
+"e": 2.08
+},
+{
+"w": "Teil",
+"s": 2.16,
+"e": 2.32
+},
+{
+"w": "der",
+"s": 2.4,
+"e": 2.52
+},
+{
+"w": "Antwort.",
+"s": 2.56,
+"e": 3.2
+},
+{
+"w": "In",
+"s": 3.36,
+"e": 3.48
+},
+{
+"w": "unserem",
+"s": 3.6,
+"e": 3.92
+},
+{
+"w": "Gehirn",
+"s": 3.92,
+"e": 4.48
+},
+{
+"w": "gibt",
+"s": 4.48,
+"e": 4.6
+},
+{
+"w": "es",
+"s": 4.64,
+"e": 4.76
+},
+{
+"w": "ein",
+"s": 4.8,
+"e": 4.92
+},
+{
+"w": "Belohnungssystem.",
+"s": 4.96,
+"e": 6.08
+},
+{
+"w": "Wenn",
+"s": 6.24,
+"e": 6.36
+},
+{
+"w": "etwas",
+"s": 6.48,
+"e": 6.6
+},
+{
+"w": "Gutes",
+"s": 6.8,
+"e": 7.12
+},
+{
+"w": "passiert,",
+"s": 7.2,
+"e": 7.68
+},
+{
+"w": "schüttet",
+"s": 7.76,
+"e": 8.16
+},
+{
+"w": "es",
+"s": 8.16,
+"e": 8.28
+},
+{
+"w": "Dopamin",
+"s": 8.32,
+"e": 8.96
+},
+{
+"w": "aus",
+"s": 9.04,
+"e": 9.36
+},
+{
+"w": "–",
+"s": 9.36,
+"e": 9.44
+},
+{
+"w": "den",
+"s": 9.44,
+"e": 9.56
+},
+{
+"w": "Botenstoff,",
+"s": 9.68,
+"e": 10.4
+},
+{
+"w": "der",
+"s": 10.4,
+"e": 10.52
+},
+{
+"w": "uns",
+"s": 10.56,
+"e": 10.68
+},
+{
+"w": "antreibt",
+"s": 10.72,
+"e": 11.2
+},
+{
+"w": "und",
+"s": 11.28,
+"e": 11.4
+},
+{
+"w": "sagt:",
+"s": 11.44,
+"e": 11.84
+},
+{
+"w": "Mehr",
+"s": 11.92,
+"e": 12.04
+},
+{
+"w": "davon!",
+"s": 12.24,
+"e": 12.8
+},
+{
+"w": "Forscher",
+"s": 13.284,
+"e": 13.764
+},
+{
+"w": "ließen",
+"s": 14.004,
+"e": 14.164
+},
+{
+"w": "Menschen",
+"s": 14.324,
+"e": 14.444
+},
+{
+"w": "im",
+"s": 14.564,
+"e": 14.684
+},
+{
+"w": "Hirnscanner",
+"s": 14.724,
+"e": 15.444
+},
+{
+"w": "ein",
+"s": 15.524,
+"e": 15.604
+},
+{
+"w": "Glücksspiel",
+"s": 15.604,
+"e": 16.164
+},
+{
+"w": "spielen.",
+"s": 16.244,
+"e": 16.724
+},
+{
+"w": "Wenn",
+"s": 16.884,
+"e": 17.004
+},
+{
+"w": "sie",
+"s": 17.124,
+"e": 17.244
+},
+{
+"w": "gewannen,",
+"s": 17.284,
+"e": 17.924
+},
+{
+"w": "reagierte",
+"s": 18.004,
+"e": 18.484
+},
+{
+"w": "das",
+"s": 18.644,
+"e": 18.764
+},
+{
+"w": "Belohnungssystem",
+"s": 18.804,
+"e": 19.524
+},
+{
+"w": "bei",
+"s": 19.764,
+"e": 19.884
+},
+{
+"w": "extrovertierten",
+"s": 19.924,
+"e": 20.804
+},
+{
+"w": "Teilnehmern",
+"s": 20.884,
+"e": 21.444
+},
+{
+"w": "stärker.",
+"s": 21.524,
+"e": 22.004
+},
+{
+"w": "Für",
+"s": 22.528,
+"e": 22.768
+},
+{
+"w": "extrovertierte",
+"s": 22.928,
+"e": 23.728
+},
+{
+"w": "Menschen",
+"s": 23.888,
+"e": 24.008
+},
+{
+"w": "fühlt",
+"s": 24.208,
+"e": 24.528
+},
+{
+"w": "sich",
+"s": 24.528,
+"e": 24.648
+},
+{
+"w": "ein",
+"s": 24.688,
+"e": 24.808
+},
+{
+"w": "voller",
+"s": 24.848,
+"e": 25.168
+},
+{
+"w": "Raum,",
+"s": 25.248,
+"e": 25.648
+},
+{
+"w": "ein",
+"s": 25.728,
+"e": 25.848
+},
+{
+"w": "neues",
+"s": 25.888,
+"e": 26.208
+},
+{
+"w": "Gesicht,",
+"s": 26.288,
+"e": 26.768
+},
+{
+"w": "ein",
+"s": 26.928,
+"e": 27.048
+},
+{
+"w": "lautes",
+"s": 27.088,
+"e": 27.488
+},
+{
+"w": "Lachen",
+"s": 27.568,
+"e": 27.888
+},
+{
+"w": "also",
+"s": 28.048,
+"e": 28.168
+},
+{
+"w": "an",
+"s": 28.288,
+"e": 28.608
+},
+{
+"w": "wie",
+"s": 28.608,
+"e": 28.728
+},
+{
+"w": "ein",
+"s": 28.848,
+"e": 28.968
+},
+{
+"w": "kleiner",
+"s": 29.008,
+"e": 29.328
+},
+{
+"w": "Gewinn.",
+"s": 29.408,
+"e": 29.968
+},
+{
+"w": "Bei",
+"s": 30.34,
+"e": 30.58
+},
+{
+"w": "introvertierten",
+"s": 30.74,
+"e": 31.62
+},
+{
+"w": "Menschen",
+"s": 31.7,
+"e": 31.82
+},
+{
+"w": "ist",
+"s": 32.02,
+"e": 32.14
+},
+{
+"w": "dieser",
+"s": 32.18,
+"e": 32.3
+},
+{
+"w": "Kick",
+"s": 32.34,
+"e": 32.58
+},
+{
+"w": "schwächer.",
+"s": 32.74,
+"e": 33.46
+},
+{
+"w": "Die",
+"s": 33.62,
+"e": 33.74
+},
+{
+"w": "Party",
+"s": 33.78,
+"e": 34.18
+},
+{
+"w": "ist",
+"s": 34.26,
+"e": 34.38
+},
+{
+"w": "für",
+"s": 34.42,
+"e": 34.54
+},
+{
+"w": "sie",
+"s": 34.58,
+"e": 34.7
+},
+{
+"w": "nicht",
+"s": 34.74,
+"e": 34.86
+},
+{
+"w": "schlimm.",
+"s": 34.9,
+"e": 35.38
+},
+{
+"w": "Sie",
+"s": 35.54,
+"e": 35.66
+},
+{
+"w": "bringt",
+"s": 35.78,
+"e": 36.02
+},
+{
+"w": "ihnen",
+"s": 36.1,
+"e": 36.34
+},
+{
+"w": "nur",
+"s": 36.42,
+"e": 36.54
+},
+{
+"w": "weniger.",
+"s": 36.66,
+"e": 37.3
+},
+{
+"w": "Und",
+"s": 37.62,
+"e": 37.74
+},
+{
+"w": "genau",
+"s": 37.86,
+"e": 38.18
+},
+{
+"w": "deshalb",
+"s": 38.34,
+"e": 38.66
+},
+{
+"w": "fühlt",
+"s": 38.74,
+"e": 39.14
+},
+{
+"w": "sich",
+"s": 39.22,
+"e": 39.34
+},
+{
+"w": "ein",
+"s": 39.38,
+"e": 39.5
+},
+{
+"w": "Abend",
+"s": 39.54,
+"e": 39.78
+},
+{
+"w": "mit",
+"s": 39.94,
+"e": 40.06
+},
+{
+"w": "vielen",
+"s": 40.1,
+"e": 40.42
+},
+{
+"w": "Menschen",
+"s": 40.5,
+"e": 40.62
+},
+{
+"w": "für",
+"s": 41.14,
+"e": 41.26
+},
+{
+"w": "sie",
+"s": 41.38,
+"e": 41.5
+},
+{
+"w": "oft",
+"s": 41.62,
+"e": 41.86
+},
+{
+"w": "eher",
+"s": 41.94,
+"e": 42.18
+},
+{
+"w": "wie",
+"s": 42.18,
+"e": 42.3
+},
+{
+"w": "Arbeit",
+"s": 42.42,
+"e": 42.74
+},
+{
+"w": "an",
+"s": 42.82,
+"e": 42.94
+},
+{
+"w": "–",
+"s": 42.94,
+"e": 43.22
+},
+{
+"w": "und",
+"s": 43.22,
+"e": 43.34
+},
+{
+"w": "weniger",
+"s": 43.46,
+"e": 43.78
+},
+{
+"w": "wie",
+"s": 43.94,
+"e": 44.06
+},
+{
+"w": "Belohnung.",
+"s": 44.1,
+"e": 44.66
+}
+],
+"dur": 44.72,
+"recognized": "Moderne Hirnscans liefern einen zweiten Teil der Antwort. In unserem Gehirn gibt es ein Belohnungssystem. Wenn etwas Gutes passiert, schüttet es Dopamin aus, den Botenstoff, der uns antreibt und sagt, mehr davon. Forscher ließen Menschen im Hirnscann ein Glücksspiel spielen. Wenn sie gewannen, reagier das Belohnungssystem bei extrovertierten Teilnehmern stärker. Für extrovertierte Menschen fühlt sich ein voller Raum, ein neues Gesicht, ein lautes Lachen also an, wie ein kleiner Gewinn. Bei introvertierten Menschen ist dieser Kick schwächer. Die Party ist für sie nicht schlimm, sie bring ihnen nur weniger. Und genau deshalb fühlt sich ein Abend mit vielen Menschen für sie oft eher wie Arbeit an und weniger wie Belohnung."
+}

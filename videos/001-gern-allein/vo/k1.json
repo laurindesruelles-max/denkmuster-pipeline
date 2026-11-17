@@ -1,0 +1,716 @@
+{
+"words": [
+{
+"w": "Aber",
+"s": 0.0,
+"e": 0.12
+},
+{
+"w": "warum",
+"s": 0.48,
+"e": 0.8
+},
+{
+"w": "brauchen",
+"s": 0.96,
+"e": 1.36
+},
+{
+"w": "manche",
+"s": 1.44,
+"e": 1.68
+},
+{
+"w": "Menschen",
+"s": 1.76,
+"e": 1.88
+},
+{
+"w": "weniger",
+"s": 2.16,
+"e": 2.48
+},
+{
+"w": "Trubel",
+"s": 2.48,
+"e": 2.88
+},
+{
+"w": "als",
+"s": 3.04,
+"e": 3.16
+},
+{
+"w": "andere?",
+"s": 3.28,
+"e": 3.84
+},
+{
+"w": "In",
+"s": 4.24,
+"e": 4.36
+},
+{
+"w": "den",
+"s": 4.48,
+"e": 4.6
+},
+{
+"w": "Sechzigerjahren",
+"s": 4.64,
+"e": 5.52
+},
+{
+"w": "hatte",
+"s": 5.68,
+"e": 5.8
+},
+{
+"w": "das",
+"s": 6.0,
+"e": 6.12
+},
+{
+"w": "Psychologen-Paar",
+"s": 6.16,
+"e": 7.12
+},
+{
+"w": "Hans",
+"s": 7.28,
+"e": 7.52
+},
+{
+"w": "und",
+"s": 7.6,
+"e": 7.72
+},
+{
+"w": "Sybil",
+"s": 7.76,
+"e": 8.28
+},
+{
+"w": "Eysenck",
+"s": 8.28,
+"e": 8.8
+},
+{
+"w": "eine",
+"s": 8.88,
+"e": 9.0
+},
+{
+"w": "Idee.",
+"s": 9.12,
+"e": 9.68
+},
+{
+"w": "Sie",
+"s": 9.84,
+"e": 9.96
+},
+{
+"w": "vermuteten:",
+"s": 10.08,
+"e": 10.8
+},
+{
+"w": "Introvertierte",
+"s": 11.241,
+"e": 12.041
+},
+{
+"w": "Gehirne",
+"s": 12.121,
+"e": 12.601
+},
+{
+"w": "laufen",
+"s": 12.681,
+"e": 13.081
+},
+{
+"w": "schon",
+"s": 13.081,
+"e": 13.241
+},
+{
+"w": "im",
+"s": 13.321,
+"e": 13.441
+},
+{
+"w": "Ruhezustand",
+"s": 13.481,
+"e": 14.201
+},
+{
+"w": "auf",
+"s": 14.281,
+"e": 14.401
+},
+{
+"w": "einer",
+"s": 14.441,
+"e": 14.561
+},
+{
+"w": "höheren",
+"s": 14.601,
+"e": 15.081
+},
+{
+"w": "Stufe.",
+"s": 15.081,
+"e": 15.801
+},
+{
+"w": "Ihr",
+"s": 15.961,
+"e": 16.201
+},
+{
+"w": "Grund-Erregungsniveau",
+"s": 16.281,
+"e": 17.641
+},
+{
+"w": "ist",
+"s": 17.721,
+"e": 17.841
+},
+{
+"w": "höher.",
+"s": 17.881,
+"e": 18.521
+},
+{
+"w": "Um",
+"s": 18.681,
+"e": 18.801
+},
+{
+"w": "das",
+"s": 19.001,
+"e": 19.121
+},
+{
+"w": "zu",
+"s": 19.241,
+"e": 19.361
+},
+{
+"w": "testen,",
+"s": 19.481,
+"e": 19.961
+},
+{
+"w": "griffen",
+"s": 20.121,
+"e": 20.521
+},
+{
+"w": "sie",
+"s": 20.681,
+"e": 20.801
+},
+{
+"w": "zu",
+"s": 20.841,
+"e": 20.961
+},
+{
+"w": "einem",
+"s": 21.001,
+"e": 21.121
+},
+{
+"w": "ungewöhnlichen",
+"s": 21.241,
+"e": 21.961
+},
+{
+"w": "Werkzeug:",
+"s": 22.041,
+"e": 22.681
+},
+{
+"w": "Zitronensaft.",
+"s": 22.841,
+"e": 23.961
+},
+{
+"w": "Hundert",
+"s": 24.508,
+"e": 25.068
+},
+{
+"w": "Versuchspersonen",
+"s": 25.148,
+"e": 26.108
+},
+{
+"w": "bekamen",
+"s": 26.188,
+"e": 26.508
+},
+{
+"w": "vier",
+"s": 26.748,
+"e": 26.868
+},
+{
+"w": "Tropfen",
+"s": 26.988,
+"e": 27.388
+},
+{
+"w": "reinen",
+"s": 27.548,
+"e": 27.788
+},
+{
+"w": "Zitronensaft",
+"s": 27.948,
+"e": 28.748
+},
+{
+"w": "auf",
+"s": 28.828,
+"e": 28.948
+},
+{
+"w": "die",
+"s": 28.988,
+"e": 29.108
+},
+{
+"w": "Zunge.",
+"s": 29.148,
+"e": 29.708
+},
+{
+"w": "Dann",
+"s": 29.948,
+"e": 30.188
+},
+{
+"w": "wurde",
+"s": 30.268,
+"e": 30.388
+},
+{
+"w": "gemessen,",
+"s": 30.588,
+"e": 31.228
+},
+{
+"w": "wie",
+"s": 31.308,
+"e": 31.428
+},
+{
+"w": "viel",
+"s": 31.468,
+"e": 31.588
+},
+{
+"w": "Speichel",
+"s": 31.708,
+"e": 32.268
+},
+{
+"w": "sie",
+"s": 32.348,
+"e": 32.468
+},
+{
+"w": "bildeten.",
+"s": 32.508,
+"e": 33.308
+},
+{
+"w": "Das",
+"s": 33.659,
+"e": 33.779
+},
+{
+"w": "Ergebnis:",
+"s": 33.899,
+"e": 34.699
+},
+{
+"w": "Introvertierte",
+"s": 35.019,
+"e": 35.899
+},
+{
+"w": "produzierten",
+"s": 36.219,
+"e": 36.859
+},
+{
+"w": "mehr",
+"s": 36.939,
+"e": 37.059
+},
+{
+"w": "Speichel",
+"s": 37.179,
+"e": 37.739
+},
+{
+"w": "als",
+"s": 37.819,
+"e": 37.939
+},
+{
+"w": "Extrovertierte.",
+"s": 38.059,
+"e": 39.179
+},
+{
+"w": "Ihr",
+"s": 39.499,
+"e": 39.739
+},
+{
+"w": "Körper",
+"s": 39.819,
+"e": 40.219
+},
+{
+"w": "reagierte",
+"s": 40.299,
+"e": 40.939
+},
+{
+"w": "stärker",
+"s": 41.019,
+"e": 41.419
+},
+{
+"w": "auf",
+"s": 41.499,
+"e": 41.619
+},
+{
+"w": "denselben",
+"s": 41.659,
+"e": 42.139
+},
+{
+"w": "Reiz.",
+"s": 42.219,
+"e": 42.699
+},
+{
+"w": "Stell",
+"s": 43.302,
+"e": 43.702
+},
+{
+"w": "dir",
+"s": 43.862,
+"e": 43.982
+},
+{
+"w": "das",
+"s": 44.022,
+"e": 44.142
+},
+{
+"w": "Gehirn",
+"s": 44.182,
+"e": 44.662
+},
+{
+"w": "wie",
+"s": 44.662,
+"e": 44.782
+},
+{
+"w": "einen",
+"s": 44.822,
+"e": 44.942
+},
+{
+"w": "Lautstärkeregler",
+"s": 45.062,
+"e": 46.102
+},
+{
+"w": "vor.",
+"s": 46.262,
+"e": 46.662
+},
+{
+"w": "Bei",
+"s": 46.983,
+"e": 47.222
+},
+{
+"w": "introvertierten",
+"s": 47.302,
+"e": 48.262
+},
+{
+"w": "Menschen",
+"s": 48.262,
+"e": 48.382
+},
+{
+"w": "steht",
+"s": 48.742,
+"e": 48.983
+},
+{
+"w": "er",
+"s": 49.062,
+"e": 49.182
+},
+{
+"w": "von",
+"s": 49.222,
+"e": 49.342
+},
+{
+"w": "Haus",
+"s": 49.463,
+"e": 49.702
+},
+{
+"w": "aus",
+"s": 49.782,
+"e": 49.902
+},
+{
+"w": "schon",
+"s": 50.022,
+"e": 50.182
+},
+{
+"w": "etwas",
+"s": 50.262,
+"e": 50.382
+},
+{
+"w": "höher.",
+"s": 50.502,
+"e": 51.142
+},
+{
+"w": "Eine",
+"s": 51.382,
+"e": 51.622
+},
+{
+"w": "laute",
+"s": 51.703,
+"e": 52.023
+},
+{
+"w": "Party",
+"s": 52.182,
+"e": 52.582
+},
+{
+"w": "dreht",
+"s": 52.662,
+"e": 52.983
+},
+{
+"w": "ihn",
+"s": 53.062,
+"e": 53.182
+},
+{
+"w": "dann",
+"s": 53.222,
+"e": 53.342
+},
+{
+"w": "schnell",
+"s": 53.462,
+"e": 53.702
+},
+{
+"w": "in",
+"s": 53.702,
+"e": 53.822
+},
+{
+"w": "den",
+"s": 53.863,
+"e": 53.983
+},
+{
+"w": "roten",
+"s": 54.022,
+"e": 54.342
+},
+{
+"w": "Bereich.",
+"s": 54.422,
+"e": 55.222
+},
+{
+"w": "Extrovertierte",
+"s": 55.622,
+"e": 56.582
+},
+{
+"w": "starten",
+"s": 56.903,
+"e": 57.222
+},
+{
+"w": "leiser",
+"s": 57.382,
+"e": 57.702
+},
+{
+"w": "–",
+"s": 57.702,
+"e": 58.022
+},
+{
+"w": "und",
+"s": 58.022,
+"e": 58.142
+},
+{
+"w": "brauchen",
+"s": 58.262,
+"e": 58.582
+},
+{
+"w": "mehr",
+"s": 58.662,
+"e": 58.782
+},
+{
+"w": "Lärm,",
+"s": 58.903,
+"e": 59.382
+},
+{
+"w": "um",
+"s": 59.382,
+"e": 59.502
+},
+{
+"w": "sich",
+"s": 59.542,
+"e": 59.662
+},
+{
+"w": "wohlzufühlen.",
+"s": 59.702,
+"e": 60.823
+},
+{
+"w": "Der",
+"s": 61.203,
+"e": 61.323
+},
+{
+"w": "Zitronentest",
+"s": 61.443,
+"e": 62.483
+},
+{
+"w": "ist",
+"s": 62.563,
+"e": 62.683
+},
+{
+"w": "alt",
+"s": 62.723,
+"e": 62.843
+},
+{
+"w": "und",
+"s": 63.123,
+"e": 63.243
+},
+{
+"w": "allein",
+"s": 63.283,
+"e": 63.603
+},
+{
+"w": "kein",
+"s": 63.683,
+"e": 63.923
+},
+{
+"w": "Beweis.",
+"s": 64.003,
+"e": 64.803
+},
+{
+"w": "Aber",
+"s": 65.043,
+"e": 65.163
+},
+{
+"w": "er",
+"s": 65.363,
+"e": 65.483
+},
+{
+"w": "hat",
+"s": 65.603,
+"e": 65.723
+},
+{
+"w": "eine",
+"s": 65.843,
+"e": 65.963
+},
+{
+"w": "Frage",
+"s": 66.083,
+"e": 66.403
+},
+{
+"w": "aufgeworfen,",
+"s": 66.483,
+"e": 67.283
+},
+{
+"w": "die",
+"s": 67.443,
+"e": 67.563
+},
+{
+"w": "die",
+"s": 67.603,
+"e": 67.723
+},
+{
+"w": "Forschung",
+"s": 67.763,
+"e": 68.243
+},
+{
+"w": "bis",
+"s": 68.323,
+"e": 68.443
+},
+{
+"w": "heute",
+"s": 68.563,
+"e": 68.723
+},
+{
+"w": "beschäftigt.",
+"s": 68.803,
+"e": 69.443
+}
+],
+"dur": 69.52,
+"recognized": "Aber warum brauchen manche Menschen weniger Trubel als andere? In den 60er Jahren hatte das Psychologenpaar Hans und Sibyl Eisenk eine Idee. Sie vermuteten, Introvertierte Gehirne laufen schon im Ruhezustand auf einer höheren Stufe. Ihr Grunderregungsniveau ist höher. Um das zu testen, griffen Sie zu einem ungewöhnlichen Werkzeug, Zitronensaft. 100 Versuchspersonen bekamen vier Tropfen reinen Zitronensaft auf die Zunge. Dann wurde gemessen, wie viel Speichel sie bildeten. Das Ergebnis? Introvertierte produzierten mehr Speichel als extrovertierte. Ihr Körper reagierte stärker auf denselben Reiz. Stell dir das Gehirn wie einen Lautstärkeregler vor. Bei introvertierten Menschen steht er von Haus aus schon etwas höher. Eine laute Party dreht ihn dann schnell in den roten Bereich. Extrovertierte starten leiser und brauchen mehr Lärm, um sich wohlzufühlen. Der Zitronentest ist alt und allein kein Beweis. Aber er hat eine Frage aufgeworfen, die die Forschung bis heute beschäftigt."
+}
