@@ -15,6 +15,7 @@ Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt ö
 | `engine/wordtimes.py` | Wortzeiten aus der Sprachaufnahme (Parakeet, lokal, kostenlos) – nie Zeiten schätzen |
 | `engine/thumbnail.py` | Hero-Thumbnail: Higgsfield-Motiv + 2–3 Zeilen Text |
 | `engine/qa.py` | Technische Endkontrolle + Prüfbericht `qa.md` |
+| `engine/preview.py` | Kontaktabzug aller Szenen ohne Rendern (`python3 engine/preview.py videos/NNN [Kapitel]`) – vor jedem Render ansehen |
 | `assets/sfx` | **Denkmuster-eigene Effekte** (SOUNDS.md) – nie die Goldsmith-Bibliothek |
 | `assets/music` | **Denkmuster-eigene Musik** (MUSIC.md), modern & cinematic |
 | `assets/fonts`, `assets/brand` | Caveat, Fredoka; Profilbild + Banner |

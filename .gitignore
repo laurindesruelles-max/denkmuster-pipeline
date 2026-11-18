@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+videos/*/video.mp4
+videos/*/_raw*.mp4
+videos/*/music_bed.wav
+videos/*/vo/voice_all.wav

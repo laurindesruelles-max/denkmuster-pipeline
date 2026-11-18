@@ -10,3 +10,13 @@
 - Higgsfield text2speech: max. ~4 parallel, sonst 429.
 - mcp.vidiq.com ist aus der Sandbox gesperrt → Uploads über Higgsfield-cloudfront-URL an vidIQ geben.
 - sfxmint.com drosselt Downloads (429) → zuerst Hugging-Face-Sample bzw. SFX Kit (GitHub).
+- 18.11.2026 Kamera-Bug in kit.py behoben: Kapitelkarten wurden im Konstruktor angelegt, dadurch startete jede Fahrt an der zuletzt *programmierten* Position (Hook-Anfang zeigte leeres Board, Sprünge vor Kapitelkarten). Jetzt sammelt `go()` Fahrten und `build_cam()` baut die Keyframes chronologisch. Neu: `engine/preview.py videos/NNN [Kapitel]` = Kontaktabzug ohne Rendern (Layout prüfen vor dem 16-Min-Render).
+- Faktencheck VOR dem Einsprechen laufen lassen (Skript als skript.md) spart Credits und Neu-Renders; danach am fertigen Video nur noch Kurzcheck.
+- Kosten: Helena kostet ~4–5 Credits pro Kapitel (10 Kapitel ≈ 45). Für ~30 Credits: weniger, längere Kapitel-Dateien (z. B. 2 Kapitel pro Datei) prüfen.
+- vidIQ-Guthaben kann 0 sein (Reset 7.12.) → Titel-Scoring überspringen, Upload/Entwurf/Veröffentlichen kosten 0 Credits.
+
+## Video-Log
+| Nr. | Datum | Titel | Länge | Credits (Higgsfield) | Status |
+|---|---|---|---|---|---|
+| 001 | 17.11.2026 | Menschen, die gern allein sind, haben diese seltene Eigenschaft | >8 Min. | – | öffentlich |
+| 002 | 18.11.2026 | Warum das Warten auf GTA 6 schöner sein kann als das Spiel (https://www.youtube.com/watch?v=v4u2cwV5TzM) | 11:58 | ~50 | öffentlich |

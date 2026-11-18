@@ -43,6 +43,7 @@ class Video:
         self.music_plan = music_plan or ([1] + [[2, 3, 1, 2, 4, 3, 4, 2][(i - 1) % 8] for i in range(1, n - 1)] + [5])
         self.hook_music_from = hook_music_from   # Sekunden ab Videostart, ab wann im Hook Musik einsetzt (None = 8 s)
         self.missing = []
+        self.moves = []   # Kamerafahrten (t, d, x, y, z) – Keyframes werden erst beim Rendern chronologisch gebaut
         self.b = Board()
         self.cam = list(self.P(0, 0)) + [1.0]
         self.b.key(0, *self.cam)
@@ -66,7 +67,7 @@ class Video:
     def P(k, p): return (p * 2000 + 960, k * 1700 + 540)
 
     def go(self, t, x, y, z=1.0, d=0.6, sound=True):
-        self.b.key(t, *self.cam); self.b.key(t + d, x, y, z); self.cam[:] = [x, y, z]
+        self.moves.append((t, d, x, y, z)); self.cam[:] = [x, y, z]
         if sound: self.b.snd("schwenk.wav", t, 0.3)
 
     def gop(self, t, k, p, z=1.0, dx=0, dy=0):
@@ -85,6 +86,14 @@ class Video:
         b.snd("klang.wav", t1 + 0.4, 0.35)
 
     def fig(self, t, x, y, s=1.0, dur=0.7, **kw): return stick(self.b, t, x, y, s, dur=dur, **kw)
+
+    def build_cam(self):
+        """Kamera-Keyframes chronologisch aufbauen: jede Fahrt startet dort, wo die Kamera zu diesem Zeitpunkt wirklich ist
+        (Fix 18.11.2026: vorher startete jede Fahrt an der Position der zuletzt *programmierten* Fahrt -> Sprünge zu Kapitelkarten)."""
+        x0, y0 = self.P(0, 0); cur = (x0, y0, 1.0); keys = [(0.0,) + cur]
+        for t, d, x, y, z in sorted(self.moves):
+            keys.append((t,) + cur); keys.append((t + d, x, y, z)); cur = (x, y, z)
+        self.b.cam = keys
 
     # ---------- Ausgabe ----------
     def _voice(self, out):
@@ -113,6 +122,7 @@ class Video:
     def render(self, out_name="video.mp4", duration=None):
         if self.missing:
             print("FEHLENDE STICHWÖRTER:", self.missing); sys.exit(1)
+        self.build_cam()
         self.b.sfx = [e for e in self.b.sfx if e[0] not in DROP_SFX]
         d = self.dir; dur = duration or self.TOTAL
         self._voice(os.path.join(d, "vo", "voice_all.wav"))
