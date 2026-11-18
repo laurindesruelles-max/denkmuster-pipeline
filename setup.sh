@@ -11,4 +11,10 @@ if [ ! -d /home/claude/models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8 ]; then
   tar xjf /tmp/parakeet.tar.bz2 -C /home/claude/models && rm /tmp/parakeet.tar.bz2
 fi
 # Denkmuster hat eigene Effekte (assets/sfx) und eigene Musik (assets/music) – nie die Goldsmith-Bibliothek einbinden.
+# Ton-Werkzeug audiokit (18.11.2026): Sounds aufräumen, Musik nach Spannungskurve, Endkontrolle.
+# Gemeinsam sind nur die Regeln – Sounds und Musik bleiben kanal-eigen. Repo: laurindesruelles-max/sound-mediathek
+AK="${AUDIOKIT:-/home/claude/audiokit}"
+if [ ! -f "$AK/adapter.py" ] || [ -n "$AK_UPDATE" ]; then
+  AKT=$(mktemp -d); git clone -q --depth 1 https://github.com/laurindesruelles-max/sound-mediathek "$AKT/r" && mkdir -p "$AK" && cp "$AKT"/r/audiokit/*.py "$AKT"/r/audiokit/*.json "$AK"/ && echo "audiokit bereit: $AK"; rm -rf "$AKT"
+fi
 echo "Denkmuster bereit. Neues Video: videos/NNN-slug anlegen (siehe README.md)."

@@ -13,6 +13,7 @@ Benutzung in videos/NNN-slug/scenes.py:
 Voraussetzungen im Videoordner: vo/k0.mp3 … vo/kN.mp3 (eine Datei pro Kapitel, Stimme Helena) und vo/kI.json (engine/wordtimes.py).
 Regeln (Laurin): KEINE Zeichen-/Marker-Sounds; Kapitelkarte bleibt ~2 s stehen; Musik wechselt pro Kapitel, Pause während der Karte;
 Hook startet ohne Musik; Musik deutlich unter der Stimme; Endlautheit −15 LUFS.
+Ton (18.11.2026): audiokit räumt Sounds auf, baut die Musik nach Spannungskurve (Wechsel ≤ 60 s, Anschwellen vor Enthüllungen) und prüft den Endmix -> ton_bericht.txt.
 """
 import json, math, os, re, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -22,6 +23,13 @@ from icons import *
 
 MUSIC = os.path.join(HERE, "..", "assets", "music", "dm_music_{}.mp3")
 DROP_SFX = ("marker_strich.wav", "marker_kurz.wav")   # Laurin 17.11.2026: keine Zeichen-Sounds
+# Ton-Werkzeug (Repo sound-mediathek/audiokit, setup.sh lädt es): Sounds aufräumen, Musik mit Spannungskurve, Endkontrolle
+AKDIR = os.environ.get("AUDIOKIT", "/home/claude/audiokit")
+AK = None
+if os.path.exists(os.path.join(AKDIR, "adapter.py")):
+    sys.path.insert(0, AKDIR); import adapter as AK
+else: print("WARNUNG: audiokit fehlt – sh setup.sh ausführen (alter Ton-Weg wird benutzt)")
+ALT = {1: 3, 2: 4, 3: 1, 4: 2, 5: 2}   # Zweittrack je Haupttrack für Wechsel innerhalb langer Kapitel
 
 class Video:
     CARD = 5.0      # Kapitelkarte: ~2,3 s Zeichnen + ~2 s Stehen (Laurin)
@@ -104,7 +112,18 @@ class Video:
         filt.append(lab + f"amix=inputs={len(self.titles)}:normalize=0:duration=longest,apad,atrim=0:{self.TOTAL}[o]")
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error"] + inputs + ["-filter_complex", ";".join(filt), "-map", "[o]", out], check=True)
 
-    def _music(self, out):
+    def _music(self, out, voice_wav=None):
+        if AK is not None and voice_wav:
+            import numpy as np, scipy.io.wavfile as wf
+            from audit import load
+            SR = 48000; voice = load(voice_wav); N = int(self.TOTAL * SR) + SR
+            words = [(self.VSTART[i] + w["s"], w["w"]) for i, d in enumerate(self.words) for w in d["words"]]
+            chapters = [(self.CT[i], self.titles[i], (self.VSTART[i] - 0.2) if self.titles[i] else None) for i in range(len(self.titles))]
+            pools = [[MUSIC.format(tr), MUSIC.format(ALT.get(tr, 2))] for tr in self.music_plan]
+            stim = [e[1] for e in self.b.sfx] + [k[0] for k in self.b.cam]
+            bed = AK.music_bed("denkmuster", N, SR, voice, self.TOTAL, chapters, words, pools,
+                               music_from=self.hook_music_from if self.hook_music_from is not None else 8.0, stimuli=stim)
+            wf.write(out, SR, bed[: int(self.TOTAL * SR)].astype(np.float32)); return
         n = len(self.titles); segs = []
         hs = self.hook_music_from if self.hook_music_from is not None else 8.0
         segs.append((hs, self.CT[1] - 0.5 if n > 1 else self.TOTAL - 0.5, self.music_plan[0]))
@@ -126,12 +145,15 @@ class Video:
         self.b.sfx = [e for e in self.b.sfx if e[0] not in DROP_SFX]
         d = self.dir; dur = duration or self.TOTAL
         self._voice(os.path.join(d, "vo", "voice_all.wav"))
+        if AK is not None: self.b.sfx = AK.clean_events(self.b.sfx, "denkmuster", SFX, order="name,t,gain")
         raw = os.path.join(d, "_raw.mp4")
         render(self.b, raw, dur, os.path.join(d, "vo", "voice_all.wav"), 0.0)
-        self._music(os.path.join(d, "music_bed.wav"))
+        self._music(os.path.join(d, "music_bed.wav"), os.path.join(d, "vo", "voice_all.wav"))
         out = os.path.join(d, out_name)
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-i", os.path.join(d, "music_bed.wav"), "-filter_complex",
                         "[0:a][1:a]amix=inputs=2:normalize=0:duration=first,loudnorm=I=-15:TP=-1.5:LRA=11[a]",
                         "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", out], check=True)
         os.remove(raw)
+        if AK is not None:
+            AK.final_check(out, os.path.join(d, "vo", "voice_all.wav"), os.path.join(d, "music_bed.wav")); AK.write_report(os.path.join(d, "ton_bericht.txt"))
         print("FERTIG:", out, f"{dur:.1f} s")
