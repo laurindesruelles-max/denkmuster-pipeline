@@ -28,3 +28,16 @@ Problem: Soundeffekte oft unpassend/billig, Musik zu gleichförmig – Laurin sc
 - Musik nach Spannungskurve: Wechsel der Stelle/des Tracks spätestens alle ~60–80 s, Anschwellen vor Enthüllungen/Zahlen, Bogen pro Kapitel, Pegel automatisch unter der Stimme. Weiterhin nur die eigene Musik-Bibliothek, keine neuen Tracks.
 - Im Skript Enthüllungen klar formulieren (Zahl, „aber“, „doch“, Frage → Antwort): daraus baut die Spannungskurve.
 - Bericht meldet Lücken > 22 s ohne neuen Reiz → dort Bild/Effekt/Schnitt ergänzen, bevor gerendert wird.
+
+## Hook-Regeln (Laurin 19.11.2026 – gilt ab dem nächsten Video)
+Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ), Hook-Studie mit über 4.000 Hooks aus Videos mit über 1 Mio. Aufrufen, Aprilynne Alters Intro-Formel. Es gibt keinen einzelnen besten Hook-Typ – aber alle erfolgreichen Hooks haben diesen Aufbau:
+1. **Thema in 0–5 s gesagt UND gezeigt** – genau das, was Titel und Thumbnail versprechen; das Thumbnail-Motiv ist im ersten Bild zu sehen. Kein Datum, kein Logo, keine Vorrede als erster Satz.
+2. **Offene Frage / Rätsel spätestens bei 10–15 s.** Die Antwort kommt frühestens im letzten Drittel.
+3. **Konkretes Versprechen vor Hook-Ende** (was man am Ende weiß, wie viele Punkte, wer dahintersteckt).
+4. **Bestes Material zuerst:** die stärkste Animation / das stärkste Bild gehört in den Hook.
+5. **Kurz:** Hook-Länge siehe Kanal-Regel unten. Kontext erst danach, nicht vorne stapeln.
+6. **Rehook:** Jedes Kapitel endet mit einer neuen offenen Frage.
+
+**Prüfung vor dem Rendern** (in qa.md eintragen): Sekunde, ab der das Thema klar ist (≤ 5), Sekunde der offenen Frage (≤ 15), Versprechen ja/nein, Hook-Länge (Wörter ÷ 2,4 = Sekunden).
+**Nach 48 h:** Retention bei 30 s per vidIQ (audience_retention) ins Video-Log. Ziel ≥ 70 %. Unter 50 % → beim nächsten Video den Alternativ-Typ unten nehmen.
+**Denkmuster-Hook:** **Du-Alltagsszene im Präsens**, die der Zuschauer selbst kennt („Freitag, 18 Uhr. Dein Handy vibriert …“) → die Selbstzweifel-Frage („Stimmt etwas nicht mit mir?“) → Versprechen („Ich zeige dir sieben Gründe. Zähl mit, wie viele auf dich zutreffen.“). „du/dein“ ab dem ersten Satz. Die Studie kommt erst NACH dem Hook als Beleg. **Länge 30–40 s** (vorher 60–75 s – zu lang, Hook von 002 begann mit einem Datum, „dein Kopf“ erst nach ~50 s). Alternative: Du-Frage mit Gegen-Erwartung („Weißt du, was an … so seltsam ist? Sie sind ganz anders, als man denkt.“).

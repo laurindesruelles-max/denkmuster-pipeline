@@ -25,7 +25,7 @@ Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt ö
 1. `sh setup.sh`
 2. **Thema** (Format-Mix: ~50 % „Die Psychologie von Menschen, die …“, ~25 % Denkfehler & Effekte, ~25 % aktuelle Studien/Trends mit Psychologie-Blickwinkel). Nicht doppeln: `videos/` prüfen. Ideen: `NEXT_TOPIC.md`.
 3. **Recherche**: echte Studien (Original/Abstract/Uni-Pressemitteilung). Jede Zahl belegen. Schwache Studien offen als schwach benennen.
-4. **Skript** (`skript.md`): Hook (Kapitel 0, ohne Kapitelkarte, ~60–75 s, vom Großen ins Kleine, überraschende Studie), 6–8 Kapitel, Schluss mit
+4. **Skript** (`skript.md`): Hook (Kapitel 0, ohne Kapitelkarte, 30–40 s, Du-Alltagsszene → Frage → Versprechen; Studie erst danach – siehe LESSONS.md „Hook-Regeln“), 6–8 Kapitel, Schluss mit
    Kommentar-Frage + „Abonniere Denkmuster und aktiviere die Glocke“. **Gesamtlänge über 8 Minuten** (~1250+ Wörter inkl. Hook). Zahlen als Wörter, „...“ = Pause.
    Ein Satz = ein Bild. Gesundheitsnahe Themen: Hinweis auf Hilfe, keine Diagnosen.
 5. **Stimme**: pro Kapitel eine Datei `vo/kI.mp3` (Batch max. 4 gleichzeitig, sonst Rate-Limit), Text auch als `vo/kI.txt`;
