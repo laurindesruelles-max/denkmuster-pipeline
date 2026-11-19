@@ -41,3 +41,9 @@ Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ)
 **Prüfung vor dem Rendern** (in qa.md eintragen): Sekunde, ab der das Thema klar ist (≤ 5), Sekunde der offenen Frage (≤ 15), Versprechen ja/nein, Hook-Länge (Wörter ÷ 2,4 = Sekunden).
 **Nach 48 h:** Retention bei 30 s per vidIQ (audience_retention) ins Video-Log. Ziel ≥ 70 %. Unter 50 % → beim nächsten Video den Alternativ-Typ unten nehmen.
 **Denkmuster-Hook:** **Du-Alltagsszene im Präsens**, die der Zuschauer selbst kennt („Freitag, 18 Uhr. Dein Handy vibriert …“) → die Selbstzweifel-Frage („Stimmt etwas nicht mit mir?“) → Versprechen („Ich zeige dir sieben Gründe. Zähl mit, wie viele auf dich zutreffen.“). „du/dein“ ab dem ersten Satz. Die Studie kommt erst NACH dem Hook als Beleg. **Länge 30–40 s** (vorher 60–75 s – zu lang, Hook von 002 begann mit einem Datum, „dein Kopf“ erst nach ~50 s). Alternative: Du-Frage mit Gegen-Erwartung („Weißt du, was an … so seltsam ist? Sie sind ganz anders, als man denkt.“).
+
+## Sound-Bibliothek aus Laurins Sammlung (19.11.2026)
+- setup.sh lädt `bibliothek/denkmuster/` (NUR die Effekte dieses Kanals) + `bibliothek/gemeinsam/` (Foley, Atmos, Waffen) nach /home/claude/sfx-bibliothek/bibliothek. Liste: `bibliothek/denkmuster/LISTE.md` im Repo sound-mediathek.
+- **Reihenfolge bei der Sound-Wahl:** 1. eigene assets/sfx (abgenommen) → 2. Bibliothek (`import bibliothek as BIB; BIB.pick("denkmuster", "whoosh", seed=<video-ordner>)`, `BIB.suche("auto")`) → 3. Hugging Face/SFXMint nur, wenn nichts passt.
+- `seed` = Video-Ordner: so wechseln die Sounds von Video zu Video, ohne dass es zufällig klingt. Alle Bibliotheks-Sounds sind geprüft (audit.py), Memes/geschützte/kommerzielle Sounds sind aussortiert.
+- Nie Effekte aus fremden Kanal-Ordnern nehmen; `reserve/` nur nach Rückfrage bei Laurin.
