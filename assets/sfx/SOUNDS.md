@@ -1,6 +1,7 @@
 # Denkmuster-Effekte (assets/sfx)
 
-**Regel (Laurin 17.11.2026): Jeder Kanal hat seine eigenen Effekte.** Denkmuster nutzt nur diesen Ordner – nie die Goldsmith-Bibliothek.
+**Update (Laurin 19.11.2026): Gemeinsame Sound-Bibliothek für alle Kanäle** – zusätzlich zu diesem Ordner dürfen alle Effekte aus `laurindesruelles-max/sound-bibliothek` genutzt werden, gefiltert nach dem Stilprofil des Kanals (README dort, `sk.py find … --channel <kanal>`). Musik bleibt kanal-eigen. Die Regel vom 17.11. („nur eigene Effekte“) gilt damit nicht mehr. Keine Marker-Sounds gilt weiter.
+~~**Regel (Laurin 17.11.2026): Jeder Kanal hat seine eigenen Effekte.** Denkmuster nutzt nur diesen Ordner – nie die Goldsmith-Bibliothek.~~
 **Keine Zeichen-/Marker-Sounds** (Laurin: „ganz ganz schlimm“; auch die Alternativen aus dem SFX Kit gefielen nicht).
 Alle Dateien: CC0 (frei, kommerziell, keine Quellenangabe), gesäubert (Hochpass, Anfangsstille weg), −20 LUFS.
 Neue Sounds: (1) diese Liste → (2) SFX Kit github.com/wyzowl/sfx-kit (CC0) → (3) SFXMint CC0 (Hugging Face flreey/sfxmint-cc0-sound-effects) → (4) Laurin fragen. Nie selbst synthetisieren.

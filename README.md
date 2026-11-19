@@ -16,7 +16,7 @@ Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt ö
 | `engine/thumbnail.py` | Hero-Thumbnail: Higgsfield-Motiv + 2–3 Zeilen Text |
 | `engine/qa.py` | Technische Endkontrolle + Prüfbericht `qa.md` |
 | `engine/preview.py` | Kontaktabzug aller Szenen ohne Rendern (`python3 engine/preview.py videos/NNN [Kapitel]`) – vor jedem Render ansehen |
-| `assets/sfx` | **Denkmuster-eigene Effekte** (SOUNDS.md) – nie die Goldsmith-Bibliothek |
+| `assets/sfx` | **Denkmuster-eigene Effekte** (SOUNDS.md) + gemeinsame sound-bibliothek (seit 19.11.2026) |
 | `assets/music` | **Denkmuster-eigene Musik** (MUSIC.md), modern & cinematic |
 | `assets/fonts`, `assets/brand` | Caveat, Fredoka; Profilbild + Banner |
 | `videos/NNN-slug/` | ein Ordner pro Video (Skript, vo/, scenes.py, video.mp4, thumbnail.png, beschreibung.txt, qa.md) |
@@ -42,7 +42,7 @@ Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt ö
 10. Kurzfassung des Prüfberichts an Laurin. Video-Ordner + Lessons committen.
 
 ## Regeln (Laurin)
-- Jeder Kanal hat **eigene Effekte und eigene Musik**. Denkmuster nutzt nur `assets/sfx` und `assets/music`.
+- Eigene Musik (`assets/music`); Effekte aus `assets/sfx` plus der gemeinsamen sound-bibliothek, gefiltert nach Denkmuster-Profil (Laurin 19.11.2026).
 - **Keine Zeichen-/Marker-Sounds** (Laurin 17.11.2026: „ganz ganz schlimm“). Sounds nur bei wichtigen Momenten (Pop, Klang, Aha-Funkeln) und zu dem, was man sieht (Uhr, Stromschlag, Schritte). Nie selbst synthetisieren.
 - Kapitelkarten **~2 s stehen lassen** (kit.py: CARD = 5.0).
 - Musik: Hook-Anfang ohne Musik, pro Kapitel ein Track, Pause während der Kapitelkarte, deutlich unter der Stimme.
