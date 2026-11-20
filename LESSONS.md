@@ -1,5 +1,8 @@
 # Lessons (Denkmuster)
 
+> **Seit 20.11.2026 zuerst lesen:** `HANDWERK.md` (Regeln für alle Kanäle) und `EFFEKTE.md` (Handschrift und erlaubte Effekte dieses Kanals, von Laurin abgenommen). Bei Widerspruch gelten diese beiden Dateien.
+
+
 - 17.11.2026 Pilot 001 „Menschen, die gern allein sind“: Whiteboard-Stil gewählt (statt 2D-Flat/Comic). Strichmännchen im Thumbnail abgelehnt („muss mehr Klicks, professioneller“) → illustriertes Higgsfield-Motiv + große Inter-Black-Schrift (Variante „GERN ALLEIN? Dein Gehirn tickt anders.“).
 - Marker-/Zeichen-Sounds komplett raus (Laurin: „ganz ganz schlimm“, auch SFX-Kit-Alternativen abgelehnt).
 - Freie CC0-Musik (Komiku/HoliznaCC0/xik …) abgelehnt; eigene cinematic Tracks (Higgsfield ElevenLabs Music) angenommen.
