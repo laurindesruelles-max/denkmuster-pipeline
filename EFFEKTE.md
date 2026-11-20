@@ -37,3 +37,16 @@ Gemeinsame Regeln: `HANDWERK.md`. Hier steht nur, was Denkmuster von den anderen
 **Raus:** Zeichen- und Marker-Sounds (Laurin hat sie abgelehnt).
 
 Stilprobe: `stilprobe_denkmuster.mp4` (20.11.2026). Sounds folgen nach dem Casting (`doku-ohren`).
+
+## Sound je Effekt (Stand 20.11.2026, Version 2 von Laurin als besser bewertet (20.11.2026))
+Geplant nach dem Grundsatz aus `HANDWERK.md`: erst festlegen, wo überhaupt ein Sound hingehört, dann je Stelle genau einen. Skripte: `engine/stilproben/ton_*.py`.
+
+| Effekt | Sound |
+| --- | --- |
+| Grundsatz | wenige Sounds: 7 Stellen in 22 s, nur an echten Bild-Ereignissen, Kamerafahrten meist ohne Sound |
+| Studien-Karteikarte | pop_klein |
+| Blick in den Kopf | schwenk |
+| Innerer Regler | ein stift_klick beim Einrasten (nicht bei jedem Ausschlag) |
+| Mythos durchstreichen | Musik setzt kurz aus, trockener Papier-Wisch (paper_slide aus Laurins Goldsmith-Sammlung). Nicht: Papierknüllen |
+| Zahl in Handschrift | Musik setzt aus, Zahl erscheint in der Stille, beim Einkreisen tiefer trockener Treffer (sub_drop + leiser slap), Musik schwillt an. Nicht: aha_funkeln |
+| Board-Panorama | schwenk leise, Kanal-Klang (klang) leise am Ende |
