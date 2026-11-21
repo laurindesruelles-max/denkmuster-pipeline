@@ -5,7 +5,6 @@
 
 ## Ideen-Speicher
 - (GTA-6-Winkel noch offen: „Warum wir in Spielen Dinge tun, die wir im echten Leben nie tun würden“ – Online-Enthemmung, Avatar-Identifikation)
-- Die Psychologie von Menschen, die nie um Hilfe bitten
 - Warum wir aufschieben (Prokrastination)
 - Menschen, die immer zu früh kommen
 - Der Halo-Effekt: Warum schöne Menschen klüger wirken

@@ -1,0 +1,2166 @@
+[
+ {
+  "satz": "Du hilfst jedem sofort.",
+  "sek": 1.68,
+  "zeigt": "Hauptfigur trägt einem Freund sofort eine Umzugskiste",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Aber selbst um Hilfe bitten?",
+  "sek": 1.84,
+  "zeigt": "Die Worte UM HILFE BITTEN? erscheinen groß rechts neben der Figur",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:warum",
+  "kapitel": 0
+ },
+ {
+  "satz": "Das machst du fast nie.",
+  "sek": 2.0,
+  "zeigt": "Rotes Kreuz über den Worten, die Hauptfigur senkt den Kopf",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Sonntag, zweiundzwanzig Uhr. [22 Uhr]",
+  "sek": 2.56,
+  "zeigt": "Uhr wird gezeichnet, Zeiger springt auf 22 Uhr, darunter SONNTAG 22 UHR",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "In sechs Tagen ziehst du um. [6 Tage]",
+  "sek": 2.0,
+  "zeigt": "Kalenderblatt, große rote 6 wird geschrieben und eingekreist: UMZUG IN 6 TAGEN",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zeit",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Die Kisten stehen halb gepackt im Flur.",
+  "sek": 2.48,
+  "zeigt": "Hauptfigur läuft an halb gepackten Kisten im Flur vorbei",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "ort",
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du öffnest den Chat mit deinem besten Freund.",
+  "sek": 2.32,
+  "zeigt": "Großes Handy wird gezeichnet, oben im Chat steht BESTER FREUND",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du tippst: „Hast du Samstag Zeit?“ ...",
+  "sek": 2.66,
+  "zeigt": "Im Handy erscheint Buchstabe für Buchstabe: Hast du Samstag Zeit?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und dann löschst du es wieder.",
+  "sek": 1.92,
+  "zeigt": "Text im Handy wird rot gestrichen und verschwindet, Gesicht der Figur wird traurig",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen",
+   "gefuehl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Lieber schleppst du alles allein.",
+  "sek": 2.64,
+  "zeigt": "Hauptfigur allein unter einem wachsenden Turm aus Kisten, Wort ALLEIN",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "geschehen",
+   "gefuehl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Warum fällt uns eine Frage aus vier Wörtern so schwer?",
+  "sek": 3.84,
+  "zeigt": "Rote Pfeilschleife kreist immer schneller um den Kopf der Figur, großes Fragezeichen",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl",
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:schwer",
+  "kapitel": 0
+ },
+ {
+  "satz": "Obwohl wir selbst sofort Ja sagen würden?",
+  "sek": 2.72,
+  "zeigt": "Board teilt sich: links FRAGEN: SCHWER, rechts HELFEN: SOFORT JA",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "In diesem Video findest du sieben Gründe. [7 Gründe]",
+  "sek": 2.8,
+  "zeigt": "Sieben leere Kästchen erscheinen, Überschrift 7 GRÜNDE – zähl mit",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "frage:gruende",
+  "kapitel": 0
+ },
+ {
+  "satz": "Zähl mit, wie viele auf dich zutreffen.",
+  "sek": 2.16,
+  "zeigt": "Unter den Kästchen: ZÄHL MIT! Ein Stift setzt kurz an und wartet",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und am Ende bekommst du einen Satz, mit dem das Fragen viel leichter wird.",
+  "sek": 5.05,
+  "zeigt": "Abgedeckte, schraffierte Karte DER SATZ: ??? – Auflösung erst am Ende",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:satz",
+  "kapitel": 0
+ },
+ {
+  "satz": "(Kapitelkarte) Wir verrechnen uns",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 1: Nummer im Kreis, Titel „Wir verrechnen uns“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Fangen wir mit einem Experiment aus New York an.",
+  "sek": 2.96,
+  "zeigt": "Kamera fliegt zu einer Ortsmarke NEW YORK, darunter Hochhaus-Skyline",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "In einer Studie, die zweitausendacht erschien, schickten Francis Flynn und Vanessa Bohns [2008]",
+  "sek": 5.2,
+  "zeigt": "Karteikarte wird angeheftet: 2008 · Columbia University · Flynn & Bohns",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Studierende der Columbia University los.",
+  "sek": 2.85,
+  "zeigt": "Unter der Ortsmarke steht die Hauptfigur als Studentin mit Rucksack vor einem Campus-Tor",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "person",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Ihre Aufgabe: Fremde auf dem Campus um einen kleinen Gefallen bitten.",
+  "sek": 4.56,
+  "zeigt": "Hauptfigur als Studentin geht auf Fremde auf dem Campus zu, Sprechblase KURZ ZEIT?",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Zum Beispiel einen kurzen Fragebogen auszufüllen.",
+  "sek": 3.46,
+  "zeigt": "Ein Fragebogen mit Zeilen wird gezeichnet, Stift fliegt darüber",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Fünf Menschen mussten Ja sagen. [5]",
+  "sek": 2.4,
+  "zeigt": "Rote 5 wird groß geschrieben und eingekreist: 5 × JA nötig",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Vorher sollten die Studierenden schätzen: Wie viele Leute muss ich dafür ansprechen?",
+  "sek": 5.2,
+  "zeigt": "Kamera zoomt in eine Gedankenblase über der Figur: WIE VIELE MUSS ICH FRAGEN?",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl",
+   "zahl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Im Schnitt tippten sie auf rund zwanzig. [20]",
+  "sek": 2.8,
+  "zeigt": "In der Blase zählt ein Zähler hoch bis 20, rot eingekreist: GESCHÄTZT",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Und dann gingen sie los.",
+  "sek": 1.68,
+  "zeigt": "Kamera fährt zurück, die Hauptfigur läuft los über den Campus",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Tatsächlich brauchten sie im Schnitt nur etwa zehn. [10]",
+  "sek": 3.12,
+  "zeigt": "Zwei Balken: GESCHÄTZT 20 (grau) wächst, TATSÄCHLICH 10 (rot) bleibt halb so hoch",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "zahl",
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Also halb so viele wie gedacht.",
+  "sek": 2.54,
+  "zeigt": "Über dem roten Balken erscheint HALB SO VIELE! und wird unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Bei einer anderen Bitte ging es ums Handy.",
+  "sek": 2.72,
+  "zeigt": "Hauptfigur hält einer fremden Person ein Handy hin: DARF ICH KURZ TELEFONIEREN?",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Darf ich kurz telefonieren?",
+  "sek": 2.0,
+  "zeigt": "Sprechblase DARF ICH KURZ TELEFONIEREN? entsteht über der Hauptfigur",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Geschätzt: etwa zehn Leute. [10]",
+  "sek": 2.32,
+  "zeigt": "Balken GESCHÄTZT 10 wächst grau",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "zahl",
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Tatsächlich: etwa sechs. [6]",
+  "sek": 2.34,
+  "zeigt": "Roter Balken bleibt bei 6 stehen, die 6 wird groß eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Und dann die größte Bitte.",
+  "sek": 1.92,
+  "zeigt": "Kamera fährt weiter: DIE GRÖSSTE BITTE wird geschrieben und unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Bring mich bitte zur Sporthalle, ein paar Minuten zu Fuß.",
+  "sek": 3.84,
+  "zeigt": "Hauptfigur und eine fremde Person laufen gemeinsam zu einer gezeichneten Sporthalle",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Die Studierenden glaubten, sie müssten etwa sieben Menschen fragen, bis einer mitkommt. [7]",
+  "sek": 5.05,
+  "zeigt": "Sieben Figuren stehen in einer Reihe, darüber GESCHÄTZT: 7",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "zahl",
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "In Wahrheit reichten im Schnitt gut zwei Anfragen. [2]",
+  "sek": 3.68,
+  "zeigt": "Nur die ersten zwei Figuren werden rot eingekreist: ECHT: GUT 2",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Die Forscher fassen es so zusammen: Wir unterschätzen die [50 Prozent]",
+  "sek": 3.52,
+  "zeigt": "Große rote Zahl BIS ZU 50 % wird geschrieben und eingekreist: unterschätzt",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Hilfsbereitschaft anderer um bis zu fünfzig Prozent.",
+  "sek": 4.18,
+  "zeigt": "Unter der Zahl erscheint HILFSBEREITSCHAFT UNTERSCHÄTZT und wird unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Grund Nummer eins ist also ganz schlicht:",
+  "sek": 2.48,
+  "zeigt": "Rückkehr zum Hook: sieben Kästchen, Kästchen 1 wird rot abgehakt, Figur mit Kisten",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:gruende",
+  "kapitel": 1
+ },
+ {
+  "satz": "Wir rechnen mit einem Nein, das meistens gar nicht kommt.",
+  "sek": 3.76,
+  "zeigt": "Satz DIE SAGEN EH NEIN wird geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Aber warum verschätzen wir uns so stark?",
+  "sek": 3.22,
+  "zeigt": "Fragezeichen-Schleife kreist um den Kopf der Hauptfigur",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:verschaetzen",
+  "kapitel": 1
+ },
+ {
+  "satz": "(Kapitelkarte) Ein Nein ist teuer",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 2: Nummer im Kreis, Titel „Ein Nein ist teuer“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die Antwort steckt im Moment der Bitte selbst.",
+  "sek": 2.88,
+  "zeigt": "Hauptfigur steht vor einer fremden Person, zwischen ihnen ein leerer Sprechraum",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:verschaetzen",
+  "kapitel": 2
+ },
+ {
+  "satz": "Wenn du dir vorstellst, jemanden zu fragen, denkst du vor allem an eines: an den Aufwand für die andere Person.",
+  "sek": 6.88,
+  "zeigt": "Zoom in die Gedankenblase der Hauptfigur: drinnen eine Waagschale AUFWAND",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl",
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Zehn Minuten Fragebogen. [10 Minuten]",
+  "sek": 1.92,
+  "zeigt": "In der Blase: Fragebogen, daneben 10 MIN. in Handschrift eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Ein Umweg zur Sporthalle.",
+  "sek": 1.84,
+  "zeigt": "In der Blase: kleine Sporthalle mit Umweg-Pfeil",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Den Samstag beim Umzug.",
+  "sek": 2.11,
+  "zeigt": "In der Blase: zwei Umzugskisten, SAMSTAG darüber",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Was du dabei vergisst: Wie unangenehm es ist, Nein zu sagen.",
+  "sek": 4.56,
+  "zeigt": "Kamera zieht zurück, unter der Blase steht in Rot: WAS FEHLT?",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:fehlt",
+  "kapitel": 2
+ },
+ {
+  "satz": "Stell dir die Szene von der anderen Seite vor.",
+  "sek": 2.64,
+  "zeigt": "Board dreht die Rollen: jetzt wird die Hauptfigur gefragt, sie steht rechts",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Jemand steht vor dir, schaut dich an und fragt freundlich.",
+  "sek": 3.76,
+  "zeigt": "Eine fremde Person läuft auf die Hauptfigur zu und fragt freundlich",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Ein Nein fühlt sich da plötzlich kalt an.",
+  "sek": 3.05,
+  "zeigt": "Regler zwischen JA und NEIN: Die Nadel will zu NEIN, schlägt zurück, NEIN wird eiskalt blau umrandet",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Peinlich. Fast schon unhöflich.",
+  "sek": 2.96,
+  "zeigt": "Neben dem Regler poppen PEINLICH und UNHÖFLICH in Rot auf",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Genau das fanden Flynn und Bohns heraus.",
+  "sek": 3.12,
+  "zeigt": "Karteikarte FLYNN & BOHNS · 2008 · NEW YORK wird erneut angeheftet",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die Bittenden dachten an die Kosten der Hilfe.",
+  "sek": 2.88,
+  "zeigt": "Board teilt sich: links BITTENDE DENKEN: AUFWAND, rechts VERGESSEN: DRUCK BEIM NEIN",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "erklaerung",
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:fehlt",
+  "kapitel": 2
+ },
+ {
+  "satz": "Aber sie vergaßen den Druck, den ein Nein auslöst.",
+  "sek": 3.52,
+  "zeigt": "Rechts wächst ein schwerer Stein NEIN über einer gefragten Figur",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Und deshalb sagen viel mehr Menschen Ja, als wir glauben.",
+  "sek": 4.0,
+  "zeigt": "Kette: BITTE → NEIN FÄLLT SCHWER → JA, mit Pfeilen",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Grund Nummer zwei: Wir sehen nur den Aufwand, nicht das unangenehme Nein.",
+  "sek": 5.6,
+  "zeigt": "Sieben Kästchen kehren zurück, Kästchen 2 wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Doch selbst wenn wir wüssten, dass die anderen Ja sagen – viele würden trotzdem nicht fragen.",
+  "sek": 5.52,
+  "zeigt": "Hauptfigur weiß: Die sagen Ja – trotzdem kreist die Schleife weiter",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:k2",
+  "kapitel": 2
+ },
+ {
+  "satz": "Denn da ist noch etwas anderes.",
+  "sek": 2.72,
+  "zeigt": "Abgedeckte Karte mit Fragezeichen: DA IST NOCH ETWAS",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "(Kapitelkarte) Die Angst, schwach zu wirken",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 3: Nummer im Kreis, Titel „Die Angst, schwach zu wirken“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Viele Menschen haben ein Bild im Kopf.",
+  "sek": 2.08,
+  "zeigt": "Kopfprofil, Zoom in den Kopf: drinnen hebt die Figur allein eine schwere Hantel",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:k2",
+  "kapitel": 3
+ },
+ {
+  "satz": "Wer um Hilfe bittet, gibt zu: Ich schaffe es nicht allein.",
+  "sek": 3.84,
+  "zeigt": "Satz ICH SCHAFFE ES NICHT ALLEIN wird neben den Kopf geschrieben, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Die Psychologen Arie Nadler und Jeffrey Fisher beschrieben das schon in den Achtzigern.",
+  "sek": 5.31,
+  "zeigt": "Karteikarte 1980er · Nadler & Fisher · Theorie wird angeheftet",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "person",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Hilfe kann sich wie ein Angriff auf den eigenen Selbstwert anfühlen.",
+  "sek": 4.24,
+  "zeigt": "Pfeil HILFE trifft ein gezeichnetes Herz SELBSTWERT, das Herz bekommt einen Riss",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Sie sagt scheinbar: Du bist nicht stark genug.",
+  "sek": 3.12,
+  "zeigt": "Hauptfigur sackt zusammen, Sprechblase DU BIST NICHT STARK GENUG",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Besonders dann, wenn uns eine Sache wichtig ist. Bei der Arbeit.",
+  "sek": 3.82,
+  "zeigt": "Drei Bereiche werden gezeichnet: Laptop ARBEIT, Schulhaus SCHULE, Pokal STOLZ",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "In der Schule.",
+  "sek": 1.04,
+  "zeigt": "Ein Schulhaus wird neben den Laptop gezeichnet: SCHULE",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Bei allem, worauf wir stolz sind.",
+  "sek": 2.64,
+  "zeigt": "Ein Pokal entsteht, daneben STOLZ – das, was uns wichtig ist",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Grund Nummer drei ist also die Sorge um unser Bild.",
+  "sek": 3.44,
+  "zeigt": "Kästchen 3 wird rot abgehakt, Mini-Figur mit Kisten",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Aber ist diese Sorge berechtigt?",
+  "sek": 2.27,
+  "zeigt": "FRAGEN = SCHWACH? wird groß geschrieben, Fragezeichen rot",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:schwach",
+  "kapitel": 3
+ },
+ {
+  "satz": "Forschende um Alison Wood Brooks von der Harvard Business School haben genau das getestet.",
+  "sek": 5.84,
+  "zeigt": "Karteikarte 2015 · Harvard Business School · Brooks u. a.",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "person",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Was denken andere über jemanden, der sie um Rat fragt?",
+  "sek": 3.72,
+  "zeigt": "Hauptfigur fragt eine Person um Rat, eine dritte Figur beobachtet mit Gedankenblase",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Das Ergebnis überrascht.",
+  "sek": 1.76,
+  "zeigt": "Regler KOMPETENZ über dem Beobachter, Nadel zittert in der Mitte",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Wer um Rat bittet, wirkt im Schnitt nicht dümmer – sondern kompetenter.",
+  "sek": 4.96,
+  "zeigt": "DÜMMER wird geschrieben und rot gestrichen, daneben KOMPETENTER in Grün, Nadel schlägt hoch",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:schwach",
+  "kapitel": 3
+ },
+ {
+  "satz": "Vor allem bei schwierigen Aufgaben.",
+  "sek": 2.32,
+  "zeigt": "Ein steiler Berg wird gezeichnet: SCHWIERIGE AUFGABE",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Und vor allem, wenn man genau die Person fragt, die es beurteilt.",
+  "sek": 4.4,
+  "zeigt": "Pfeil von der Hauptfigur genau zur bewertenden Person: DICH",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Die Forschenden vermuten: Wer dich um Rat fragt, sagt dir indirekt: Ich halte dich für klug.",
+  "sek": 6.71,
+  "zeigt": "Zoom in den Kopf der gefragten Person: Glühbirne und ICH BIN KLUG",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Die Angst, schwach zu wirken, ist also oft unbegründet.",
+  "sek": 3.76,
+  "zeigt": "Hauptfigur richtet sich auf, Arme hoch, ANGST UNBEGRÜNDET",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Und es gibt noch etwas, das wir falsch einschätzen. Nämlich, wie sich Helfen anfühlt.",
+  "sek": 6.21,
+  "zeigt": "Abgedeckte Karte mit Herz-Umriss und WIE FÜHLT SICH HELFEN AN?",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:helfen",
+  "kapitel": 3
+ },
+ {
+  "satz": "(Kapitelkarte) Helfen macht glücklich",
+  "sek": 4.86,
+  "zeigt": "Kapitelkarte 4: Nummer im Kreis, Titel „Helfen macht glücklich“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Zweitausendzweiundzwanzig erscheint eine Studie von Xuan Zhao aus Stanford und Nicholas Epley aus Chicago. [2022]",
+  "sek": 6.96,
+  "zeigt": "Karteikarte 2022 · Stanford & Chicago · Zhao & Epley",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "In einem Experiment geht es in einen botanischen Garten.",
+  "sek": 3.28,
+  "zeigt": "Kamera fährt in einen gezeichneten botanischen Garten mit Bäumen und Blumen, Ortsmarke",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Besucher sollen Fremde bitten, ein Foto von ihnen zu machen.",
+  "sek": 3.55,
+  "zeigt": "Hauptfigur reicht einer fremden Person ihre Kamera: MACHST DU EIN FOTO?",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Vorher schätzen sie: Wie gern hilft mir die Person? Wie lästig ist es für sie?",
+  "sek": 5.04,
+  "zeigt": "Zoom in die Blase der Hauptfigur: IST DAS LÄSTIG FÜR SIE?",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Danach werden die Helfer selbst gefragt.",
+  "sek": 2.56,
+  "zeigt": "Die helfende Person bekommt einen Fragebogen und kreuzt an",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Auf einer Skala von null bis zehn. [0 bis 10]",
+  "sek": 2.08,
+  "zeigt": "Skala von 0 bis 10 wird gezogen, LÄSTIG darüber",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Die Bittenden glaubten, die Bitte sei etwas lästig: im Schnitt etwa drei Punkte. Die Helfer selbst? [3]",
+  "sek": 5.96,
+  "zeigt": "Blauer Marker gleitet auf 3: ERWARTET ≈ 3 PUNKTE",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Nur ein halber Punkt. [0,5]",
+  "sek": 1.44,
+  "zeigt": "Roter Marker rutscht ganz nach links auf 0,5 und wird eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Fast gar nicht lästig.",
+  "sek": 1.44,
+  "zeigt": "Die helfende Figur zuckt lächelnd die Schultern, Arme hoch",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Und die Helfer fühlten sich danach sogar besser, als die Bittenden erwartet hatten.",
+  "sek": 4.56,
+  "zeigt": "Zwei Balken GUTE STIMMUNG: erwartet niedriger, tatsächlich höher",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:helfen",
+  "kapitel": 4
+ },
+ {
+  "satz": "Über sechs Experimente mit über zweitausend Menschen zeigt sich das gleiche Muster. [6 Experimente 2000]",
+  "sek": 4.96,
+  "zeigt": "100 Mini-Figuren füllen das Board: 6 EXPERIMENTE · ÜBER 2.000 MENSCHEN",
+  "animation": "100 Figuren",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Wir unterschätzen, wie gern andere helfen. Und wie gut es sich für sie anfühlt.",
+  "sek": 4.73,
+  "zeigt": "Figuren verbinden sich mit Linien, die Linien werden dicker",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Grund Nummer vier:",
+  "sek": 1.36,
+  "zeigt": "Kästchen 4 wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Wir denken, wir sind eine Last.",
+  "sek": 1.84,
+  "zeigt": "Hauptfigur trägt einen großen Stein LAST",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Dabei schenken wir anderen oft einen kleinen guten Moment.",
+  "sek": 3.52,
+  "zeigt": "Der Stein schrumpft und wird zu einem roten Herz, das an die andere Figur geht",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Klingt fast zu schön. Aber es gibt auch die andere Seite.",
+  "sek": 4.59,
+  "zeigt": "Ein Spiegel-Umriss mit Fragezeichen: DIE ANDERE SEITE?",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:seite",
+  "kapitel": 4
+ },
+ {
+  "satz": "(Kapitelkarte) Der Spiegel",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 5: Nummer im Kreis, Titel „Der Spiegel“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Denn auch Helfer verschätzen sich. Nur genau andersherum.",
+  "sek": 3.52,
+  "zeigt": "Board teilt sich wie ein Spiegel: links BITTENDE, rechts HELFER",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:seite",
+  "kapitel": 5
+ },
+ {
+  "satz": "In einer Studie von zweitausendzehn befragten Bohns und Flynn Studierende, [2010]",
+  "sek": 4.56,
+  "zeigt": "Karteikarte 2010 · Bohns & Flynn · Mentoren & Tutoren",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "die anderen als Mentoren oder Tutoren halfen.",
+  "sek": 3.12,
+  "zeigt": "Eine Mentor-Figur erklärt einer Studentin etwas an einer kleinen Tafel",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Zu Beginn des Semesters schätzten sie: Wie viele Studierende werden mich um Hilfe bitten?",
+  "sek": 5.18,
+  "zeigt": "Ein Semester-Zeitstrahl, kleine Uhr in der Ecke, Start markiert",
+  "animation": "Studie im Zeitraffer",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Die Mentoren rechneten mit knapp dreizehn Anfragen. [13]",
+  "sek": 3.2,
+  "zeigt": "Über dem Zeitstrahl erscheint ERWARTET ≈ 13, eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Tatsächlich kamen nicht einmal acht. [8]",
+  "sek": 2.08,
+  "zeigt": "Balken ERWARTET 13 und ECHT UNTER 8 wachsen nebeneinander",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "zahl",
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Die Helfer unterschätzten also, wie schwer den anderen das Fragen fällt.",
+  "sek": 3.93,
+  "zeigt": "Rechts trägt eine bittende Figur einen schweren Stein FRAGEN",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "gefuehl",
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Sie dachten: Wenn jemand Hilfe braucht, meldet er sich doch einfach.",
+  "sek": 4.08,
+  "zeigt": "Helfer mit Sprechblase DER MELDET SICH SCHON",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Das heißt: Auf beiden Seiten stehen Menschen, die helfen würden.",
+  "sek": 3.6,
+  "zeigt": "Links und rechts je eine Gruppe verbundener Figuren, in der Mitte keine Verbindung",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Aber in der Mitte bleibt eine Lücke.",
+  "sek": 2.16,
+  "zeigt": "In der Mitte wird eine rote gestrichelte Lücke gezogen: DIE LÜCKE",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Der eine traut sich nicht zu fragen.",
+  "sek": 2.24,
+  "zeigt": "Linke Figur senkt den Kopf, Sprechblase bleibt leer",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Der andere merkt nicht, dass er gebraucht wird.",
+  "sek": 2.82,
+  "zeigt": "Rechte Figur schaut weg, kleines zzz über dem Kopf",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Grund Nummer fünf: Niemand sieht die Lücke.",
+  "sek": 3.12,
+  "zeigt": "Kästchen 5 wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Und wie groß sie ist, hängt sogar davon ab, wo auf der Welt du lebst.",
+  "sek": 5.07,
+  "zeigt": "Kamera fährt zu einer gezeichneten Weltkugel mit Fragezeichen",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:welt",
+  "kapitel": 5
+ },
+ {
+  "satz": "(Kapitelkarte) Eine Frage der Kultur",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 6: Nummer im Kreis, Titel „Eine Frage der Kultur“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Zweitausendvier. [2004]",
+  "sek": 1.36,
+  "zeigt": "Karteikarte 2004 · Taylor u. a. · Kalifornien & Seoul",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:welt",
+  "kapitel": 6
+ },
+ {
+  "satz": "Die Psychologin Shelley Taylor und ihr Team vergleichen Studierende in Kalifornien und in",
+  "sek": 5.44,
+  "zeigt": "Weltkugel: Ortsmarke KALIFORNIEN links, Bogen über den Pazifik zu SEOUL rechts",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Seoul, Südkorea.",
+  "sek": 1.68,
+  "zeigt": "Die Ortsmarke SEOUL wird rechts gesetzt, die Kamera rückt ein Stück nach",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Die Frage: Was tust du, wenn du Stress hast?",
+  "sek": 3.06,
+  "zeigt": "Gestresste Figur, Schleife um den Kopf, Frage WAS TUST DU BEI STRESS?",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Bei den europäischstämmigen Amerikanern nannten etwa siebenundfünfzig Prozent: Ich hole mir Unterstützung. [57 Prozent]",
+  "sek": 6.72,
+  "zeigt": "100 Mini-Figuren, 57 werden rot: holen sich Unterstützung",
+  "animation": "100 Figuren",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Bei den Koreanern nur etwa neununddreißig Prozent. [39 Prozent]",
+  "sek": 3.41,
+  "zeigt": "Zwei Balken: USA 57 %, Korea 39 % – der zweite bleibt deutlich kleiner",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "zahl",
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Warum?",
+  "sek": 1.12,
+  "zeigt": "Riesiges rotes WARUM? neben dem Diagramm",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:warum6",
+  "kapitel": 6
+ },
+ {
+  "satz": "Eine weitere Studie in den USA zeigt: Studierende mit asiatischen Wurzeln",
+  "sek": 5.36,
+  "zeigt": "Kleine Karteikarte STUDIE 3 · USA · Studierende mit asiatischen Wurzeln",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "sorgten sich stärker um ihre Beziehungen.",
+  "sek": 2.48,
+  "zeigt": "Unter der Karte: eine Figur mit Sorgen-Schleife um den Kopf: BEZIEHUNGEN",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Sie wollten die Harmonie nicht stören.",
+  "sek": 2.16,
+  "zeigt": "Figuren im Kreis verbunden, ein Faden zittert: HARMONIE",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:warum6",
+  "kapitel": 6
+ },
+ {
+  "satz": "Sie fürchteten Kritik.",
+  "sek": 1.75,
+  "zeigt": "Rote Sprechblase KRITIK fliegt auf die Gruppe zu",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Und sie wollten ihr Gesicht nicht verlieren.",
+  "sek": 2.8,
+  "zeigt": "Eine Figur hält sich die Hand vors Gesicht: GESICHT WAHREN",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Das heißt aber nicht, dass sie allein bleiben.",
+  "sek": 2.64,
+  "zeigt": "Board teilt sich: links LAUT FRAGEN, rechts STILL DA SEIN",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "In späteren Arbeiten beschreiben Taylor und ihre Kollegen eine zweite Form: stille Unterstützung.",
+  "sek": 6.4,
+  "zeigt": "Rechts erscheint STILLE UNTERSTÜTZUNG, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Man verbringt Zeit mit vertrauten Menschen, ohne über das Problem zu reden.",
+  "sek": 4.58,
+  "zeigt": "Hauptfigur sitzt mit einer Freundin auf dem Sofa, keine Sprechblasen",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Und das hilft auch.",
+  "sek": 1.76,
+  "zeigt": "Zwischen den beiden wächst ein Herz aus der Stille",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Grund Nummer sechs: Wo du aufwächst, prägt, ob Fragen sich normal anfühlt.",
+  "sek": 5.68,
+  "zeigt": "Kästchen 6 wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Und auch dein Umfeld bringt dir bei, was als stark gilt.",
+  "sek": 4.04,
+  "zeigt": "STARK = ? wird geschrieben, abgedeckte Karte daneben",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:stark",
+  "kapitel": 6
+ },
+ {
+  "satz": "(Kapitelkarte) Ungefragt vs. erbeten",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 7: Nummer im Kreis, Titel „Ungefragt vs. erbeten“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Viele Jungen lernen früh: Ein richtiger Mann regelt das allein.",
+  "sek": 4.4,
+  "zeigt": "Lebens-Zeitstrahl: kleiner Junge wächst zum Mann, Sprechblase REGEL DAS ALLEIN!",
+  "animation": "Zeitstrahl Leben",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:stark",
+  "kapitel": 7
+ },
+ {
+  "satz": "Die Psychologen Michael Addis und James Mahalik beschreiben, wie solche Normen das Hilfesuchen bremsen.",
+  "sek": 6.49,
+  "zeigt": "Karteikarte 2003 · Addis & Mahalik · Übersicht",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Vor allem, wenn ein Problem als peinlich gilt.",
+  "sek": 3.12,
+  "zeigt": "Rechts: PEINLICH? wird groß geschrieben und unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Oder wenn man glaubt, dass alle anderen es allein schaffen.",
+  "sek": 3.6,
+  "zeigt": "Viele Mini-Figuren, alle scheinbar allein – nur Fassade",
+  "animation": "100 Figuren",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Aber jetzt kommt eine Wendung.",
+  "sek": 1.86,
+  "zeigt": "Board wird still, dann WENDUNG in Rot, doppelt unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:wendung",
+  "kapitel": 7
+ },
+ {
+  "satz": "Die Angst vor Hilfe hat einen wahren Kern.",
+  "sek": 3.04,
+  "zeigt": "Zoom in einen Kopf: dort liegt ein kleiner wahrer Kern, rot umkreist",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "In den Niederlanden zeigten Forschende im Jahr zweitausenddrei: [2003]",
+  "sek": 3.92,
+  "zeigt": "Karteikarte 2003 · Niederlande · 48 Zeitarbeitskräfte",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:wendung",
+  "kapitel": 7
+ },
+ {
+  "satz": "Wenn man Menschen Hilfe aufdrängt, um die sie nicht gebeten haben, reagieren sie eher negativ.",
+  "sek": 6.03,
+  "zeigt": "Eine Figur rennt herbei und reißt der Hauptfigur ungefragt die Kiste aus der Hand",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Ungefragte Hilfe kann sich wie eine Bevormundung anfühlen.",
+  "sek": 4.0,
+  "zeigt": "Wort BEVORMUNDUNG erscheint groß, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Vielleicht übertragen wir diese Erfahrung auf jede Bitte.",
+  "sek": 3.6,
+  "zeigt": "Kette: AUFGEDRÄNGT → MIESES GEFÜHL → JEDE BITTE?",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Dabei ist es ein riesiger Unterschied.",
+  "sek": 2.32,
+  "zeigt": "Board teilt sich: links AUFGEDRÄNGT (rot), rechts ERBETEN (grün)",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Wer selbst fragt, behält die Kontrolle.",
+  "sek": 2.64,
+  "zeigt": "Rechts Regler KONTROLLE, Nadel schlägt nach oben aus",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Du entscheidest, wobei du Hilfe willst. Und wie viel.",
+  "sek": 3.65,
+  "zeigt": "Links: Hauptfigur zeigt auf eine Kiste – WOBEI und WIE VIEL",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Grund Nummer sieben: Wir verwechseln aufgedrängte Hilfe mit erbetener Hilfe.",
+  "sek": 5.28,
+  "zeigt": "Alle sieben Kästchen sind abgehakt, die Mini-Figur lächelt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:gruende",
+  "kapitel": 7
+ },
+ {
+  "satz": "Bleibt die Frage: Wie fragt man so, dass es sich gut anfühlt?",
+  "sek": 4.97,
+  "zeigt": "Schleife um die Hauptfigur, Frage WIE FRAGT MAN GUT?",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:wie",
+  "kapitel": 7
+ },
+ {
+  "satz": "(Kapitelkarte) So wird Fragen leichter",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 8: Nummer im Kreis, Titel „So wird Fragen leichter“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Benjamin Franklin hatte im achtzehnten Jahrhundert einen Gegner im Parlament von Pennsylvania.",
+  "sek": 5.2,
+  "zeigt": "Zeitstrahl mit Marke 18. JAHRHUNDERT, gezeichnete Figur mit Dreispitz im Parlament",
+  "animation": "Zeitstrahl Leben",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Statt ihm zu schmeicheln, bat er ihn um einen Gefallen.",
+  "sek": 3.36,
+  "zeigt": "Franklin streckt die Hand aus, Sprechblase EINE BITTE …",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Er wollte sich ein seltenes Buch ausleihen.",
+  "sek": 2.48,
+  "zeigt": "Ein altes, seltenes Buch wird gezeichnet",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Der Gegner lieh es ihm.",
+  "sek": 1.52,
+  "zeigt": "Der Gegner läuft mit dem Buch zu Franklin hinüber",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und laut Franklin wurden die beiden danach Freunde, ein Leben lang.",
+  "sek": 4.42,
+  "zeigt": "Zwischen beiden entsteht eine dicke Verbindungslinie, ein Herz: FREUNDE, EIN LEBEN LANG",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Eine kleine Studie aus dem Jahr neunzehnhundertneunundsechzig passt dazu: [1969]",
+  "sek": 4.4,
+  "zeigt": "Karteikarte 1969 · Jecker & Landy · kleine Studie",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Wer vom Versuchsleiter persönlich gebeten wurde, gewonnenes Geld zurückzugeben, mochte ihn danach mehr.",
+  "sek": 6.57,
+  "zeigt": "Teilnehmer gibt dem Versuchsleiter Münzen zurück, danach steigt ein Herz auf",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Vielleicht verbindet uns eine Bitte also eher, statt uns zu belasten.",
+  "sek": 4.4,
+  "zeigt": "Der Pfeil BITTE biegt sich und wird zu einem Band zwischen zwei Figuren",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Was heißt das für dich? [3]",
+  "sek": 1.76,
+  "zeigt": "Große 3 wird geschrieben und eingekreist: 3 TIPPS",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:wie",
+  "kapitel": 8
+ },
+ {
+  "satz": "Erstens: Frag direkt und konkret. Nicht: Hat jemand mal Zeit?",
+  "sek": 4.96,
+  "zeigt": "HAT JEMAND MAL ZEIT? wird geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Sondern: Kannst du mir Samstag zwei Stunden beim Tragen helfen? [2 Stunden]",
+  "sek": 4.1,
+  "zeigt": "Darunter in Grün: SAMSTAG, 2 STUNDEN TRAGEN? – die 2 wird eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Zweitens: Frag lieber persönlich als in einer Gruppe. Dann fühlt sich die Person wirklich gemeint.",
+  "sek": 6.56,
+  "zeigt": "Board teilt sich: links Gruppenchat mit vielen Köpfen (gestrichen), rechts zwei Figuren persönlich (Haken)",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Drittens: Sag danach Danke.",
+  "sek": 2.53,
+  "zeigt": "Hauptfigur sagt DANKE!, ein Herz fliegt zur helfenden Figur",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und erzähl, was die Hilfe gebracht hat.",
+  "sek": 2.56,
+  "zeigt": "Kette: HILFE → KISTEN STEHEN → FREUDE beim Helfer",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und hier ist der Satz, den ich dir versprochen habe:",
+  "sek": 2.96,
+  "zeigt": "Die abgedeckte Karte aus dem Anfang kehrt zurück, die Schraffur wird weggewischt",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:satz",
+  "kapitel": 8
+ },
+ {
+  "satz": "Kannst du mir bei etwas helfen?",
+  "sek": 2.16,
+  "zeigt": "Auf der Karte entsteht: KANNST DU MIR BEI ETWAS HELFEN?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und ganz ehrlich, es ist völlig okay, wenn es gerade nicht passt.",
+  "sek": 3.92,
+  "zeigt": "Zweite Zeile in Rot: ES IST VÖLLIG OKAY, WENN ES GERADE NICHT PASST.“",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Damit wird das Nein leicht.",
+  "sek": 1.92,
+  "zeigt": "Regler NEIN wird leicht: Nadel locker in der Mitte",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und genau deshalb fällt das Ja noch leichter.",
+  "sek": 4.29,
+  "zeigt": "Freund reißt die Arme hoch: KLAR!, beide tragen gemeinsam eine Kiste",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen",
+   "gefuehl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Menschen, die nie um Hilfe bitten, sind also nicht schwach oder stur.",
+  "sek": 3.92,
+  "zeigt": "SCHWACH und STUR werden geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:schwer",
+  "kapitel": 9
+ },
+ {
+  "satz": "Sie verrechnen sich.",
+  "sek": 1.52,
+  "zeigt": "Großes Wort SIE VERRECHNEN SICH, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:warum",
+  "kapitel": 9
+ },
+ {
+  "satz": "Sie überschätzen das Nein, unterschätzen die Freude am Helfen und verwechseln eine Bitte mit einer Schwäche.",
+  "sek": 6.82,
+  "zeigt": "Drei Stationen: NEIN ÜBERSCHÄTZT → FREUDE UNTERSCHÄTZT → BITTE ≠ SCHWÄCHE",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Und noch etwas: Wenn es um mehr geht als einen Umzug –",
+  "sek": 4.0,
+  "zeigt": "Hauptfigur sitzt still, ein großer grauer Stein liegt auf ihr: LÄNGER NICHT GUT",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "wenn es dir länger nicht gut geht – dann ist Fragen besonders wichtig.",
+  "sek": 4.16,
+  "zeigt": "Der Stein wird schwerer, die Hauptfigur sinkt tiefer, LÄNGER NICHT GUT in Grau",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Dafür gibt es Menschen, deren Beruf genau das ist.",
+  "sek": 3.8,
+  "zeigt": "Telefon mit Herz und HILFE HOLEN IST STARK, Hinweis auf Beratung in der Beschreibung",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Jetzt bin ich neugierig.",
+  "sek": 1.92,
+  "zeigt": "Großes Kommentarfeld wird gezeichnet, Stift blinkt darin",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Wann hast du zuletzt um Hilfe gebeten – und wie hat die andere Person reagiert?",
+  "sek": 5.04,
+  "zeigt": "Im Kommentarfeld erscheint: WANN HAST DU ZULETZT UM HILFE GEBETEN?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Schreib es in die Kommentare.",
+  "sek": 2.0,
+  "zeigt": "SCHREIB'S IN DIE KOMMENTARE! unter dem Feld, unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Und wie viele der sieben Gründe treffen auf dich zu? [7]",
+  "sek": 3.45,
+  "zeigt": "Rechts oben: ? / 7 in Handschrift, eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Abonniere Denkmuster und aktiviere die Glocke.",
+  "sek": 2.96,
+  "zeigt": "DENKMUSTER-Schriftzug, Hauptfigur winkt, eine Glocke wird gezeichnet und klingelt",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Dann verpasst du nicht, warum Menschen tun, was sie tun.",
+  "sek": 3.44,
+  "zeigt": "Unter dem Schriftzug: WARUM MENSCHEN TUN, WAS SIE TUN",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Bis zum nächsten Mal.",
+  "sek": 3.41,
+  "zeigt": "Kamera fährt weit zurück: das ganze Schluss-Board als ein Bild",
+  "animation": "Board-Panorama",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "stimmung",
+  "neugier": "",
+  "kapitel": 9
+ }
+]

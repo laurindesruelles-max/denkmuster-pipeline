@@ -35,7 +35,7 @@ KANAL = {
 }
 
 JAHR = re.compile(r"\b(1[0-9]{3}|20[0-9]{2})\b")
-UHR = re.compile(r"\b\d{1,2}[:.]\d{2}\s*(Uhr)?\b|\b\d{1,2}\s*Uhr\b|\b(a\.?m\.?|p\.?m\.?)\b", re.I)
+UHR = re.compile(r"\b\d{1,2}[:.]\d{2}\s*(Uhr)?\b|\b\d{1,2}\s*Uhr\b|\b\d{1,2}\s*(a\.?m\.?|p\.?m\.?)(?!\w)", re.I)
 ZAHL = re.compile(r"\b\d[\d.,]*\s*(%|Prozent|percent|Millionen|Milliarden|million|billion|Tonnen|tons|km|Meter|meters|Euro|€|\$|Dollar|Grad|Mikrometer|Jahre|years|Tage|days|Stunden|hours|Minuten|minutes)\b", re.I)
 
 

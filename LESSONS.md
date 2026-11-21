@@ -23,6 +23,7 @@
 |---|---|---|---|---|---|
 | 001 | 17.11.2026 | Menschen, die gern allein sind, haben diese seltene Eigenschaft | >8 Min. | – | öffentlich |
 | 002 | 18.11.2026 | Warum das Warten auf GTA 6 schöner sein kann als das Spiel (https://www.youtube.com/watch?v=v4u2cwV5TzM) | 11:58 | ~50 | öffentlich |
+| 003 | 21.11.2026 | Warum Menschen, die nie um Hilfe bitten, sich so oft irren | 10:30 | ~29 | Entwurf (wartet auf Laurins Ja) |
 
 ## Ton & Musik mit audiokit (Laurin 18.11.2026)
 Problem: Soundeffekte oft unpassend/billig, Musik zu gleichförmig – Laurin schaut die eigenen Videos nicht zu Ende. vidIQ-Auswertung 18.11.: größter Absprung in den ersten ~30 s; Musik läuft 1,5–3 Min. gleich durch, kein Spannungsaufbau vor Enthüllungen; Passagen von 25–60 s ohne neuen Reiz.
@@ -50,3 +51,14 @@ Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ)
 - **Reihenfolge bei der Sound-Wahl:** 1. eigene assets/sfx (abgenommen) → 2. Bibliothek (`import bibliothek as BIB; BIB.pick("denkmuster", "whoosh", seed=<video-ordner>)`, `BIB.suche("auto")`) → 3. Hugging Face/SFXMint nur, wenn nichts passt.
 - `seed` = Video-Ordner: so wechseln die Sounds von Video zu Video, ohne dass es zufällig klingt. Alle Bibliotheks-Sounds sind geprüft (audit.py), Memes/geschützte/kommerzielle Sounds sind aussortiert.
 - Nie Effekte aus fremden Kanal-Ordnern nehmen; `reserve/` nur nach Rückfrage bei Laurin.
+
+## Video 003 (21.11.2026)
+- Laurin 21.11.2026: Bei Widerspruch zwischen geplantem Task („direkt öffentlich“) und HANDWERK.md („nur nach Laurins Ja“) → erst Entwurf, Laurin gibt frei.
+- Neu: `engine/bausteine.py` mit den ANIMATION.md-Bausteinen (Karteikarte, Zahl in Handschrift, Mythos durchstreichen, Schlüsselwort, laufende Figur, Gedankenschleife, Gewicht, Netz, Zwei Wege, Tagesuhr, 100 Figuren, Kette, Skala, Ortsmarke).
+- Bild-Drehbuch direkt aus scenes.py erzeugen: jede Einstellung mit `S(k, "Stichwort", Animation, zeigt, …)` setzen, `python3 scenes.py --drehbuch` schreibt bilddrehbuch.json (spart doppelte Arbeit, Zeiten stimmen exakt).
+- Achtung `from kit import *` überschreibt eine eigene Variable `HERE` → im Videoordner `v.dir` nehmen.
+- bilddrehbuch.py: „am/pm“-Regex meldete jedes deutsche „am“ als Uhrzeit → nur noch mit Ziffer davor (in den anderen Kanal-Repos genauso korrigieren).
+- Farbregel streng: Blau/Orange nur an der Hauptfigur → Labels INK, Betonung RED (icons-Defaults wie check/bell/bulb/coin/building überschreiben).
+- kit.py-Endmix landete bei True Peak +0,1 dBTP → danach zweistufig loudnorm I=−14/TP=−2 (Ergebnis −14,5 LUFS, −2,4 dBTP).
+- Goldsmith-Sounds (paper_slide, sub_drop, slap) aus EFFEKTE.md durften aus der Sandbox nicht kopiert werden (Zugriff verweigert) → stattdessen eigene Sounds (stift_klick beim Durchstreichen, pop beim Einkreisen). Laurin: bitte diese drei Sounds in assets/sfx übernehmen, wenn sie für Denkmuster gelten sollen.
+- Kosten: 10 Kapitel Helena = 27,6 Credits, Thumbnail 1,5 → ~29 Credits.
