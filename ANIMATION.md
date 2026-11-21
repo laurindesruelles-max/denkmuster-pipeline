@@ -12,9 +12,9 @@ Ergänzt `EFFEKTE.md` (abgenommener Kern-Katalog) um alles, was zur Nische passt
 | Animation | Was passiert | Wann | Genauigkeit | Werkzeug | Status |
 | --- | --- | --- | --- | --- | --- |
 | Figur bewegt sich | Die Hauptfigur läuft, dreht sich weg, gestikuliert – gezeichnete Gelenkfigur statt Standbild | durchgehend, Handlung | exakt (Geschehen) | wb.py + 2D-Rig | bauen |
-| 100 Figuren | 100 Strichmännchen, der genaue Anteil färbt sich orange | Prozent, Studienergebnis | exakt | wb.py | bauen |
+| 100 Figuren | 100 Strichmännchen, der genaue Anteil wird rot schraffiert | Prozent, Studienergebnis | exakt | wb.py | bauen |
 | Gedankenschleife | Pfeile kreisen um den Kopf, die Schleife wird immer schneller | Grübeln, Teufelskreis | schema | wb.py | bauen |
-| Gehirn-Skizze | Ein gezeichnetes Gehirn, die zuständige Region wird orange schraffiert, Pfeil zum Verhalten | Biologie dahinter | schema (belegt) | wb.py | bauen |
+| Gehirn-Skizze | Ein gezeichnetes Gehirn, die zuständige Region wird rot schraffiert, Pfeil zum Verhalten | Biologie dahinter | schema (belegt) | wb.py | bauen |
 | Zwei Wege | Das Board teilt sich: links die gewohnte Reaktion, rechts die andere – beide laufen gleichzeitig | Entscheidung, Alternative | schema | wb.py | bauen |
 | Tagesuhr | Eine gezeichnete Uhr, der Zeiger springt, die Figur in der jeweiligen Tagessituation | Tagesablauf, Gewohnheit | exakt | wb.py | bauen |
 | Mitmach-Test | Eine Frage oder ein Bildrätsel an den Zuschauer, gezeichneter Countdown 3–2–1, dann Auflösung | Selbsttest, Wahrnehmungsfehler | exakt | wb.py | bauen |
