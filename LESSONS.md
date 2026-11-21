@@ -23,7 +23,7 @@
 |---|---|---|---|---|---|
 | 001 | 17.11.2026 | Menschen, die gern allein sind, haben diese seltene Eigenschaft | >8 Min. | – | öffentlich |
 | 002 | 18.11.2026 | Warum das Warten auf GTA 6 schöner sein kann als das Spiel (https://www.youtube.com/watch?v=v4u2cwV5TzM) | 11:58 | ~50 | öffentlich |
-| 003 | 21.11.2026 | Warum Menschen, die nie um Hilfe bitten, sich so oft irren | 10:30 | ~29 | Entwurf (wartet auf Laurins Ja) |
+| 003 | 21.11.2026 | Warum Menschen, die nie um Hilfe bitten, sich so oft irren (https://www.youtube.com/watch?v=aBJTAT7Wwac) | 10:30 | ~37 | geplant: öffentlich 22.11.2026, 17:00 |
 
 ## Ton & Musik mit audiokit (Laurin 18.11.2026)
 Problem: Soundeffekte oft unpassend/billig, Musik zu gleichförmig – Laurin schaut die eigenen Videos nicht zu Ende. vidIQ-Auswertung 18.11.: größter Absprung in den ersten ~30 s; Musik läuft 1,5–3 Min. gleich durch, kein Spannungsaufbau vor Enthüllungen; Passagen von 25–60 s ohne neuen Reiz.

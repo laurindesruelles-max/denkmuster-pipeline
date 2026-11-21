@@ -1,6 +1,6 @@
 # 003 – Die Psychologie von Menschen, die nie um Hilfe bitten
 Titel: „Warum Menschen, die nie um Hilfe bitten, sich so oft irren“ (vidIQ-Score 81; Alternativen 80 / 77) · Länge 10:30 · Thumbnail: thumbnail.png = thumb_c1.png („NIE UM HILFE BITTEN? / Das Nein kommt / seltener als gedacht.“, von Laurin gewählt; A, B, D–J verworfen)
-Status 21.11.2026: Entwurf bei vidIQ (postId 47ef3c0c-ddf9-4b5a-81b5-e365d93bed3d), wartet auf Laurins Freigabe.
+Status: hochgeladen, öffentlich ab 22.11.2026 17:00 (https://www.youtube.com/watch?v=aBJTAT7Wwac). Laurin hat freigegeben.
 Bau: `DM_SFX=<ordner mit assets/sfx + bubble_pop/flare/short_whip aus bibliothek/denkmuster> python3 scenes.py` (engine/kit.py + engine/bausteine.py).
 `python3 scenes.py --drehbuch` erzeugt bilddrehbuch.json aus den S(...)-Einstellungen, Prüfung mit engine/bilddrehbuch.py.
 Master danach zweistufig loudnorm I=−14, TP=−2 (kit.py-Endmix lag bei TP +0,1).
