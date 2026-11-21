@@ -62,3 +62,4 @@ Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ)
 - kit.py-Endmix landete bei True Peak +0,1 dBTP → danach zweistufig loudnorm I=−14/TP=−2 (Ergebnis −14,5 LUFS, −2,4 dBTP).
 - Goldsmith-Sounds (paper_slide, sub_drop, slap) aus EFFEKTE.md durften aus der Sandbox nicht kopiert werden (Zugriff verweigert) → stattdessen eigene Sounds (stift_klick beim Durchstreichen, pop beim Einkreisen). Laurin: bitte diese drei Sounds in assets/sfx übernehmen, wenn sie für Denkmuster gelten sollen.
 - Kosten: 10 Kapitel Helena = 27,6 Credits, Thumbnail 1,5 → ~29 Credits.
+- Thumbnail 003 (Laurin 21.11.2026): „ALLES ALLEIN?“ abgelehnt („check ich nicht“, „als Zuschauer würde ich nicht verstehen, worum es geht“). Gewählt: Kistenberg + helfende Hand, Text „NIE UM HILFE BITTEN? / Das Nein kommt / seltener als gedacht.“ → Regel: Zeile 1 nennt das Thema wörtlich (wie im Titel), keine Rätsel-Kurzformel.
