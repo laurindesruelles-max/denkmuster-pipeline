@@ -20,3 +20,6 @@ fi
 # Laurins Sound-Bibliothek (19.11.2026): eigene Effekte dieses Kanals + gemeinsame Geräusche -> /home/claude/sfx-bibliothek/bibliothek
 python3 -c "import sys; sys.path.insert(0, '$AK'); import bibliothek; print('Sound-Bibliothek bereit:', bibliothek.ensure('denkmuster'))" || echo "WARNUNG: Sound-Bibliothek nicht geladen"
 echo "Denkmuster bereit. Neues Video: videos/NNN-slug anlegen (siehe README.md)."
+
+# 2D-Motion-Graphics (Remotion): Node-Pakete einmal installieren
+[ -d "$(dirname "$0")/engine/motion/node_modules" ] || (cd "$(dirname "$0")/engine/motion" && npm install --silent >/dev/null 2>&1 && echo "motion bereit")

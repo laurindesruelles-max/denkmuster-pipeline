@@ -35,6 +35,16 @@ Weitere freigegebene Animationsarten für die Nische und die Bild-Drehbuch-Regel
 | Zahl in Handschrift | Die Zahl wird groß geschrieben und eingekreist | harte Zahl | neu, Stilprobe 20.11. |
 | Board-Panorama | Am Ende fährt die Kamera zurück, das ganze Video ist ein Bild | Schluss | neu, Stilprobe 20.11. |
 
+| Gedankenwolken-Ablauf (`motion` flow) | Reiz → Gefühl → Reaktion als Gedankenwolken mit Pfeilen, Abzweig („Grübeln“) | Erklärung in Schritten | neu, ANOM-Wissen 23.11. |
+| Mythos dreht sich um (`motion` flip) | Notizzettel mit Klebestreifen dreht sich → Wahrheit in Rot | Irrtum auflösen | neu, ANOM-Wissen 23.11. |
+| Zahl rot eingekreist (`motion` counter) | Zahl zählt in Handschrift hoch, roter Kreis drumherum | harte Zahl | neu, ANOM-Wissen 23.11. |
+| Strichmännchen-Raster (`motion` grid) | 60 Strichmännchen, betroffene rot und traurig | „1 von 3“ | neu, ANOM-Wissen 23.11. |
+| Schraffur-Balken (`motion` bars) | Erwartet vs. Tatsächlich, schraffiert | Vergleich | neu, ANOM-Wissen 23.11. |
+| Studien-Stapel (`motion` stack) | Studienkarten (Autor, Jahr) stapeln sich, Frage in Handschrift | Forschungslage | neu, ANOM-Wissen 23.11. |
+| Gezeichnetes Handy (`motion` phone) | Chat auf einem gezeichneten Handy, Zitat in Handschrift | Alltagssituation | neu, ANOM-Wissen 23.11. |
+
+**Erweiterung 23.11.2026 (ANOM-Stilprobe):** `motion`-Bausteine **zusätzlich** zum Board (nichts ersetzt). Eigene Formen statt nur Farben: Kritzel-Doodles, Gedankenwolken, Strichmännchen, Notizzettel, Handschrift, rote Kreise. Keine Marker-Sounds. Doku: `engine/motion_dm.py`. Demo `Denkmuster_Motion_Bausteine.mp4` (23.11.2026). Gemini 23.11.: Ablauf, Raster, Balken, Studien-Stapel PREMIUM; Wisch-Sound am Clip-Start klang wie Marker-Quietschen → raus.
+
 **Raus:** Zeichen- und Marker-Sounds (Laurin hat sie abgelehnt).
 
 Stilprobe: `stilprobe_denkmuster.mp4` (20.11.2026). Sounds folgen nach dem Casting (`doku-ohren`).

@@ -49,3 +49,6 @@ Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt ö
 - Videos **immer über 8 Minuten**, Ende mit Kommentar-Frage + Glocke, Quellen in der Beschreibung.
 - Thumbnails professionell (illustriertes Motiv + große Schrift), keine Strichmännchen, keine Logos, keine echten Personen.
 - Fakten müssen stimmen, sonst nicht veröffentlichen.
+
+## 2D-Motion-Graphics (seit 23.11.2026, Erweiterung aus der ANOM-Stilprobe)
+`engine/motion_dm.py` + `engine/motion/` (Remotion) im Board-Look (Kritzel, Gedankenwolken, Strichmännchen, Handschrift). Ergänzt das Board, ersetzt nichts. Einmalig `cd engine/motion && npm install`. API im Dateikopf.
