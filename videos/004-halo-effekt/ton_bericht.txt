@@ -1,0 +1,53 @@
+SOUNDS  Sounds: 75 geplant -> 70 behalten (~6.0/Min.). Entfernt: verboten 0, defekt 0, Wiederholung 1, gestapelt 0, zu dicht 4, Schleife 0, Datei fehlt 0.
+
+MUSIK   Spannungskurve denkmuster: 23 Beats, 18 Musikabschnitte, längster Abschnitt 51 s
+  0:05.7  frage        ██
+  0:25.3  frage        ██
+  0:31.6  frage        ██
+  0:45.6  kapitel      ██
+  1:05.7  enthuellung  ██
+  2:00.9  frage        ██
+  2:01.9  kapitel      ██
+  2:29.8  frage        ██
+  3:20.4  kapitel      ██
+  4:28.0  frage        ██
+  4:28.9  kapitel      ██
+  4:52.0  frage        ██
+  6:02.5  frage        ██
+  6:03.4  kapitel      ██
+  6:18.4  enthuellung  ██
+  7:24.8  kapitel      ██
+  8:08.5  frage        ██
+  8:30.9  kapitel      ██
+  9:44.8  frage        ██
+  9:45.7  kapitel      ██
+  10:53.2  frage        ██
+  11:00.8  frage        ██
+  11:29.5  frage        ██
+Musik:
+  0:08.0–0:45.6  dm_music_1.mp3 ab 70 s
+  0:50.4–1:41.4  dm_music_3.mp3 ab 59 s
+  1:41.4–2:01.9  dm_music_1.mp3 ab 65 s
+  2:06.7–2:57.7  dm_music_2.mp3 ab 32 s
+  2:57.7–3:20.4  dm_music_4.mp3 ab 72 s
+  3:25.2–4:16.2  dm_music_4.mp3 ab 34 s
+  4:16.2–4:28.9  dm_music_2.mp3 ab 64 s
+  4:33.7–5:24.7  dm_music_3.mp3 ab 59 s
+  5:24.7–6:03.4  dm_music_1.mp3 ab 70 s
+  6:08.2–6:59.2  dm_music_4.mp3 ab 58 s
+  6:59.2–7:24.8  dm_music_2.mp3 ab 53 s
+  7:29.6–8:09.7  dm_music_1.mp3 ab 65 s
+  8:09.7–8:30.9  dm_music_3.mp3 ab 91 s
+  8:35.7–9:26.7  dm_music_2.mp3 ab 46 s
+  9:26.7–9:45.7  dm_music_4.mp3 ab 74 s
+  9:50.5–10:41.5  dm_music_2.mp3 ab 46 s
+  10:41.5–11:06.4  dm_music_4.mp3 ab 69 s
+  11:06.4–11:44.4  dm_music_5.mp3 ab 79 s
+Lücken ohne neuen Reiz > 22 s: 0
+
+ENDKONTROLLE
+OK  Lautheit -15.3 LUFS (Ziel −14…−16)
+OK  Spitze -1.2 dBTP (Ziel ≤ −1)
+FEHLER Stille-Löcher > 2,5 s: 1
+OK  Musik unter Stimme: 15.6 dB (Ziel 12–24)
+OK  Musik ohne Bewegung > 75 s: keine

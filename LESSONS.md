@@ -24,6 +24,7 @@
 | 001 | 17.11.2026 | Menschen, die gern allein sind, haben diese seltene Eigenschaft | >8 Min. | – | öffentlich |
 | 002 | 18.11.2026 | Warum das Warten auf GTA 6 schöner sein kann als das Spiel (https://www.youtube.com/watch?v=v4u2cwV5TzM) | 11:58 | ~50 | öffentlich |
 | 003 | 21.11.2026 | Warum Menschen, die nie um Hilfe bitten, sich so oft irren (https://www.youtube.com/watch?v=aBJTAT7Wwac) | 10:30 | ~37 | geplant: öffentlich 22.11.2026, 17:00 |
+| 004 | 24.11.2026 | Der Halo-Effekt: Warum wir schönen Menschen mehr zutrauen | 11:43 | ~39 | Entwurf bei vidIQ (postId 631471ed…), wartet auf Laurins Ja |
 
 ## Ton & Musik mit audiokit (Laurin 18.11.2026)
 Problem: Soundeffekte oft unpassend/billig, Musik zu gleichförmig – Laurin schaut die eigenen Videos nicht zu Ende. vidIQ-Auswertung 18.11.: größter Absprung in den ersten ~30 s; Musik läuft 1,5–3 Min. gleich durch, kein Spannungsaufbau vor Enthüllungen; Passagen von 25–60 s ohne neuen Reiz.
@@ -65,3 +66,12 @@ Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ)
 - Thumbnail 003 (Laurin 21.11.2026): „ALLES ALLEIN?“ abgelehnt („check ich nicht“, „als Zuschauer würde ich nicht verstehen, worum es geht“). Gewählt: Kistenberg + helfende Hand, Text „NIE UM HILFE BITTEN? / Das Nein kommt / seltener als gedacht.“ → Regel: Zeile 1 nennt das Thema wörtlich (wie im Titel), keine Rätsel-Kurzformel.
 
 - **2D-Motion-Graphics (23.11.2026):** Laurin will das Handwerk der ANOM-Stilprobe (viel 2D-Animation, Bildwechsel alle 2–4 s) in jedem Kanal – als Erweiterung im eigenen Stil, nichts überschreiben; Unterschied nicht nur in Farben, sondern auch in Symbolen und Formen. Bisheriges (echte Fakten mit Quelle, Effekt-Katalog, Sounds) bleibt.
+
+## Video 004 (24.11.2026)
+- Thema aus dem Ideen-Speicher (Denkfehler-Format): Halo-Effekt. Titel-Score: „Der Halo-Effekt: …“ 81 > „Warum schöne Menschen klüger wirken …“ 70.
+- Dyn-Funktionen (b.dyn) in scenes.py immer mit `X=X, Y=Y` als Default binden – sonst zeichnet die Funktion beim Rendern an den Koordinaten des letzten Kapitels (Waage und Boot fehlten im ersten Kontaktabzug).
+- `hundert()` zeichnet immer 100 Figuren → für andere Anzahlen eigene `figuren(t, x, y, n)` (in 004/scenes.py).
+- earshot-Kritik am kit.py-Mix: 3 major – (1) Stille unter Kapitelkarten bis 3,2 s, (2) kein Moment ragt heraus (lautester 3-s-Abschnitt nur +2,3 LU), (3) 0,4 s Leerlauf am Ende. Lösung ohne Neu-Rendern: leises Musikbett (−30 LUFS, Fade) unter jeder Kapitelkarte, eine Wendung (+3 LU, tiefer Treffer), Ende auf Ton-Ende trimmen, milde EQ → 0 major. Vorschlag: in kit.py einbauen (Musikbett unter Karte statt Stille, ein „großer Moment“ pro Video).
+- Gemini-Casting: Goldsmith sub_drop+slap und paper PREMIUM für Denkmuster; pop als Zahl-/Abhak-Sound CHEAP. Gemini erfindet bei 16 kbps „Marker-Quietschen“ – immer gegen die Effektliste prüfen.
+- Faktencheck-Kurzcheck nach dem Rendern fand noch einen Widerspruch Hook ↔ Kapitel („Ehrlichkeit“ im Hook, „kaum“ in K2) → Hook-Aufzählungen gegen alle Kapitel abgleichen, bevor eingesprochen wird.
+- Kosten: 13 × Helena (10 + 3 Neueinsprachen) + 2 Thumbnail-Motive ≈ 39 Credits.

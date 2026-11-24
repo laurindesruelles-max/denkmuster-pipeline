@@ -1,0 +1,746 @@
+{
+"words": [
+{
+"w": "Die",
+"s": 0.0,
+"e": 0.12
+},
+{
+"w": "Geschichte",
+"s": 0.24,
+"e": 0.72
+},
+{
+"w": "beginnt",
+"s": 0.72,
+"e": 1.12
+},
+{
+"w": "in",
+"s": 1.12,
+"e": 1.2
+},
+{
+"w": "der",
+"s": 1.2,
+"e": 1.32
+},
+{
+"w": "Armee",
+"s": 1.36,
+"e": 1.76
+},
+{
+"w": "der",
+"s": 1.76,
+"e": 1.88
+},
+{
+"w": "USA.",
+"s": 1.92,
+"e": 2.56
+},
+{
+"w": "Neunzehnhundertzwanzig",
+"s": 2.96,
+"e": 3.92
+},
+{
+"w": "veröffentlicht",
+"s": 4.16,
+"e": 4.8
+},
+{
+"w": "der",
+"s": 4.8,
+"e": 4.92
+},
+{
+"w": "Psychologe",
+"s": 4.96,
+"e": 5.6
+},
+{
+"w": "Edward",
+"s": 5.68,
+"e": 6.0
+},
+{
+"w": "Thorndike",
+"s": 6.16,
+"e": 6.8
+},
+{
+"w": "einen",
+"s": 6.96,
+"e": 7.08
+},
+{
+"w": "kurzen",
+"s": 7.2,
+"e": 7.52
+},
+{
+"w": "Aufsatz.",
+"s": 7.6,
+"e": 8.24
+},
+{
+"w": "Er",
+"s": 8.5,
+"e": 8.62
+},
+{
+"w": "hatte",
+"s": 8.74,
+"e": 8.86
+},
+{
+"w": "sich",
+"s": 9.06,
+"e": 9.18
+},
+{
+"w": "angesehen,",
+"s": 9.3,
+"e": 9.86
+},
+{
+"w": "wie",
+"s": 9.86,
+"e": 9.98
+},
+{
+"w": "Vorgesetzte",
+"s": 10.1,
+"e": 10.82
+},
+{
+"w": "in",
+"s": 10.82,
+"e": 10.9
+},
+{
+"w": "der",
+"s": 10.9,
+"e": 11.02
+},
+{
+"w": "Armee",
+"s": 11.06,
+"e": 11.38
+},
+{
+"w": "ihre",
+"s": 11.46,
+"e": 11.58
+},
+{
+"w": "Leute",
+"s": 11.78,
+"e": 12.02
+},
+{
+"w": "bewerten.",
+"s": 12.1,
+"e": 12.82
+},
+{
+"w": "Zum",
+"s": 13.06,
+"e": 13.22
+},
+{
+"w": "Beispiel",
+"s": 13.3,
+"e": 13.62
+},
+{
+"w": "ein",
+"s": 13.7,
+"e": 13.82
+},
+{
+"w": "Kommandeur",
+"s": 13.94,
+"e": 14.5
+},
+{
+"w": "seine",
+"s": 14.74,
+"e": 14.86
+},
+{
+"w": "hundertsiebenunddreißig",
+"s": 15.06,
+"e": 15.94
+},
+{
+"w": "Flugschüler.",
+"s": 16.1,
+"e": 17.14
+},
+{
+"w": "Körperbau,",
+"s": 17.38,
+"e": 18.26
+},
+{
+"w": "Intelligenz,",
+"s": 18.34,
+"e": 19.22
+},
+{
+"w": "Führungsstärke,",
+"s": 19.38,
+"e": 20.58
+},
+{
+"w": "Charakter.",
+"s": 20.66,
+"e": 21.3
+},
+{
+"w": "Jede",
+"s": 21.647,
+"e": 21.967
+},
+{
+"w": "Eigenschaft",
+"s": 22.207,
+"e": 22.767
+},
+{
+"w": "sollte",
+"s": 22.927,
+"e": 23.167
+},
+{
+"w": "einzeln",
+"s": 23.247,
+"e": 23.647
+},
+{
+"w": "beurteilt",
+"s": 23.728,
+"e": 24.207
+},
+{
+"w": "werden.",
+"s": 24.367,
+"e": 24.767
+},
+{
+"w": "Doch",
+"s": 25.007,
+"e": 25.247
+},
+{
+"w": "Thorndike",
+"s": 25.327,
+"e": 25.968
+},
+{
+"w": "fiel",
+"s": 26.127,
+"e": 26.367
+},
+{
+"w": "etwas",
+"s": 26.448,
+"e": 26.568
+},
+{
+"w": "Seltsames",
+"s": 26.687,
+"e": 27.247
+},
+{
+"w": "auf.",
+"s": 27.408,
+"e": 27.807
+},
+{
+"w": "Die",
+"s": 27.968,
+"e": 28.088
+},
+{
+"w": "Noten",
+"s": 28.207,
+"e": 28.528
+},
+{
+"w": "hingen",
+"s": 28.687,
+"e": 29.008
+},
+{
+"w": "viel",
+"s": 29.167,
+"e": 29.287
+},
+{
+"w": "zu",
+"s": 29.407,
+"e": 29.527
+},
+{
+"w": "stark",
+"s": 29.647,
+"e": 29.767
+},
+{
+"w": "zusammen.",
+"s": 29.967,
+"e": 30.687
+},
+{
+"w": "Wer",
+"s": 30.847,
+"e": 31.087
+},
+{
+"w": "körperlich",
+"s": 31.167,
+"e": 31.727
+},
+{
+"w": "einen",
+"s": 31.807,
+"e": 31.927
+},
+{
+"w": "guten",
+"s": 32.047,
+"e": 32.287
+},
+{
+"w": "Eindruck",
+"s": 32.368,
+"e": 32.767
+},
+{
+"w": "machte,",
+"s": 32.847,
+"e": 33.327
+},
+{
+"w": "bekam",
+"s": 33.408,
+"e": 33.647
+},
+{
+"w": "auch",
+"s": 33.807,
+"e": 33.927
+},
+{
+"w": "gute",
+"s": 34.047,
+"e": 34.207
+},
+{
+"w": "Noten",
+"s": 34.287,
+"e": 34.528
+},
+{
+"w": "für",
+"s": 34.687,
+"e": 34.807
+},
+{
+"w": "Intelligenz",
+"s": 34.847,
+"e": 35.488
+},
+{
+"w": "und",
+"s": 35.567,
+"e": 35.687
+},
+{
+"w": "Charakter.",
+"s": 35.727,
+"e": 36.287
+},
+{
+"w": "Wer",
+"s": 36.658,
+"e": 36.898
+},
+{
+"w": "einen",
+"s": 37.058,
+"e": 37.178
+},
+{
+"w": "schlechten",
+"s": 37.298,
+"e": 37.698
+},
+{
+"w": "Eindruck",
+"s": 37.778,
+"e": 38.258
+},
+{
+"w": "machte,",
+"s": 38.258,
+"e": 38.738
+},
+{
+"w": "wurde",
+"s": 38.818,
+"e": 38.938
+},
+{
+"w": "fast",
+"s": 39.138,
+"e": 39.258
+},
+{
+"w": "überall",
+"s": 39.458,
+"e": 39.778
+},
+{
+"w": "schlechter",
+"s": 40.018,
+"e": 40.418
+},
+{
+"w": "bewertet.",
+"s": 40.578,
+"e": 41.378
+},
+{
+"w": "Als",
+"s": 41.618,
+"e": 41.738
+},
+{
+"w": "hätten",
+"s": 41.858,
+"e": 42.258
+},
+{
+"w": "die",
+"s": 42.258,
+"e": 42.378
+},
+{
+"w": "Vorgesetzten",
+"s": 42.418,
+"e": 43.138
+},
+{
+"w": "nur",
+"s": 43.218,
+"e": 43.338
+},
+{
+"w": "ein",
+"s": 43.458,
+"e": 43.578
+},
+{
+"w": "einziges",
+"s": 43.698,
+"e": 44.178
+},
+{
+"w": "Urteil",
+"s": 44.178,
+"e": 44.578
+},
+{
+"w": "gefällt",
+"s": 44.658,
+"e": 45.218
+},
+{
+"w": "und",
+"s": 45.218,
+"e": 45.338
+},
+{
+"w": "es",
+"s": 45.458,
+"e": 45.578
+},
+{
+"w": "dann",
+"s": 45.618,
+"e": 45.738
+},
+{
+"w": "auf",
+"s": 45.858,
+"e": 45.978
+},
+{
+"w": "alles",
+"s": 46.018,
+"e": 46.138
+},
+{
+"w": "verteilt.",
+"s": 46.338,
+"e": 47.138
+},
+{
+"w": "Thorndike",
+"s": 47.458,
+"e": 48.258
+},
+{
+"w": "nannte",
+"s": 48.418,
+"e": 48.738
+},
+{
+"w": "diesen",
+"s": 48.818,
+"e": 48.978
+},
+{
+"w": "Fehler",
+"s": 48.978,
+"e": 49.378
+},
+{
+"w": "den",
+"s": 49.458,
+"e": 49.578
+},
+{
+"w": "Halo.",
+"s": 49.618,
+"e": 50.258
+},
+{
+"w": "Daraus",
+"s": 50.504,
+"e": 51.144
+},
+{
+"w": "wurde",
+"s": 51.304,
+"e": 51.424
+},
+{
+"w": "der",
+"s": 51.544,
+"e": 51.664
+},
+{
+"w": "Begriff",
+"s": 51.704,
+"e": 52.024
+},
+{
+"w": "Halo-Effekt.",
+"s": 52.184,
+"e": 53.464
+},
+{
+"w": "Halo",
+"s": 53.704,
+"e": 54.104
+},
+{
+"w": "ist",
+"s": 54.424,
+"e": 54.544
+},
+{
+"w": "das",
+"s": 54.584,
+"e": 54.704
+},
+{
+"w": "englische",
+"s": 54.744,
+"e": 55.144
+},
+{
+"w": "Wort",
+"s": 55.224,
+"e": 55.464
+},
+{
+"w": "für",
+"s": 55.544,
+"e": 55.664
+},
+{
+"w": "Heiligenschein.",
+"s": 55.784,
+"e": 57.064
+},
+{
+"w": "Eine",
+"s": 57.304,
+"e": 57.624
+},
+{
+"w": "einzige",
+"s": 57.784,
+"e": 58.184
+},
+{
+"w": "gute",
+"s": 58.264,
+"e": 58.584
+},
+{
+"w": "Eigenschaft",
+"s": 58.664,
+"e": 59.144
+},
+{
+"w": "strahlt",
+"s": 59.224,
+"e": 59.784
+},
+{
+"w": "wie",
+"s": 59.864,
+"e": 59.984
+},
+{
+"w": "ein",
+"s": 60.024,
+"e": 60.144
+},
+{
+"w": "Schein",
+"s": 60.184,
+"e": 60.504
+},
+{
+"w": "über",
+"s": 60.504,
+"e": 60.624
+},
+{
+"w": "die",
+"s": 60.744,
+"e": 60.824
+},
+{
+"w": "ganze",
+"s": 60.824,
+"e": 61.144
+},
+{
+"w": "Person.",
+"s": 61.224,
+"e": 61.704
+},
+{
+"w": "Station",
+"s": 62.114,
+"e": 62.514
+},
+{
+"w": "Nummer",
+"s": 62.914,
+"e": 63.234
+},
+{
+"w": "eins",
+"s": 63.314,
+"e": 63.554
+},
+{
+"w": "ist",
+"s": 63.634,
+"e": 63.754
+},
+{
+"w": "also",
+"s": 63.794,
+"e": 63.914
+},
+{
+"w": "der",
+"s": 64.114,
+"e": 64.234
+},
+{
+"w": "erste",
+"s": 64.274,
+"e": 64.514
+},
+{
+"w": "Eindruck.",
+"s": 64.594,
+"e": 65.234
+},
+{
+"w": "Er",
+"s": 65.394,
+"e": 65.514
+},
+{
+"w": "färbt",
+"s": 65.554,
+"e": 65.954
+},
+{
+"w": "alles,",
+"s": 66.114,
+"e": 66.354
+},
+{
+"w": "was",
+"s": 66.354,
+"e": 66.474
+},
+{
+"w": "danach",
+"s": 66.594,
+"e": 66.994
+},
+{
+"w": "kommt.",
+"s": 67.074,
+"e": 67.714
+},
+{
+"w": "Aber",
+"s": 68.034,
+"e": 68.154
+},
+{
+"w": "welche",
+"s": 68.354,
+"e": 68.754
+},
+{
+"w": "Eigenschaft",
+"s": 68.834,
+"e": 69.234
+},
+{
+"w": "strahlt",
+"s": 69.394,
+"e": 69.714
+},
+{
+"w": "am",
+"s": 69.874,
+"e": 69.994
+},
+{
+"w": "stärksten?",
+"s": 70.034,
+"e": 70.514
+}
+],
+"dur": 70.64,
+"recognized": "Die Geschichte beginnt in der Armee der USA. 1920 veröffentlicht der Psychologe Edward Thorndike einen kurzen Aufsatz. Er hatte sich angesehen, wie Vorgesetzte in der Armee ihre Leute bewerten. Zum Beispiel ein Kommandeur seine 137 Flugschüler. Körperbau, Intelligenz, Führungsstärke, Charakter. Jede Eigenschaft sollte einzeln beurteilt werden. Doch Thorndike fiel etwas Seltsames auf. Die Noten hingen viel zu star zusammen. Wer körperlich einen guten Eindruck machte, bekam auch gute Noten für Intelligenz und Charakter. Wer einen schlechten Eindruck machte, wurde fast überall schlechter bewertet. Als hätten die Vorgesetzten nur ein einziges Urteil gefällt und es dann auf alles verteilt. Thorndike nannte diesen Fehler den Halo. Daraus wurde der Begriff Halo-Effekt. Halo ist das englische Wort für Heiligenschein. Eine einzige gute Eigenschaft strahlt wie ein Schein über die ganze Person. Station Nummer 1 ist also der erste Eindruck. Er färbt alles, was danach kommt. Aber welche Eigenschaft streit am stärksten?"
+}

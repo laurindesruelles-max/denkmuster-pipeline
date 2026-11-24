@@ -1,0 +1,2448 @@
+[
+ {
+  "satz": "Zwei Gesichter.",
+  "sek": 1.36,
+  "zeigt": "Zwei erfundene Gesichter entstehen nebeneinander, Mitte ein großes ODER",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du siehst sie nur eine Sekunde. [1 Sekunde]",
+  "sek": 2.16,
+  "zeigt": "Eine Stoppuhr erscheint oben in der Mitte, Zeiger läuft genau eine Runde: 1 SEKUNDE",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Wer von beiden wirkt kompetenter?",
+  "sek": 2.48,
+  "zeigt": "Unter den Gesichtern: WER WIRKT KOMPETENTER? Countdown 3–2–1 läuft",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "frage:wer",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du hast dich schon entschieden, oder?",
+  "sek": 2.0,
+  "zeigt": "Über dem linken Gesicht erscheint ein roter Heiligenschein: die Entscheidung ist gefallen",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Obwohl du über diese Menschen gar nichts weißt.",
+  "sek": 2.88,
+  "zeigt": "Unter beiden Gesichtern je ein leeres Namensschild mit ???",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Genau so ein Bauchgefühl hat in Experimenten vorhergesagt, wer Wahlen gewinnt.",
+  "sek": 5.04,
+  "zeigt": "Kamera fährt weiter: eine Wahlurne, ein Stimmzettel mit rotem Haken fällt hinein",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und zwar erstaunlich oft.",
+  "sek": 2.06,
+  "zeigt": "Neben der Urne: ERSTAUNLICH OFT, ein großes rotes Ausrufezeichen wird eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Dein Kopf schließt vom Aussehen auf Klugheit, auf Sympathie, sogar auf die Strafe vor Gericht.",
+  "sek": 6.16,
+  "zeigt": "Kopfprofil, aus ihm laufen drei Pfeile: KLUG, SYMPATHISCH, STRAFE",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Aber warum?",
+  "sek": 1.12,
+  "zeigt": "Rote Schleife kreist um das Kopfprofil, großes Fragezeichen",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:warum",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und was passiert, wenn das in einer Schule, einem Bewerbungsgespräch oder einem Gerichtssaal geschieht?",
+  "sek": 6.42,
+  "zeigt": "Drei kleine Orte entstehen: Schulhaus, Bewerbungstisch, Gerichtssaal mit Hammer",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "In diesem Video gehen wir sieben Stationen durch, an denen dieser Denkfehler heimlich entscheidet. [7 Stationen]",
+  "sek": 6.0,
+  "zeigt": "Ein Weg mit sieben leeren Stationen wird gezogen, Überschrift 7 STATIONEN",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "frage:stationen",
+  "kapitel": 0
+ },
+ {
+  "satz": "Zähl mit, wo er dich schon erwischt hat.",
+  "sek": 2.48,
+  "zeigt": "Die Hauptfigur läuft klein an den Start des Weges: ZÄHL MIT!",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und am Ende zeige ich dir einen einfachen Trick, mit dem du ihn austrickst.",
+  "sek": 5.25,
+  "zeigt": "Am Ende des Weges eine abgedeckte Karte DER TRICK: ??? – Auflösung erst am Schluss",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:trick",
+  "kapitel": 0
+ },
+ {
+  "satz": "(Kapitelkarte) Der Heiligenschein",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 1: Nummer im Kreis, Titel „Der Heiligenschein“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Die Geschichte beginnt in der Armee der USA.",
+  "sek": 2.96,
+  "zeigt": "Kamera fliegt zu einer Ortsmarke USA, darunter ein gezeichnetes Armee-Zeltlager",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Neunzehnhundertzwanzig veröffentlicht der Psychologe Edward Thorndike einen kurzen Aufsatz. [1920]",
+  "sek": 5.54,
+  "zeigt": "Karteikarte wird angeheftet: 1920 · Edward Thorndike · kurzer Aufsatz",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Er hatte sich angesehen, wie Vorgesetzte in der Armee ihre Leute bewerten.",
+  "sek": 4.56,
+  "zeigt": "Ein Vorgesetzter mit Klemmbrett steht vor einer Reihe von Soldaten",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen",
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Zum Beispiel ein Kommandeur seine hundertsiebenunddreißig Flugschüler. [137]",
+  "sek": 4.32,
+  "zeigt": "Große rote 137 wird über der Reihe geschrieben und eingekreist: FLUGSCHÜLER",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Körperbau, Intelligenz, Führungsstärke, Charakter.",
+  "sek": 4.27,
+  "zeigt": "Bewertungsbogen mit vier Zeilen: Körperbau, Intelligenz, Führung, Charakter",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Jede Eigenschaft sollte einzeln beurteilt werden.",
+  "sek": 3.36,
+  "zeigt": "Hinter jeder Zeile erscheint ein leeres Kästchen: EINZELN",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Doch Thorndike fiel etwas Seltsames auf.",
+  "sek": 2.96,
+  "zeigt": "Lupe über dem Bogen, Kamera zoomt auf die Kästchen",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:seltsam",
+  "kapitel": 1
+ },
+ {
+  "satz": "Die Noten hingen viel zu stark zusammen.",
+  "sek": 2.88,
+  "zeigt": "Vier Balken wachsen fast gleich hoch: ZU STARK ZUSAMMEN",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:seltsam",
+  "kapitel": 1
+ },
+ {
+  "satz": "Wer körperlich einen guten Eindruck machte, bekam auch gute Noten für Intelligenz und Charakter.",
+  "sek": 5.81,
+  "zeigt": "Soldat steht aufrecht, lächelt, neben ihm vier rote Haken",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Wer einen schlechten Eindruck machte, wurde fast überall schlechter bewertet.",
+  "sek": 4.96,
+  "zeigt": "Zweiter Soldat sackt zusammen, vier rote Kreuze",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Als hätten die Vorgesetzten nur ein einziges Urteil gefällt und es dann auf alles verteilt.",
+  "sek": 5.84,
+  "zeigt": "Ein großes Urteil EINDRUCK verzweigt sich mit Pfeilen auf alle vier Eigenschaften",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Thorndike nannte diesen Fehler den Halo.",
+  "sek": 3.05,
+  "zeigt": "Das Wort HALO wird riesig geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Daraus wurde der Begriff Halo-Effekt.",
+  "sek": 3.2,
+  "zeigt": "Darunter wird in Rot das ganze Wort HALO-EFFEKT ergänzt",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Halo ist das englische Wort für Heiligenschein.",
+  "sek": 3.6,
+  "zeigt": "Das O von HALO wird zu einem Ring, der über den Kopf der Hauptfigur schwebt: HEILIGENSCHEIN",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Eine einzige gute Eigenschaft strahlt wie ein Schein über die ganze Person.",
+  "sek": 4.81,
+  "zeigt": "Strahlen laufen vom Heiligenschein über die ganze Figur: klug, nett, fleißig",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Station Nummer eins ist also der erste Eindruck.",
+  "sek": 3.28,
+  "zeigt": "Rückkehr zum Hook: Weg mit sieben Stationen, Station 1 EINDRUCK wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 1
+ },
+ {
+  "satz": "Er färbt alles, was danach kommt.",
+  "sek": 2.64,
+  "zeigt": "Ein roter Farbfleck breitet sich von Station 1 über den weiteren Weg aus",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Aber welche Eigenschaft strahlt am stärksten?",
+  "sek": 3.61,
+  "zeigt": "Fragezeichen über drei Eigenschaften: Stimme? Kleidung? Schönheit?",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:staerkste",
+  "kapitel": 1
+ },
+ {
+  "satz": "(Kapitelkarte) Schön gleich gut?",
+  "sek": 4.86,
+  "zeigt": "Kapitelkarte 2: Nummer im Kreis, Titel „Schön gleich gut?“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Neunzehnhundertzweiundsiebzig wollten drei Forscherinnen genau das wissen. [1972]",
+  "sek": 4.08,
+  "zeigt": "Karteikarte 1972 · Universität Minnesota · Dion, Berscheid, Walster",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Karen Dion, Ellen Berscheid und Elaine Walster zeigten [60]",
+  "sek": 3.76,
+  "zeigt": "Sechzig kleine Figuren erscheinen in Reihen: 60 STUDIERENDE",
+  "animation": "100 Figuren",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "sechzig Studierenden der [60]",
+  "sek": 1.36,
+  "zeigt": "Über den Figuren wird eine rote 60 geschrieben und eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Universität von Minnesota Fotos von Menschen.",
+  "sek": 3.28,
+  "zeigt": "Unter der Karte erscheint eine kleine Ortsmarke MINNESOTA",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Manche galten als sehr attraktiv, manche als durchschnittlich, manche als wenig attraktiv.",
+  "sek": 5.52,
+  "zeigt": "Drei Passfotos werden an eine Wand geheftet: sehr attraktiv, durchschnittlich, wenig attraktiv",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die Studierenden sollten schätzen, wie diese Menschen sind.",
+  "sek": 3.44,
+  "zeigt": "Eine Studentin mit Stift schaut auf die Fotos, Fragebogen in der Hand",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Freundlich oder kühl?",
+  "sek": 1.76,
+  "zeigt": "Regler FREUNDLICH – KÜHL schlägt aus",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Erfolgreich oder nicht?",
+  "sek": 1.76,
+  "zeigt": "Zweiter Regler ERFOLGREICH – NICHT schlägt aus",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Mehr wussten sie nicht, nur das Gesicht.",
+  "sek": 2.88,
+  "zeigt": "Zwischen den Reglern nur ein Gesicht, sonst leeres Papier: NUR DAS GESICHT",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Das Ergebnis gab der Studie ihren Namen:",
+  "sek": 2.56,
+  "zeigt": "Abgedeckte Karte ERGEBNIS: ??? wird gezeichnet",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:ergebnis",
+  "kapitel": 2
+ },
+ {
+  "satz": "Was schön ist, ist gut.",
+  "sek": 2.21,
+  "zeigt": "Abdeckung verschwindet, darunter: WAS SCHÖN IST, IST GUT – rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:staerkste",
+  "kapitel": 2
+ },
+ {
+  "satz": "Den attraktiven Menschen trauten sie im Schnitt die angenehmere Persönlichkeit zu.",
+  "sek": 4.72,
+  "zeigt": "Diagramm PERSÖNLICHKEIT: Balken attraktiv hoch, wenig attraktiv niedrig",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:ergebnis",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die besseren Berufe.",
+  "sek": 1.68,
+  "zeigt": "Daneben: Aktentasche mit Krawatte – BERUF, roter Haken",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Sogar ein glücklicheres Leben.",
+  "sek": 1.97,
+  "zeigt": "Daneben: lachende Sonne – GLÜCKLICHES LEBEN, roter Haken",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Nur in einem Punkt nicht:",
+  "sek": 1.84,
+  "zeigt": "Kamera schwenkt: ein Kinderwagen erscheint, der Heiligenschein darüber wird rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Als Eltern trauten sie den Schönen sogar am wenigsten zu.",
+  "sek": 3.84,
+  "zeigt": "Unter ELTERN: AM WENIGSTEN zugetraut, rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Spätere Auswertungen vieler Studien zeigen ein feineres Bild. [1991]",
+  "sek": 4.16,
+  "zeigt": "Ein Stapel aus vielen Karteikarten: AUSWERTUNG VIELER STUDIEN (1991)",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Am stärksten strahlt Schönheit auf das, was man soziale Kompetenz nennt:",
+  "sek": 4.72,
+  "zeigt": "Drei Balken: SOZIAL hoch, KLUGHEIT mittel, EHRLICHKEIT fast null",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "beliebt, gesellig, kontaktfreudig.",
+  "sek": 2.87,
+  "zeigt": "Über dem SOZIAL-Balken verbinden sich kleine Figuren: beliebt, gesellig",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Auf Klugheit strahlt sie schwächer, aber messbar.",
+  "sek": 3.44,
+  "zeigt": "Über dem mittleren Balken eine kleine Glühbirne",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Auf Ehrlichkeit und Rücksicht kaum.",
+  "sek": 2.56,
+  "zeigt": "Über dem leeren dritten Balken: KAUM",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Station Nummer zwei:",
+  "sek": 1.84,
+  "zeigt": "Rückkehr zum Hook: Station 2 SCHÖN = GUT wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 2
+ },
+ {
+  "satz": "Schönheit bekommt Vorschuss.",
+  "sek": 2.16,
+  "zeigt": "Eine Münze mit Heiligenschein: VORSCHUSS",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Und dieser Vorschuss kann sich auszahlen, ganz konkret, in Noten.",
+  "sek": 5.22,
+  "zeigt": "Pfeil von der Münze zu einem Zeugnis mit roter 1 und Fragezeichen",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:noten",
+  "kapitel": 2
+ },
+ {
+  "satz": "(Kapitelkarte) Der Aufsatz",
+  "sek": 4.86,
+  "zeigt": "Kapitelkarte 3: Nummer im Kreis, Titel „Der Aufsatz“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Neunzehnhundertvierundsiebzig gaben David Landy und Harold Sigall sechzig männlichen Studenten [1974, 60]",
+  "sek": 5.68,
+  "zeigt": "Karteikarte 1974 · Landy & Sigall · 60 Studenten",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:noten",
+  "kapitel": 3
+ },
+ {
+  "satz": "einen Aufsatz zum Bewerten.",
+  "sek": 2.08,
+  "zeigt": "Ein männlicher Student sitzt am Tisch vor einem Stapel Aufsätze",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Mal war der Text gut geschrieben, mal schwach.",
+  "sek": 2.98,
+  "zeigt": "Board teilt sich: links GUTER TEXT, rechts SCHWACHER TEXT",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Und an jedem Aufsatz hing ein Foto der angeblichen Autorin.",
+  "sek": 4.32,
+  "zeigt": "An beide Texte wird ein kleines Passfoto mit Büroklammer geheftet",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Mal eine attraktive Frau, mal eine weniger attraktive, mal gar kein Foto.",
+  "sek": 5.84,
+  "zeigt": "Drei Versionen nebeneinander: attraktives Foto, weniger attraktives Foto, kein Foto",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Der Text war jeweils derselbe.",
+  "sek": 2.16,
+  "zeigt": "Gleichheitszeichen zwischen den drei Texten: GLEICHER TEXT",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Trotzdem bekam die attraktive Autorin im Schnitt die besseren Noten.",
+  "sek": 4.65,
+  "zeigt": "Rote Noten erscheinen: über dem attraktiven Foto die bessere Note",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:groesste",
+  "kapitel": 3
+ },
+ {
+  "satz": "Am größten war der Unterschied beim schwachen Aufsatz.",
+  "sek": 3.2,
+  "zeigt": "Diagramm SCHWACHER AUFSATZ: Balken attraktiv deutlich höher als weniger attraktiv",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:groesste",
+  "kapitel": 3
+ },
+ {
+  "satz": "Wenn die Arbeit selbst wenig hergab, entschied das Foto mit.",
+  "sek": 4.56,
+  "zeigt": "Eine Waage: links dünnes Blatt, rechts schweres Foto – die Waage kippt zum Foto",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Ähnliches fanden Forschende in Schulen.",
+  "sek": 2.8,
+  "zeigt": "Kamera fährt zu einem gezeichneten Schulhaus mit Klassenzimmer",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Neunzehnhundertdreiundsiebzig bekamen Lehrkräfte in den USA ein [1973]",
+  "sek": 4.0,
+  "zeigt": "Karteikarte 1973 · Lehrkräfte · USA · Clifford & Walster",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Zeugnis mit Foto eines Kindes.",
+  "sek": 2.31,
+  "zeigt": "Ein Zeugnis mit Kinderfoto wird an die Tafel geheftet",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Das Zeugnis war immer gleich.",
+  "sek": 2.24,
+  "zeigt": "Zwei identische Zeugnisse, nur das Foto unterscheidet sich",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Doch dem attraktiveren Kind trauten sie im Schnitt mehr Intelligenz zu und",
+  "sek": 4.56,
+  "zeigt": "Über dem attraktiveren Kind erscheinen Glühbirne und ein Pfeil nach oben: KLUG, KOMMT WEITER",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "erwarteten, dass es später weiter kommt.",
+  "sek": 2.89,
+  "zeigt": "Roter Pfeil nach oben neben dem Zeugnis, Schrift KOMMT WEITER",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Station Nummer drei:",
+  "sek": 1.92,
+  "zeigt": "Rückkehr zum Hook: Station 3 NOTEN wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 3
+ },
+ {
+  "satz": "Wo die Leistung unklar ist, füllt das Aussehen die Lücke.",
+  "sek": 4.24,
+  "zeigt": "Ein Puzzle mit Loch: das fehlende Teil ist ein Gesicht und rastet ein",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Doch wie schnell passiert das eigentlich?",
+  "sek": 3.2,
+  "zeigt": "Rechts eine Stoppuhr, Zeiger rast: WIE SCHNELL?",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:schnell",
+  "kapitel": 3
+ },
+ {
+  "satz": "(Kapitelkarte) Eine Sekunde reicht",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 4: Nummer im Kreis, Titel „Eine Sekunde reicht“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Zweitausendfünf veröffentlichte Alexander Todorov von der Universität Princeton ein Experiment, [2005]",
+  "sek": 5.44,
+  "zeigt": "Karteikarte 2005 · Princeton · Todorov u. a.",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:schnell",
+  "kapitel": 4
+ },
+ {
+  "satz": "das viele erschreckt hat.",
+  "sek": 1.76,
+  "zeigt": "Eine Figur liest die Studie und reißt erschrocken die Arme hoch",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Er zeigte Menschen Paare von Gesichtern.",
+  "sek": 2.64,
+  "zeigt": "Bildschirm mit zwei erfundenen Gesichtern, davor eine Versuchsperson",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Es waren echte Kandidaten aus Wahlen zum US-Kongress.",
+  "sek": 3.41,
+  "zeigt": "Unter dem Bildschirm entsteht ein gezeichnetes Parlamentsgebäude: US-KONGRESS",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Die Versuchspersonen kannten sie nicht.",
+  "sek": 2.32,
+  "zeigt": "Gedankenblase der Versuchsperson: WER IST DAS? – zwei leere Namensschilder",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Sie sollten nur sagen: Wer wirkt kompetenter?",
+  "sek": 3.36,
+  "zeigt": "Großer Knopf A oder B, Frage WER WIRKT KOMPETENTER?",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "frage:treffer",
+  "kapitel": 4
+ },
+ {
+  "satz": "Und dann kam der Abgleich mit den echten Ergebnissen.",
+  "sek": 3.17,
+  "zeigt": "Board teilt sich: links URTEIL, rechts ECHTE WAHL, Pfeil dazwischen",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:wer",
+  "kapitel": 4
+ },
+ {
+  "satz": "Bei den Wahlen zum Senat hatte der kompetenter wirkende Kandidat in rund sieben von zehn Fällen gewonnen. [7 von 10]",
+  "sek": 6.4,
+  "zeigt": "Zehn Wahlen als Kästchen, sieben davon füllen sich rot: 7 VON 10 · SENAT",
+  "animation": "100 Figuren",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Beim Repräsentantenhaus [2 von 3]",
+  "sek": 1.52,
+  "zeigt": "Darunter: REPRÄSENTANTENHAUS – 2 VON 3",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "in rund zwei von drei. [2 von 3]",
+  "sek": 1.73,
+  "zeigt": "Rote 2 VON 3 eingekreist neben den beiden Figuren",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Und selbst wenn die Gesichter nur eine Sekunde lang zu sehen waren, [1 Sekunde]",
+  "sek": 3.6,
+  "zeigt": "Stoppuhr mit 1 SEKUNDE, daneben blitzen zwei Gesichter auf und verschwinden",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "lag das Bauchurteil noch in rund zwei von drei Senatswahlen richtig. [2 von 3]",
+  "sek": 4.48,
+  "zeigt": "An der Stelle der Gesichter: rot eingekreist 2 VON 3 RICHTIG",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Wohlgemerkt: Kompetent aussehen ist nicht dasselbe wie schön sein.",
+  "sek": 4.41,
+  "zeigt": "Satz KOMPETENT = SCHÖN wird geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Aber es ist derselbe Mechanismus. Ein Gesicht wird zu einem Urteil über die ganze Person.",
+  "sek": 6.08,
+  "zeigt": "Kette: GESICHT → EINDRUCK → URTEIL ÜBER ALLES",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Vier Jahre später ging ein Team in der Schweiz noch weiter. [2009]",
+  "sek": 3.53,
+  "zeigt": "Kamera fliegt zur Ortsmarke LAUSANNE, SCHWEIZ, darunter Berge",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "John Antonakis und Olaf Dalgas von der Universität Lausanne ließen sechshunderteinundachtzig [2009, 681 Kinder]",
+  "sek": 5.84,
+  "zeigt": "Karteikarte 2009 · Antonakis & Dalgas · 681 Kinder, 5–13 Jahre",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Kinder zwischen fünf und dreizehn Jahren ein [5 bis 13 Jahre]",
+  "sek": 2.32,
+  "zeigt": "Neben der Karte wird 5–13 JAHRE groß geschrieben und rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Computerspiel spielen:",
+  "sek": 1.68,
+  "zeigt": "Ein Kind sitzt vor einem gezeichneten Computerbildschirm und spielt",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "eine Schiffsreise von Troja nach Ithaka.",
+  "sek": 3.01,
+  "zeigt": "Ein Boot segelt über gezeichnete Wellen von TROJA nach ITHAKA",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "ort",
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Sie sollten aussuchen, wer ihr Boot steuert.",
+  "sek": 2.88,
+  "zeigt": "Über dem Boot: WER STEUERT? zwei Kapitäns-Gesichter zur Wahl",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Zur Auswahl standen Gesichter aus den Stichwahlen der französischen Parlamentswahl von zweitausendzwei. [2002]",
+  "sek": 6.08,
+  "zeigt": "Karteikarte: Frankreich · Parlamentswahl 2002 · Stichwahlen",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Die Kinder tippten genauso oft auf den Wahlsieger wie Erwachsene. In rund zwei von drei Fällen.",
+  "sek": 6.13,
+  "zeigt": "Links ein Kind, rechts ein Erwachsener – beide zeigen auf dasselbe Gesicht",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:treffer",
+  "kapitel": 4
+ },
+ {
+  "satz": "Station Nummer vier:",
+  "sek": 1.68,
+  "zeigt": "Rückkehr zum Hook: Station 4 GESICHTER wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 4
+ },
+ {
+  "satz": "Das Urteil kommt schneller als jedes Nachdenken.",
+  "sek": 3.04,
+  "zeigt": "Wettrennen: Blitz URTEIL ist schon am Ziel, Schnecke NACHDENKEN kriecht hinterher",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Aber kann es auch richtig gefährlich werden?",
+  "sek": 3.22,
+  "zeigt": "Abgedeckte Karte mit Warnschild: GEFÄHRLICH?",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:gefaehrlich",
+  "kapitel": 4
+ },
+ {
+  "satz": "(Kapitelkarte) Im Gerichtssaal",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 5: Nummer im Kreis, Titel „Im Gerichtssaal“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Stell dir einen Gerichtssaal vor.",
+  "sek": 2.08,
+  "zeigt": "Kamera fährt in einen gezeichneten Gerichtssaal: Richterpult mit Hammer",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:gefaehrlich",
+  "kapitel": 5
+ },
+ {
+  "satz": "Eine Angeklagte.",
+  "sek": 1.44,
+  "zeigt": "Eine Angeklagte steht vor dem Pult, Hände vor dem Körper",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Ein Einbruch.",
+  "sek": 1.36,
+  "zeigt": "Sprechblase des Richters: EINBRUCH, daneben eine aufgebrochene Tür",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Neunzehnhundertfünfundsiebzig spielten Harold Sigall und Nancy Ostrove so einen Fall [1975, 120]",
+  "sek": 4.96,
+  "zeigt": "Karteikarte 1975 · Univ. Maryland · Sigall & Ostrove, 120 Studierende",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "mit hundertzwanzig Studierenden der Universität Maryland nach. [120]",
+  "sek": 4.16,
+  "zeigt": "Zwölf Mini-Figuren in Reihen, darüber die eingekreiste 120: Studierende urteilen einzeln",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Alle lasen dieselbe Akte.",
+  "sek": 2.17,
+  "zeigt": "Eine Akte AKTE wird aufgeklappt, für alle gleich",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Nur das Foto der Angeklagten war anders.",
+  "sek": 2.8,
+  "zeigt": "Drei Fotos werden an die Akte geklemmt: attraktiv, weniger attraktiv, keines",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "War sie attraktiv, bekam sie im Schnitt knapp drei Jahre. [3 Jahre]",
+  "sek": 3.76,
+  "zeigt": "Diagramm EINBRUCH: Balken attraktiv knapp 3 Jahre",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "zahl",
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Ohne Foto oder mit einem weniger attraktiven Foto waren es rund fünf Jahre. [5 Jahre]",
+  "sek": 5.35,
+  "zeigt": "Zweiter Balken wächst auf rund 5 Jahre, die 5 wird eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Doch dann kam die Wendung.",
+  "sek": 1.84,
+  "zeigt": "Riesiges Wort WENDUNG, Musik setzt kurz aus",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:wendung",
+  "kapitel": 5
+ },
+ {
+  "satz": "In einer zweiten Version hatte die Frau keinen Einbruch begangen, sondern einen Betrug.",
+  "sek": 5.76,
+  "zeigt": "Board teilt sich: links EINBRUCH, rechts BETRUG",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Sie hatte einen Mann mit ihrem Charme um sein Geld gebracht.",
+  "sek": 3.45,
+  "zeigt": "Rechts: Angeklagte lächelt einen Mann an, ein Geldsack wandert zu ihr",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Jetzt drehte sich das Ergebnis.",
+  "sek": 2.32,
+  "zeigt": "Diagramm BETRUG: jetzt ist der Balken attraktiv der höhere",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:wendung",
+  "kapitel": 5
+ },
+ {
+  "satz": "Die attraktive Angeklagte bekam die härtere Strafe:",
+  "sek": 3.68,
+  "zeigt": "Die lächelnde Angeklagte bekommt ein trauriges Gesicht",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "fünfeinhalb Jahre, die anderen gut vier. [5,5 Jahre]",
+  "sek": 3.52,
+  "zeigt": "Über dem höheren Balken: 5,5 Jahre, rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Wenn Schönheit selbst Teil der Tat ist, wird sie nicht mehr verziehen.",
+  "sek": 4.32,
+  "zeigt": "Der Heiligenschein über der Angeklagten wird rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Auch bei echten Prozessen in Pennsylvania beobachtete ein Forscher vierundsiebzig Angeklagte. [74]",
+  "sek": 6.16,
+  "zeigt": "Ortsmarke PENNSYLVANIA, darunter 74 Mini-Figuren",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Die attraktiveren bekamen im Schnitt mildere Strafen.",
+  "sek": 3.68,
+  "zeigt": "Eine fallende Linie: je attraktiver, desto mildere Strafe",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Das ist ein Zusammenhang, kein Beweis für eine Ursache.",
+  "sek": 3.95,
+  "zeigt": "Daneben: URSACHE? wird geschrieben und rot gestrichen, ZUSAMMENHANG bleibt",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Station Nummer fünf: Der Heiligenschein wirkt bis vor Gericht.",
+  "sek": 4.8,
+  "zeigt": "Rückkehr zum Hook: Station 5 GERICHT wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 5
+ },
+ {
+  "satz": "Und das Unheimlichste daran:",
+  "sek": 2.0,
+  "zeigt": "Kopf eines Schöffen, drinnen ein halb verdeckter Heiligenschein",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:merken",
+  "kapitel": 5
+ },
+ {
+  "satz": "Die Urteilenden merken es nicht.",
+  "sek": 3.2,
+  "zeigt": "Augenbinde wird über das Kopfprofil gezeichnet: MERKEN ES NICHT",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "(Kapitelkarte) Du merkst es nicht",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 6: Nummer im Kreis, Titel „Du merkst es nicht“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Das zeigt ein Versuch an der Universität von Michigan.",
+  "sek": 3.2,
+  "zeigt": "Ortsmarke UNIVERSITÄT MICHIGAN, Campusgebäude",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:merken",
+  "kapitel": 6
+ },
+ {
+  "satz": "Neunzehnhundertsiebenundsiebzig sahen Studierende ein Video mit einem Dozenten. [1977]",
+  "sek": 4.4,
+  "zeigt": "Karteikarte 1977 · Nisbett & Wilson · Video-Experiment",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Er stammte aus Belgien und sprach Englisch mit deutlichem Akzent.",
+  "sek": 3.76,
+  "zeigt": "Ein Fernseher mit Dozent, Sprechblase mit Akzent-Wellen, Ortsmarke Belgien",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "person",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Es gab zwei Versionen.",
+  "sek": 1.52,
+  "zeigt": "Board teilt sich: Video A und Video B",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "In der einen war er warm und freundlich.",
+  "sek": 2.08,
+  "zeigt": "Links: Dozent lächelt, winkt freundlich, Herz",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "In der anderen kalt und abweisend.",
+  "sek": 2.31,
+  "zeigt": "Rechts: derselbe Dozent kalt, verschränkte Haltung, Eiswürfel",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Danach sollten alle sein Aussehen, seine Gesten und seinen Akzent bewerten.",
+  "sek": 4.64,
+  "zeigt": "Bewertungstabelle: Aussehen, Gesten, Akzent – Zeilen werden gezeichnet",
+  "animation": "Studie im Zeitraffer",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Dinge, die in beiden Videos genau gleich waren.",
+  "sek": 3.12,
+  "zeigt": "Unter der Tabelle: IN BEIDEN VIDEOS GLEICH, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:akzent",
+  "kapitel": 6
+ },
+ {
+  "satz": "Beim freundlichen Dozenten bewerteten sie den Akzent im Schnitt als angenehm.",
+  "sek": 4.4,
+  "zeigt": "In der Spalte WARM tragen sich Haken ein: angenehm",
+  "animation": "Studie im Zeitraffer",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:akzent",
+  "kapitel": 6
+ },
+ {
+  "satz": "Beim kalten genau denselben Akzent als störend.",
+  "sek": 3.68,
+  "zeigt": "In der Spalte KALT tragen sich Kreuze ein: störend",
+  "animation": "Studie im Zeitraffer",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Richard Nisbett und Timothy Wilson fragten danach:",
+  "sek": 3.44,
+  "zeigt": "Ein Forscher mit Klemmbrett fragt eine Versuchsperson",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Hat deine Sympathie dein Urteil beeinflusst?",
+  "sek": 2.88,
+  "zeigt": "Sprechblase: HAT DEINE SYMPATHIE DEIN URTEIL BEEINFLUSST?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Die meisten verneinten das.",
+  "sek": 2.06,
+  "zeigt": "Versuchsperson schüttelt den Kopf: NEIN!",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Wer den kalten Dozenten gesehen hatte, glaubte sogar oft, es sei genau andersherum gewesen.",
+  "sek": 5.52,
+  "zeigt": "Pfeil wird umgedreht: AKZENT → ABNEIGUNG statt ABNEIGUNG → AKZENT",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Der Akzent habe ihnen den Dozenten unsympathisch gemacht.",
+  "sek": 3.76,
+  "zeigt": "Der obere, echte Pfeil wird halb verdeckt, der falsche rote bleibt groß",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Station Nummer sechs:",
+  "sek": 1.6,
+  "zeigt": "Rückkehr zum Hook: Station 6 UNBEWUSST wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 6
+ },
+ {
+  "satz": "Der Halo-Effekt fühlt sich nicht wie ein Fehler an.",
+  "sek": 3.41,
+  "zeigt": "Zoom in ein Auge: darin spiegelt sich ein Heiligenschein",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Er fühlt sich an wie Wahrnehmung.",
+  "sek": 2.24,
+  "zeigt": "Kamera zieht zurück: WAHRNEHMUNG, nicht FEHLER",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Doch er braucht nicht einmal einen Menschen.",
+  "sek": 3.39,
+  "zeigt": "Abgedeckte Karte: OHNE MENSCH?",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:ding",
+  "kapitel": 6
+ },
+ {
+  "satz": "(Kapitelkarte) Auch bei Dingen",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 7: Nummer im Kreis, Titel „Auch bei Dingen“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Stell dir zwei Kekse vor.",
+  "sek": 2.0,
+  "zeigt": "Zwei identische Kekse werden gezeichnet",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:ding",
+  "kapitel": 7
+ },
+ {
+  "satz": "Genau gleich.",
+  "sek": 1.04,
+  "zeigt": "Gleichheitszeichen zwischen den Keksen",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Auf einem steht: mit Bio-Mehl und Bio-Zucker.",
+  "sek": 3.84,
+  "zeigt": "Über dem rechten Keks erscheint: BIO-MEHL & BIO-ZUCKER, dann ein Heiligenschein",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Zweitausendzehn zeigten Jonathon Schuldt und Norbert Schwarz Studierenden in Michigan genau solche Kekse, [2010]",
+  "sek": 6.48,
+  "zeigt": "Karteikarte 2010 · Michigan · Schuldt & Schwarz",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "mit derselben Nährwerttabelle. [160 kcal]",
+  "sek": 1.96,
+  "zeigt": "Zwei identische Nährwerttabellen: je 160 kcal pro Portion",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Trotzdem schätzten sie die Bio-Kekse im Schnitt kalorienärmer ein.",
+  "sek": 4.32,
+  "zeigt": "Geschätzte Kalorien: Balken BIO niedriger als NORMAL",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Und fanden, man dürfe sie öfter essen.",
+  "sek": 2.8,
+  "zeigt": "Eine Figur greift fröhlich zu einem zweiten Keks: ÖFTER",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Ein gutes Merkmal strahlt auf alles andere.",
+  "sek": 3.12,
+  "zeigt": "Vom Wort BIO laufen Strahlen zu GESUND, LEICHT, LECKER",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Auch auf Dinge, mit denen es gar nichts zu tun hat.",
+  "sek": 3.41,
+  "zeigt": "LEICHT wird rot durchgestrichen – hat mit Bio nichts zu tun",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Und es gibt die Rückseite.",
+  "sek": 1.44,
+  "zeigt": "Der Heiligenschein dreht sich um und wird zu zwei roten Hörnern",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:rueckseite",
+  "kapitel": 7
+ },
+ {
+  "satz": "Man nennt sie auch den Horn-Effekt, nach den Teufelshörnern.",
+  "sek": 3.84,
+  "zeigt": "Hörner wachsen auf dem Kopf, daneben HORN-EFFEKT",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:rueckseite",
+  "kapitel": 7
+ },
+ {
+  "satz": "Ein einziger schlechter Eindruck, ein Fleck auf dem Hemd,",
+  "sek": 3.44,
+  "zeigt": "Drei kleine Bilder: Fleck auf dem Hemd, Tippfehler im Brief, dann alles grau",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "ein Tippfehler im Anschreiben,",
+  "sek": 1.92,
+  "zeigt": "Ein Anschreiben, ein Tippfehler wird rot eingekreist",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "und plötzlich wirkt alles schlechter.",
+  "sek": 2.48,
+  "zeigt": "Pfeil nach unten, die Figur wird grau: ALLES SCHLECHTER",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Spannend ist, dass der Heiligenschein nicht überall gleich leuchtet.",
+  "sek": 4.26,
+  "zeigt": "Gezeichnete Weltkugel dreht sich, der Heiligenschein darüber flackert",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:kultur",
+  "kapitel": 7
+ },
+ {
+  "satz": "In einer Studie mit Studierenden in Südkorea verbanden die Befragten Schönheit, [1997]",
+  "sek": 5.2,
+  "zeigt": "Karteikarte 1997 · Südkorea · Wheeler & Kim, Ortsmarke Korea auf der Kugel",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "anders als in Studien aus Nordamerika, auch mit Ehrlichkeit und Rücksicht auf andere.",
+  "sek": 5.6,
+  "zeigt": "Zwei Spalten: NORDAMERIKA – beliebt, stark / SÜDKOREA – ehrlich, rücksichtsvoll",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:kultur",
+  "kapitel": 7
+ },
+ {
+  "satz": "Also mit dem, was in ihrer Kultur besonders zählt.",
+  "sek": 4.38,
+  "zeigt": "Unter SÜDKOREA verbinden sich Figuren zu einer Gruppe",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Station Nummer sieben:",
+  "sek": 1.68,
+  "zeigt": "Rückkehr zum Hook: Station 7 DINGE wird rot abgehakt – alle sieben erledigt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:stationen",
+  "kapitel": 7
+ },
+ {
+  "satz": "Der Schein strahlt auf das, was uns wichtig ist.",
+  "sek": 3.44,
+  "zeigt": "Über dem Weg wird der Heiligenschein zu einem Scheinwerfer, der auf ein Herz zeigt",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Aber wie kommt man aus dieser Falle raus?",
+  "sek": 3.39,
+  "zeigt": "Die abgedeckte TRICK-Karte vom Anfang taucht wieder auf",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "teaser:trick",
+  "kapitel": 7
+ },
+ {
+  "satz": "(Kapitelkarte) So trickst du ihn aus",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 8: Nummer im Kreis, Titel „So trickst du ihn aus“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Der Psychologe Daniel Kahneman erzählt in seinem Buch „Schnelles Denken, langsames Denken“, [2011]",
+  "sek": 5.44,
+  "zeigt": "Karteikarte 2011 · Daniel Kahneman · Buch",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:trick",
+  "kapitel": 8
+ },
+ {
+  "satz": "wie er früher Prüfungen korrigiert hat.",
+  "sek": 2.48,
+  "zeigt": "Ein Professor am Schreibtisch vor einem Stapel Prüfungshefte",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Er las alle Antworten einer Person am Stück.",
+  "sek": 2.88,
+  "zeigt": "Ein Heft wird aufgeklappt: Antwort 1, 2, 3 einer Person untereinander",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "War die erste Antwort stark, las er die nächsten wohlwollender.",
+  "sek": 3.84,
+  "zeigt": "Antwort 1 bekommt eine rote Eins, Pfeile ziehen die nächsten Noten mit nach oben",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Also änderte er seine Methode.",
+  "sek": 2.28,
+  "zeigt": "Professor steht auf, Glühbirne über dem Kopf",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Er bewertete erst Frage eins bei allen, dann Frage zwei bei allen.",
+  "sek": 4.64,
+  "zeigt": "Tabelle: Spalte FRAGE 1 bei allen Heften wird von oben nach unten gefüllt, dann FRAGE 2",
+  "animation": "Studie im Zeitraffer",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und er notierte die Punkte versteckt, hinten im Heft, damit er sie bei der nächsten Antwort nicht sah.",
+  "sek": 6.24,
+  "zeigt": "Ein Heft dreht sich um, Punkte werden hinten versteckt notiert",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Plötzlich waren seine Noten viel weniger einheitlich.",
+  "sek": 3.2,
+  "zeigt": "Notenreihe vorher: alles 1, nachher: 1, 3, 2, 4 – gemischt",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Er fühlte sich unsicherer.",
+  "sek": 1.98,
+  "zeigt": "Regler SICHER – UNSICHER kippt nach unsicher",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Aber genau das war ehrlicher.",
+  "sek": 2.48,
+  "zeigt": "Über dem Regler: EHRLICHER, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Das ist der Trick:",
+  "sek": 1.36,
+  "zeigt": "Die TRICK-Karte vom Anfang wird aufgedeckt",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Zerlege dein Urteil.",
+  "sek": 1.76,
+  "zeigt": "Darunter ZERLEGE DEIN URTEIL, ein Gesicht zerfällt in vier Kästchen",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Bewerte jede Eigenschaft einzeln, am besten nach festen Fragen, die du vorher aufschreibst.",
+  "sek": 6.0,
+  "zeigt": "In die vier Kästchen schreiben sich Fragen: Fakten? Leistung? Text? Ziel?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Genau so arbeiten strukturierte Bewerbungsgespräche.",
+  "sek": 3.53,
+  "zeigt": "Bewerbungstisch mit Fragebogen auf dem Tisch: STRUKTURIERT",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Sie sagen im Schnitt die spätere Leistung im Job besser voraus als ein lockeres Gespräch nach Gefühl.",
+  "sek": 6.72,
+  "zeigt": "Zwei Balken TREFFSICHERHEIT: strukturiert höher als nach Gefühl",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Ein zweiter Trick: Hol eine zweite Meinung ein,",
+  "sek": 3.44,
+  "zeigt": "Hauptfigur fragt eine zweite Person, die den ersten Eindruck nicht kennt (Augenbinde)",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "von jemandem, der deinen ersten Eindruck nicht kennt.",
+  "sek": 3.6,
+  "zeigt": "Der zweiten Person wird eine Augenbinde gezeichnet: kennt den ersten Eindruck nicht",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und im Alltag? Wenn du jemanden sofort klug oder unsympathisch findest, frag dich kurz:",
+  "sek": 6.41,
+  "zeigt": "Zoom in den Kopf der Hauptfigur: drinnen steht ein Gesicht mit Heiligenschein",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Woran genau mache ich das fest?",
+  "sek": 2.48,
+  "zeigt": "Drei Fragen schreiben sich in die Blase: WORAN GENAU?",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Woran an der Sache selbst?",
+  "sek": 2.0,
+  "zeigt": "Zweite Frage: AN DER SACHE?",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und was davon ist nur Heiligenschein?",
+  "sek": 3.77,
+  "zeigt": "Der Heiligenschein im Kopf wird rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Schöne Menschen sind nicht automatisch klüger.",
+  "sek": 2.88,
+  "zeigt": "SCHÖN = KLUG wird geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Unser Kopf macht sie klüger, als sie sind.",
+  "sek": 2.48,
+  "zeigt": "Gezeichnetes Gehirn, aus dem ein Heiligenschein aufsteigt",
+  "animation": "Gehirn-Skizze",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Er spart sich Arbeit und fällt aus einem Eindruck ein ganzes Urteil.",
+  "sek": 4.32,
+  "zeigt": "Kette: EIN EINDRUCK → GANZES URTEIL, schneller Pfeil",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:warum",
+  "kapitel": 9
+ },
+ {
+  "satz": "Bei Noten, bei Wahlen, sogar vor Gericht.",
+  "sek": 3.0,
+  "zeigt": "Drei Mini-Symbole: Zeugnis, Wahlurne, Richterhammer",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Das Gute ist:",
+  "sek": 1.2,
+  "zeigt": "Hauptfigur hebt eine Lupe, der Heiligenschein wird sichtbar umrandet",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Wenn du den Heiligenschein kennst, kannst du ihn sehen.",
+  "sek": 3.2,
+  "zeigt": "In der Lupe: ein Heiligenschein, daneben ERKANNT",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Jetzt bin ich neugierig.",
+  "sek": 1.68,
+  "zeigt": "Großes Kommentarfeld wird gezeichnet",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Bei welcher der sieben Stationen hat der Halo-Effekt dich schon erwischt?",
+  "sek": 3.86,
+  "zeigt": "Im Kommentarfeld: BEI WELCHER STATION HAT ER DICH ERWISCHT?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Schreib es in die Kommentare.",
+  "sek": 1.84,
+  "zeigt": "SCHREIB'S IN DIE KOMMENTARE! unter dem Feld, unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Und wie viele Stationen hast du mitgezählt? [7]",
+  "sek": 2.8,
+  "zeigt": "Rechts oben: ? / 7 in Handschrift, eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Abonniere Denkmuster und aktiviere die Glocke.",
+  "sek": 3.04,
+  "zeigt": "DENKMUSTER-Schriftzug, Hauptfigur jubelt, eine Glocke wird gezeichnet",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Dann verpasst du nicht, warum Menschen tun, was sie tun.",
+  "sek": 3.36,
+  "zeigt": "Unter dem Schriftzug: WARUM MENSCHEN TUN, WAS SIE TUN",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Bis zum nächsten Mal.",
+  "sek": 3.5,
+  "zeigt": "Kamera fährt weit zurück: das ganze Schluss-Board als ein Bild",
+  "animation": "Board-Panorama",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "stimmung",
+  "neugier": "",
+  "kapitel": 9
+ }
+]

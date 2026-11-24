@@ -1,0 +1,766 @@
+{
+"words": [
+{
+"w": "Neunzehnhundertzweiundsiebzig",
+"s": 0.16,
+"e": 1.36
+},
+{
+"w": "wollten",
+"s": 1.6,
+"e": 1.92
+},
+{
+"w": "drei",
+"s": 2.0,
+"e": 2.16
+},
+{
+"w": "Forscherinnen",
+"s": 2.24,
+"e": 2.88
+},
+{
+"w": "genau",
+"s": 2.96,
+"e": 3.2
+},
+{
+"w": "das",
+"s": 3.28,
+"e": 3.4
+},
+{
+"w": "wissen.",
+"s": 3.6,
+"e": 4.0
+},
+{
+"w": "Karen",
+"s": 4.24,
+"e": 4.48
+},
+{
+"w": "Dion,",
+"s": 4.72,
+"e": 5.28
+},
+{
+"w": "Ellen",
+"s": 5.28,
+"e": 5.76
+},
+{
+"w": "Berscheid",
+"s": 5.76,
+"e": 6.24
+},
+{
+"w": "und",
+"s": 6.32,
+"e": 6.44
+},
+{
+"w": "Elaine",
+"s": 6.48,
+"e": 6.8
+},
+{
+"w": "Walster",
+"s": 6.88,
+"e": 7.28
+},
+{
+"w": "zeigten",
+"s": 7.68,
+"e": 8.0
+},
+{
+"w": "sechzig",
+"s": 8.0,
+"e": 8.32
+},
+{
+"w": "Studierenden",
+"s": 8.48,
+"e": 9.04
+},
+{
+"w": "der",
+"s": 9.2,
+"e": 9.32
+},
+{
+"w": "Universität",
+"s": 9.36,
+"e": 9.92
+},
+{
+"w": "von",
+"s": 10.0,
+"e": 10.12
+},
+{
+"w": "Minnesota",
+"s": 10.16,
+"e": 10.8
+},
+{
+"w": "Fotos",
+"s": 11.12,
+"e": 11.6
+},
+{
+"w": "von",
+"s": 11.68,
+"e": 11.8
+},
+{
+"w": "Menschen.",
+"s": 11.92,
+"e": 12.48
+},
+{
+"w": "Manche",
+"s": 12.64,
+"e": 12.96
+},
+{
+"w": "galten",
+"s": 13.04,
+"e": 13.28
+},
+{
+"w": "als",
+"s": 13.52,
+"e": 13.64
+},
+{
+"w": "sehr",
+"s": 13.68,
+"e": 13.8
+},
+{
+"w": "attraktiv,",
+"s": 13.84,
+"e": 14.48
+},
+{
+"w": "manche",
+"s": 14.721,
+"e": 15.041
+},
+{
+"w": "als",
+"s": 15.121,
+"e": 15.241
+},
+{
+"w": "durchschnittlich,",
+"s": 15.281,
+"e": 16.081
+},
+{
+"w": "manche",
+"s": 16.161,
+"e": 16.481
+},
+{
+"w": "als",
+"s": 16.561,
+"e": 16.681
+},
+{
+"w": "wenig",
+"s": 16.801,
+"e": 17.121
+},
+{
+"w": "attraktiv.",
+"s": 17.201,
+"e": 17.921
+},
+{
+"w": "Die",
+"s": 18.161,
+"e": 18.281
+},
+{
+"w": "Studierenden",
+"s": 18.401,
+"e": 18.961
+},
+{
+"w": "sollten",
+"s": 19.121,
+"e": 19.361
+},
+{
+"w": "schätzen,",
+"s": 19.441,
+"e": 20.001
+},
+{
+"w": "wie",
+"s": 20.081,
+"e": 20.201
+},
+{
+"w": "diese",
+"s": 20.321,
+"e": 20.441
+},
+{
+"w": "Menschen",
+"s": 20.561,
+"e": 20.681
+},
+{
+"w": "sind.",
+"s": 21.041,
+"e": 21.361
+},
+{
+"w": "Freundlich",
+"s": 21.601,
+"e": 22.161
+},
+{
+"w": "oder",
+"s": 22.321,
+"e": 22.441
+},
+{
+"w": "kühl?",
+"s": 22.561,
+"e": 23.121
+},
+{
+"w": "Erfolgreich",
+"s": 23.361,
+"e": 24.081
+},
+{
+"w": "oder",
+"s": 24.161,
+"e": 24.281
+},
+{
+"w": "nicht?",
+"s": 24.481,
+"e": 24.881
+},
+{
+"w": "Mehr",
+"s": 25.121,
+"e": 25.441
+},
+{
+"w": "wussten",
+"s": 25.521,
+"e": 25.921
+},
+{
+"w": "sie",
+"s": 26.001,
+"e": 26.121
+},
+{
+"w": "nicht,",
+"s": 26.241,
+"e": 26.561
+},
+{
+"w": "nur",
+"s": 26.641,
+"e": 26.761
+},
+{
+"w": "das",
+"s": 26.881,
+"e": 27.001
+},
+{
+"w": "Gesicht.",
+"s": 27.121,
+"e": 27.761
+},
+{
+"w": "Das",
+"s": 28.001,
+"e": 28.121
+},
+{
+"w": "Ergebnis",
+"s": 28.241,
+"e": 28.641
+},
+{
+"w": "gab",
+"s": 28.801,
+"e": 28.961
+},
+{
+"w": "der",
+"s": 29.041,
+"e": 29.161
+},
+{
+"w": "Studie",
+"s": 29.201,
+"e": 29.601
+},
+{
+"w": "ihren",
+"s": 29.681,
+"e": 29.921
+},
+{
+"w": "Namen:",
+"s": 29.921,
+"e": 30.401
+},
+{
+"w": "Was",
+"s": 30.561,
+"e": 30.681
+},
+{
+"w": "schön",
+"s": 30.881,
+"e": 31.121
+},
+{
+"w": "ist,",
+"s": 31.281,
+"e": 31.521
+},
+{
+"w": "ist",
+"s": 31.681,
+"e": 31.801
+},
+{
+"w": "gut.",
+"s": 31.921,
+"e": 32.321
+},
+{
+"w": "Den",
+"s": 32.775,
+"e": 32.895
+},
+{
+"w": "attraktiven",
+"s": 33.095,
+"e": 33.655
+},
+{
+"w": "Menschen",
+"s": 33.815,
+"e": 33.935
+},
+{
+"w": "trauten",
+"s": 34.135,
+"e": 34.455
+},
+{
+"w": "sie",
+"s": 34.615,
+"e": 34.735
+},
+{
+"w": "im",
+"s": 34.775,
+"e": 34.895
+},
+{
+"w": "Schnitt",
+"s": 34.935,
+"e": 35.175
+},
+{
+"w": "die",
+"s": 35.255,
+"e": 35.375
+},
+{
+"w": "angenehmere",
+"s": 35.415,
+"e": 35.975
+},
+{
+"w": "Persönlichkeit",
+"s": 36.135,
+"e": 36.695
+},
+{
+"w": "zu.",
+"s": 36.855,
+"e": 37.255
+},
+{
+"w": "Die",
+"s": 37.495,
+"e": 37.615
+},
+{
+"w": "besseren",
+"s": 37.655,
+"e": 38.055
+},
+{
+"w": "Berufe.",
+"s": 38.215,
+"e": 38.935
+},
+{
+"w": "Sogar",
+"s": 39.175,
+"e": 39.495
+},
+{
+"w": "ein",
+"s": 39.575,
+"e": 39.695
+},
+{
+"w": "glücklicheres",
+"s": 39.735,
+"e": 40.455
+},
+{
+"w": "Leben.",
+"s": 40.455,
+"e": 40.855
+},
+{
+"w": "Nur",
+"s": 41.15,
+"e": 41.39
+},
+{
+"w": "in",
+"s": 41.55,
+"e": 41.67
+},
+{
+"w": "einem",
+"s": 41.79,
+"e": 41.91
+},
+{
+"w": "Punkt",
+"s": 42.03,
+"e": 42.35
+},
+{
+"w": "nicht:",
+"s": 42.43,
+"e": 42.83
+},
+{
+"w": "Als",
+"s": 42.99,
+"e": 43.11
+},
+{
+"w": "Eltern",
+"s": 43.31,
+"e": 43.63
+},
+{
+"w": "trauten",
+"s": 43.79,
+"e": 44.11
+},
+{
+"w": "sie",
+"s": 44.35,
+"e": 44.47
+},
+{
+"w": "den",
+"s": 44.51,
+"e": 44.63
+},
+{
+"w": "Schönen",
+"s": 44.67,
+"e": 44.99
+},
+{
+"w": "sogar",
+"s": 45.15,
+"e": 45.39
+},
+{
+"w": "am",
+"s": 45.39,
+"e": 45.51
+},
+{
+"w": "wenigsten",
+"s": 45.55,
+"e": 46.03
+},
+{
+"w": "zu.",
+"s": 46.19,
+"e": 46.59
+},
+{
+"w": "Spätere",
+"s": 46.83,
+"e": 47.39
+},
+{
+"w": "Auswertungen",
+"s": 47.55,
+"e": 48.19
+},
+{
+"w": "vieler",
+"s": 48.35,
+"e": 48.59
+},
+{
+"w": "Studien",
+"s": 48.67,
+"e": 49.07
+},
+{
+"w": "zeigen",
+"s": 49.23,
+"e": 49.47
+},
+{
+"w": "ein",
+"s": 49.55,
+"e": 49.67
+},
+{
+"w": "feineres",
+"s": 49.71,
+"e": 50.27
+},
+{
+"w": "Bild.",
+"s": 50.27,
+"e": 50.75
+},
+{
+"w": "Am",
+"s": 50.99,
+"e": 51.11
+},
+{
+"w": "stärksten",
+"s": 51.23,
+"e": 51.71
+},
+{
+"w": "strahlt",
+"s": 51.79,
+"e": 52.19
+},
+{
+"w": "Schönheit",
+"s": 52.35,
+"e": 52.75
+},
+{
+"w": "auf",
+"s": 52.83,
+"e": 52.95
+},
+{
+"w": "das,",
+"s": 53.07,
+"e": 53.39
+},
+{
+"w": "was",
+"s": 53.39,
+"e": 53.51
+},
+{
+"w": "man",
+"s": 53.63,
+"e": 53.75
+},
+{
+"w": "soziale",
+"s": 53.87,
+"e": 54.35
+},
+{
+"w": "Kompetenz",
+"s": 54.43,
+"e": 54.99
+},
+{
+"w": "nennt:",
+"s": 55.07,
+"e": 55.55
+},
+{
+"w": "beliebt,",
+"s": 55.71,
+"e": 56.27
+},
+{
+"w": "gesellig,",
+"s": 56.43,
+"e": 57.07
+},
+{
+"w": "kontaktfreudig.",
+"s": 57.15,
+"e": 58.43
+},
+{
+"w": "Auf",
+"s": 58.579,
+"e": 58.899
+},
+{
+"w": "Klugheit",
+"s": 58.979,
+"e": 59.539
+},
+{
+"w": "strahlt",
+"s": 59.699,
+"e": 60.099
+},
+{
+"w": "sie",
+"s": 60.099,
+"e": 60.219
+},
+{
+"w": "schwächer,",
+"s": 60.259,
+"e": 60.739
+},
+{
+"w": "aber",
+"s": 60.819,
+"e": 60.939
+},
+{
+"w": "messbar.",
+"s": 61.059,
+"e": 61.779
+},
+{
+"w": "Auf",
+"s": 62.019,
+"e": 62.259
+},
+{
+"w": "Ehrlichkeit",
+"s": 62.259,
+"e": 62.739
+},
+{
+"w": "und",
+"s": 62.899,
+"e": 63.019
+},
+{
+"w": "Rücksicht",
+"s": 63.139,
+"e": 63.539
+},
+{
+"w": "kaum.",
+"s": 63.699,
+"e": 64.339
+},
+{
+"w": "Station",
+"s": 64.579,
+"e": 64.979
+},
+{
+"w": "Nummer",
+"s": 65.219,
+"e": 65.539
+},
+{
+"w": "zwei:",
+"s": 65.619,
+"e": 65.859
+},
+{
+"w": "Schönheit",
+"s": 66.419,
+"e": 66.979
+},
+{
+"w": "bekommt",
+"s": 67.139,
+"e": 67.539
+},
+{
+"w": "Vorschuss.",
+"s": 67.619,
+"e": 68.419
+},
+{
+"w": "Und",
+"s": 68.579,
+"e": 68.699
+},
+{
+"w": "dieser",
+"s": 68.819,
+"e": 68.939
+},
+{
+"w": "Vorschuss",
+"s": 69.139,
+"e": 69.699
+},
+{
+"w": "kann",
+"s": 69.779,
+"e": 69.899
+},
+{
+"w": "sich",
+"s": 70.019,
+"e": 70.139
+},
+{
+"w": "auszahlen,",
+"s": 70.179,
+"e": 70.979
+},
+{
+"w": "ganz",
+"s": 71.059,
+"e": 71.299
+},
+{
+"w": "konkret,",
+"s": 71.379,
+"e": 71.939
+},
+{
+"w": "in",
+"s": 72.019,
+"e": 72.139
+},
+{
+"w": "Noten.",
+"s": 72.179,
+"e": 72.739
+}
+],
+"dur": 72.8,
+"recognized": "1972 wollten drei Forscherinnen genau das wissen. Karen Dion, Alan Burscheid und Elaine Walster zeigten 60 Studierenden der Universität von Minnesota Fotos von Menschen. Manche galten als sehr attraktiv. Manche als durchschnittlich, manche als wenig attraktiv. Die Studierenden sollten schätzen, wie diese Menschen sind. Freundlich oder kühl, erfolgreich oder nicht. Mehr wussten sie nicht, nur das Gesicht. Das Ergebnis gab der Studie ihren Namen. Was schön ist, ist gut. Den attraktiven Menschen trauten sie im Schnitt die angenehmere Persönlichkeit zu. Die besseren Berufe. Sogar ein glücklicheres Leben. Nur in einem Punkt nicht. Als Eltern trauten sie den Schönen sogar am wenigsten zu. Spätere Auswertungen vieler Studien zeigen ein feineres Bild. Am stärksten strahlt Schönheit auf das, was man soziale Kompetenz nennt. Beliebt, gesellig, kontaktfreudig. Auf Klugheit strahlt sie schwächer, aber messbar. Auf Ehrlichkeit und Rücksicht kaum. Station Nummer 2 Schönheit bekommt Vorschuss. Und dieser Vorschuss kann sich auszahlen, ganz konkret, in Noten."
+}
