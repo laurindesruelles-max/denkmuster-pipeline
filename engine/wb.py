@@ -151,7 +151,7 @@ def render(board, path, duration, voice, voice_start=0.5, music=None):
                 ctx.select_font_face(font, cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_BOLD); ctx.set_font_size(size)
                 e = ctx.text_extents(s)
                 x0 = -e.width / 2 - e.x_bearing if align == "center" else (-e.width - e.x_bearing if align == "right" else 0)
-                ctx.save(); ctx.rectangle(x0 - 10, -size * 1.1, (e.width + 20) * f, size * 1.6); ctx.clip()
+                ctx.save(); ctx.rectangle(x0 + e.x_bearing - 0.12 * size, -size * 1.3, (e.width + 0.24 * size) * f, size * 1.9); ctx.clip()  # Fix 24.11.2026: Clip begann bei x0 statt x0+x_bearing -> letzter Buchstabe rechts abgeschnitten
                 ctx.move_to(x0, 0); ctx.set_source_rgba(*col); ctx.show_text(s); ctx.restore()
                 ctx.restore()
                 if f < 1:

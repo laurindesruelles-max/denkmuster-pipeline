@@ -23,7 +23,7 @@ def frame(t):
             s, x, y, size, col, font, align, rot = d
             ctx.save(); ctx.translate(x, y); ctx.select_font_face(font, cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_BOLD); ctx.set_font_size(size)
             e = ctx.text_extents(s); x0 = -e.width/2 - e.x_bearing
-            ctx.rectangle(x0-10, -size*1.1, (e.width+20)*f, size*1.6); ctx.clip(); ctx.move_to(x0, 0); ctx.set_source_rgba(*col); ctx.show_text(s); ctx.restore()
+            ctx.rectangle(x0 + e.x_bearing - 0.12*size, -size*1.3, (e.width + 0.24*size)*f, size*1.9); ctx.clip(); ctx.move_to(x0, 0); ctx.set_source_rgba(*col); ctx.show_text(s); ctx.restore()
     for fn in b.dyn: fn(ctx, t)
     ctx.restore(); surf.flush()
     return Image.frombuffer("RGBA", (W, H), bytes(surf.get_data()), "raw", "BGRA", 0, 1).convert("RGB")
