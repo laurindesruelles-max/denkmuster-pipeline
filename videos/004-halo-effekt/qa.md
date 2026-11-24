@@ -65,3 +65,8 @@
 
 ## Ergebnis
 Technik ✅ · Ton ✅ (0 major) · Faktencheck ✅ · Recht ✅ → bei vidIQ als **Entwurf** angelegt (postId 631471ed-8c91-47df-9fbd-cb1e4bc98ee4, öffentlich vorgesehen, nicht veröffentlicht). Grund: LESSONS 21.11.2026 – bei Widerspruch zwischen geplantem Task („direkt öffentlich“) und HANDWERK.md („nur nach Laurins Ja“) erst Entwurf, Laurin gibt frei.
+
+## Nachtrag 24.11.2026 (Laurin: „Zahlen/Buchstaben rechts abgehackt“)
+- Ursache: Text-Maske in engine/wb.py begann bei x0 statt x0 + x_bearing → rechter Rand jeder Schrift 15–20 px abgeschnitten. Behoben, Video neu gerendert, gleiche Ton-Nachbearbeitung (master.py + EQ).
+- qa.py erneut: Länge 11:43 ✅, −14,8 LUFS ✅, 1080p ✅, Thumbnail ✅. Einzelbilder geprüft: Schrift vollständig.
+- vidIQ-Entwurf mit neuer Fassung aktualisiert (revision c6671d2e), weiterhin nicht veröffentlicht.
