@@ -75,3 +75,4 @@ Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ)
 - Gemini-Casting: Goldsmith sub_drop+slap und paper PREMIUM für Denkmuster; pop als Zahl-/Abhak-Sound CHEAP. Gemini erfindet bei 16 kbps „Marker-Quietschen“ – immer gegen die Effektliste prüfen.
 - Faktencheck-Kurzcheck nach dem Rendern fand noch einen Widerspruch Hook ↔ Kapitel („Ehrlichkeit“ im Hook, „kaum“ in K2) → Hook-Aufzählungen gegen alle Kapitel abgleichen, bevor eingesprochen wird.
 - Kosten: 13 × Helena (10 + 3 Neueinsprachen) + 2 Thumbnail-Motive ≈ 39 Credits.
+- **Abgeschnittene Buchstaben (Laurin 24.11.2026):** Die Schreib-Maske für Text in wb.py begann bei x0 statt x0 + x_bearing → letzter Buchstabe / letzte Ziffer rechts um 15–20 px abgeschnitten (betraf auch 001–003). Behoben in engine/wb.py + preview.py; 004 neu gerendert.
