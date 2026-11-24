@@ -1,4 +1,4 @@
-SOUNDS  Sounds: 75 geplant -> 70 behalten (~6.0/Min.). Entfernt: verboten 0, defekt 0, Wiederholung 1, gestapelt 0, zu dicht 4, Schleife 0, Datei fehlt 0.
+SOUNDS  Sounds: 102 geplant -> 80 behalten (~6.8/Min.). Entfernt: verboten 0, defekt 0, Wiederholung 17, gestapelt 0, zu dicht 5, Schleife 0, Datei fehlt 0.
 
 MUSIK   Spannungskurve denkmuster: 23 Beats, 18 Musikabschnitte, längster Abschnitt 51 s
   0:05.7  frage        ██
@@ -47,7 +47,7 @@ Lücken ohne neuen Reiz > 22 s: 0
 
 ENDKONTROLLE
 OK  Lautheit -15.3 LUFS (Ziel −14…−16)
-OK  Spitze -1.2 dBTP (Ziel ≤ −1)
+OK  Spitze -1.1 dBTP (Ziel ≤ −1)
 FEHLER Stille-Löcher > 2,5 s: 1
 OK  Musik unter Stimme: 15.6 dB (Ziel 12–24)
 OK  Musik ohne Bewegung > 75 s: keine

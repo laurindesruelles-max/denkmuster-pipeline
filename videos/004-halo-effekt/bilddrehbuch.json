@@ -290,10 +290,22 @@
   "kapitel": 1
  },
  {
-  "satz": "Als hätten die Vorgesetzten nur ein einziges Urteil gefällt und es dann auf alles verteilt.",
-  "sek": 5.84,
+  "satz": "",
+  "sek": 0.0,
   "zeigt": "Ein großes Urteil EINDRUCK verzweigt sich mit Pfeilen auf alle vier Eigenschaften",
   "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Als hätten die Vorgesetzten nur ein einziges Urteil gefällt und es dann auf alles verteilt.",
+  "sek": 5.84,
+  "zeigt": "Gedankenwolken-Ablauf: Auge EIN EINDRUCK → Gehirn EIN URTEIL → Blatt ALLE NOTEN, ein Zettel wandert durch",
+  "animation": "Gedankenwolken-Ablauf (`motion` flow)",
   "inhalt": [
    "erklaerung"
   ],
@@ -591,10 +603,22 @@
   "kapitel": 2
  },
  {
-  "satz": "Spätere Auswertungen vieler Studien zeigen ein feineres Bild. [1991]",
-  "sek": 4.16,
+  "satz": "Spätere Auswertungen vieler Studien [1991]",
+  "sek": 2.4,
   "zeigt": "Ein Stapel aus vielen Karteikarten: AUSWERTUNG VIELER STUDIEN (1991)",
   "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "zeigen ein feineres Bild. [1991]",
+  "sek": 1.76,
+  "zeigt": "Studien-Stapel: Karten Dion 1972, Eagly 1991, Wheeler & Kim 1997, Langlois 2000 stapeln sich, Frage WORAUF STRAHLT SCHÖNHEIT?",
+  "animation": "Studien-Stapel (`motion` stack)",
   "inhalt": [
    "zeit"
   ],
@@ -773,8 +797,8 @@
   "kapitel": 3
  },
  {
-  "satz": "Trotzdem bekam die attraktive Autorin im Schnitt die besseren Noten.",
-  "sek": 4.65,
+  "satz": "",
+  "sek": 0.0,
   "zeigt": "Rote Noten erscheinen: über dem attraktiven Foto die bessere Note",
   "animation": "Pose wechselt",
   "inhalt": [
@@ -782,6 +806,18 @@
   ],
   "genauigkeit": "schema",
   "neugier": "frage:groesste",
+  "kapitel": 3
+ },
+ {
+  "satz": "Trotzdem bekam die attraktive Autorin im Schnitt die besseren Noten.",
+  "sek": 4.65,
+  "zeigt": "Notizzettel GLEICHER TEXT – GLEICHE NOTE? dreht sich um: FOTO ENTSCHEIDET MIT in Rot",
+  "animation": "Mythos dreht sich um (`motion` flip)",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
   "kapitel": 3
  },
  {
@@ -1015,10 +1051,22 @@
   "kapitel": 4
  },
  {
-  "satz": "Bei den Wahlen zum Senat hatte der kompetenter wirkende Kandidat in rund sieben von zehn Fällen gewonnen. [7 von 10]",
-  "sek": 6.4,
+  "satz": "Bei den Wahlen zum Senat hatte der kompetenter wirkende Kandidat [7 von 10]",
+  "sek": 3.84,
   "zeigt": "Zehn Wahlen als Kästchen, sieben davon füllen sich rot: 7 VON 10 · SENAT",
   "animation": "100 Figuren",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "in rund sieben von zehn Fällen gewonnen. [7 von 10]",
+  "sek": 2.56,
+  "zeigt": "Zahl zählt in Handschrift auf 7 VON 10 hoch, roter Kreis, darunter GEWANN DER KOMPETENTER WIRKENDE",
+  "animation": "Zahl rot eingekreist (`motion` counter)",
   "inhalt": [
    "zahl"
   ],
@@ -1347,12 +1395,25 @@
   "kapitel": 5
  },
  {
-  "satz": "Ohne Foto oder mit einem weniger attraktiven Foto waren es rund fünf Jahre. [5 Jahre]",
-  "sek": 5.35,
+  "satz": " [5 Jahre]",
+  "sek": 0.0,
   "zeigt": "Zweiter Balken wächst auf rund 5 Jahre, die 5 wird eingekreist",
   "animation": "Zahl in Handschrift",
   "inhalt": [
    "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Ohne Foto oder mit einem weniger attraktiven Foto waren es rund fünf Jahre. [5 Jahre]",
+  "sek": 5.35,
+  "zeigt": "Schraffur-Balken EINBRUCH: attraktiv 2,8 Jahre (rot), ohne Foto 5,1, weniger attraktiv 5,2",
+  "animation": "Schraffur-Balken (`motion` bars)",
+  "inhalt": [
+   "zahl",
+   "vergleich"
   ],
   "genauigkeit": "exakt",
   "neugier": "",
@@ -1419,12 +1480,25 @@
   "kapitel": 5
  },
  {
-  "satz": "fünfeinhalb Jahre, die anderen gut vier. [5,5 Jahre]",
-  "sek": 3.52,
+  "satz": "fünfeinhalb Jahre, [5,5 Jahre]",
+  "sek": 1.44,
   "zeigt": "Über dem höheren Balken: 5,5 Jahre, rot eingekreist",
   "animation": "Zahl in Handschrift",
   "inhalt": [
    "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "die anderen gut vier. [4 Jahre]",
+  "sek": 2.08,
+  "zeigt": "Schraffur-Balken BETRUG: jetzt attraktiv 5,45 Jahre am höchsten (rot), die anderen je 4,35",
+  "animation": "Schraffur-Balken (`motion` bars)",
+  "inhalt": [
+   "zahl",
+   "vergleich"
   ],
   "genauigkeit": "exakt",
   "neugier": "",
@@ -1662,14 +1736,26 @@
   "kapitel": 6
  },
  {
-  "satz": "Hat deine Sympathie dein Urteil beeinflusst?",
-  "sek": 2.88,
+  "satz": "",
+  "sek": 0.0,
   "zeigt": "Sprechblase: HAT DEINE SYMPATHIE DEIN URTEIL BEEINFLUSST?",
   "animation": "Live-Strich",
   "inhalt": [
    "geschehen"
   ],
   "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Hat deine Sympathie dein Urteil beeinflusst?",
+  "sek": 2.88,
+  "zeigt": "Gezeichnetes Handy: Frage HAT DEINE SYMPATHIE DEIN URTEIL BEEINFLUSST?, Antwort NEIN, DER AKZENT WAR EINFACH NERVIG (nachgestellt)",
+  "animation": "Gezeichnetes Handy (`motion` phone)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
   "neugier": "",
   "kapitel": 6
  },
@@ -1856,10 +1942,22 @@
   "kapitel": 7
  },
  {
-  "satz": "Ein gutes Merkmal strahlt auf alles andere.",
-  "sek": 3.12,
+  "satz": "",
+  "sek": 0.0,
   "zeigt": "Vom Wort BIO laufen Strahlen zu GESUND, LEICHT, LECKER",
   "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Ein gutes Merkmal strahlt auf alles andere.",
+  "sek": 3.12,
+  "zeigt": "Gedankenwolken-Ablauf: Etikett BIO → Herz GESUND → Auge WENIGER KALORIEN?, ein Zettel wandert durch",
+  "animation": "Gedankenwolken-Ablauf (`motion` flow)",
   "inhalt": [
    "erklaerung"
   ],
@@ -2206,14 +2304,27 @@
   "kapitel": 8
  },
  {
-  "satz": "Sie sagen im Schnitt die spätere Leistung im Job besser voraus als ein lockeres Gespräch nach Gefühl.",
-  "sek": 6.72,
+  "satz": "Sie sagen im Schnitt die spätere Leistung im Job",
+  "sek": 2.88,
   "zeigt": "Zwei Balken TREFFSICHERHEIT: strukturiert höher als nach Gefühl",
   "animation": "Handgezeichnetes Diagramm",
   "inhalt": [
    "vergleich"
   ],
   "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "besser voraus als ein lockeres Gespräch nach Gefühl. [1998]",
+  "sek": 3.84,
+  "zeigt": "Schraffur-Balken: strukturiertes Gespräch 0,51 (rot) höher als nach Gefühl 0,38, Quelle Schmidt & Hunter 1998",
+  "animation": "Schraffur-Balken (`motion` bars)",
+  "inhalt": [
+   "vergleich",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
   "neugier": "",
   "kapitel": 8
  },

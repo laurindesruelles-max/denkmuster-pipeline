@@ -33,6 +33,7 @@ Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt ö
 6. **Szenen** `scenes.py` mit `engine/kit.py` (Vorlage: `videos/001-gern-allein/main.py` zeigt, wie jede Szene gebaut wird). Pro Satz ein neues Bild,
    Hauptfigur `hero=True`, animierte Grafiken (Balken, Regler, Akku, Dimmer, Zähler), Labels in Caveat. Sonderzeichen ↑ ↓ → gibt es in Caveat NICHT – Wörter nehmen.
    Testlauf: `python3 scenes.py` bricht ab, wenn ein Stichwort fehlt. Kontaktabzug ansehen (ffmpeg Frames), Überlappungen fixen.
+6b. **2D-Motion-Graphics (PFLICHT seit 24.11.2026, Laurin):** mindestens 8 Clips pro Video aus `engine/motion_dm.py` (flow, flip, counter, grid, bars, stack, phone – Namen siehe EFFEKTE.md) an Zahlen, Vergleichen, Abläufen, Mythen und Studienlage. Einbau wie in `videos/004-halo-effekt/scenes.py`: `motion(k, "Stichwort", comp, props, len, zeigt)` legt den Clip als Vollbild mit weicher Blende über das Board und trägt ihn ins Bild-Drehbuch ein; vor `v.render()` `MO.build(v.dir)` (ca. 2 Min. pro Clip). Ohne Motion-Clips gilt das Video als nicht fertig.
 7. **Thumbnail** (`engine/thumbnail.py`), Motiv über Higgsfield. Titel: neugierig statt beschreibend.
 8. **Prüfung (Pflicht)**: `python3 engine/qa.py …`; **unabhängiger Faktencheck durch separaten Agenten** (alle Zahlen/Studien gegen Originale, MUSS-Korrekturen umsetzen,
    Stimme der betroffenen Kapitel neu erzeugen); Recht/Lizenz-Checkliste in `qa.md`.

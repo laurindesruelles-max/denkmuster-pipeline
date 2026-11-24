@@ -159,6 +159,33 @@ def figuren(t, x, y, n, cols=12, dx=50, dy=95, n_rot=0, t_rot=None):
             ctx.move_to(cx, cy + 8); ctx.line_to(cx - 9, cy + 26); ctx.move_to(cx, cy + 8); ctx.line_to(cx + 9, cy + 26); ctx.stroke()
     b.dyn.append(fn)
 
+
+# ---------- 2D-Motion-Graphics (engine/motion_dm.py, Erweiterung 23.11.2026) ----------
+import motion_dm as MO
+import numpy as np
+MCLIPS = []
+MANIM = {"flow": "Gedankenwolken-Ablauf (`motion` flow)", "flip": "Mythos dreht sich um (`motion` flip)", "counter": "Zahl rot eingekreist (`motion` counter)",
+         "grid": "Strichmännchen-Raster (`motion` grid)", "bars": "Schraffur-Balken (`motion` bars)", "stack": "Studien-Stapel (`motion` stack)", "phone": "Gezeichnetes Handy (`motion` phone)"}
+SNDMAP = {"pop": ("pop_klein.wav", 0.8), "pop_klein": ("pop_klein.wav", 1.0)}
+def motion(k, phrase, comp, props, ln, zeigt, inhalt=("erklaerung",), gen="schema", neu="", num="", sound=True):
+    """Motion-Clip als Vollbild über dem Board (weiche Blende 0,25 s); das Board läuft darunter weiter."""
+    t = S(k, phrase, MANIM[comp], zeigt, inhalt, gen, neu, num)
+    key = MO.clip(comp, props, len=ln); MCLIPS.append((t, key, ln))
+    if sound:
+        for tt, n, g, d in MO.sounds(key, t):
+            f, m = SNDMAP.get(n, (n + ".wav", 1.0)); b.snd(f, tt, g * m)
+    return t
+
+def _motion_overlay(ctx, t):
+    for t0, key, ln in MCLIPS:
+        if t0 <= t < t0 + ln:
+            a = min(1.0, (t - t0) / 0.25, (t0 + ln - t) / 0.25)
+            fr = np.array(MO.frame(key, t - t0))           # RGBA
+            bgra = np.ascontiguousarray(fr[:, :, [2, 1, 0, 3]])
+            surf = cairo.ImageSurface.create_for_data(memoryview(bgra), cairo.FORMAT_ARGB32, 1920, 1080)
+            ctx.save(); ctx.identity_matrix(); ctx.set_source_surface(surf, 0, 0); ctx.paint_with_alpha(max(0.0, a)); ctx.restore()
+b.overlay.append(_motion_overlay)
+
 STAT = ["Eindruck", "schön = gut", "Noten", "Gesichter", "Gericht", "unbewusst", "Dinge"]
 def stationen(n, t, X, Y):
     """Rückkehr zum Hook: Weg mit 7 Stationen, Station n wird erreicht (rot), Mini-Hauptfigur läuft hin."""
@@ -259,6 +286,8 @@ t = S(1, "Als hätten", "Ursache-Wirkungs-Kette", "Ein großes Urteil EINDRUCK v
 label(b, t, "1 Eindruck", X + 250, Y - 300, 90, RED)
 for i, (w_, _) in enumerate(ROWS):
     arrow(b, t + 0.6 + i * 0.25, X + 250, Y - 250, X - 50 + i * 200, Y + 20, INK, 6); label(b, t + 0.8 + i * 0.25, w_, X - 50 + i * 200, Y + 110, 44, INK)
+motion(1, "Als hätten", "flow", {"label": "THORNDIKE 1920", "nodes": [{"icon": "eye", "label": "1 Eindruck"}, {"icon": "brain", "label": "1 Urteil"}, {"icon": "doc", "label": "alle Noten"}], "packet": "doc"}, 5.0,
+       "Gedankenwolken-Ablauf: Auge EIN EINDRUCK → Gehirn EIN URTEIL → Blatt ALLE NOTEN, ein Zettel wandert durch")
 t = S(1, "Thorndike nannte", "Schlüsselwort erscheint", "Das Wort HALO wird riesig geschrieben und rot unterstrichen", ("erklaerung",), "exakt")
 X, Y = pan(1, 5, t)
 schluesselwort(b, t, X, Y - 200, "Halo", 220, INK)
@@ -329,6 +358,8 @@ t = S(2, "Spätere Auswertungen", "Studien-Karteikarte", "Ein Stapel aus vielen 
 X, Y = pan(2, 6, t)
 for i in range(4): b.s(t + i * 0.12, 0.2, rect(X - 750 + i * 25, Y - 300 + i * 25, 420, 260), GREY if i < 3 else INK, 6)
 karteikarte(b, t + 0.5, X - 450, Y - 80, "1991", "Meta-Analyse", "viele Studien", sound=False)
+motion(2, "zeigen ein feineres", "stack", {"label": "FORSCHUNGSLAGE", "cards": [["Dion u. a.", "1972"], ["Eagly u. a.", "1991"], ["Wheeler & Kim", "1997"], ["Langlois u. a.", "2000"]], "symbol": "?", "question": "Worauf strahlt Schönheit?"}, 4.4,
+       "Studien-Stapel: Karten Dion 1972, Eagly 1991, Wheeler & Kim 1997, Langlois 2000 stapeln sich, Frage WORAUF STRAHLT SCHÖNHEIT?", ("zeit",), "exakt", num="1991")
 t = S(2, "Am stärksten strahlt", "Handgezeichnetes Diagramm", "Drei Balken: SOZIAL hoch, KLUGHEIT mittel, EHRLICHKEIT fast null", ("vergleich",), "schema")
 bars(b, X + 400, Y + 350, [(A(2, "soziale"), 0.9, RED, "sozial"), (A(2, "Auf Klugheit"), 0.5, INK, "Klugheit"), (A(2, "Auf Ehrlichkeit"), 0.08, GREY, "Ehrlichkeit")], h=560, bw=170, gap=70, axis_t=t, lab=44)
 t = S(2, "beliebt, gesellig", "Netz der Menschen", "Über dem SOZIAL-Balken verbinden sich kleine Figuren: beliebt, gesellig", ("erklaerung",), "schema")
@@ -368,6 +399,8 @@ for dx in (-200, 300): b.txt(t + (0 if dx < 0 else 0.3), 0.3, "=", X + dx, Y + 8
 label(b, t + 0.5, "gleicher Text", X + 50, Y + 380, 70, RED)
 t = S(3, "Trotzdem bekam", "Pose wechselt", "Rote Noten erscheinen: über dem attraktiven Foto die bessere Note", ("vergleich",), "schema", "frage:groesste")
 note(t + 0.2, X - 450, Y - 330, "gut", RED, 70); note(t + 0.6, X + 50, Y - 330, "mäßig", INK, 60)
+motion(3, "Trotzdem bekam", "flip", {"teaser": "Gleicher Text …", "front": {"icon": "doc", "title": "gleiche Note?"}, "back": {"title": "Foto zählt mit", "sub": "attraktiver = bessere Note"}, "at": 2.0}, 4.0,
+       "Notizzettel GLEICHER TEXT – GLEICHE NOTE? dreht sich um: FOTO ENTSCHEIDET MIT in Rot", ("vergleich",), "schema")
 t = S(3, "Am größten war", "Handgezeichnetes Diagramm", "Diagramm SCHWACHER AUFSATZ: Balken attraktiv deutlich höher als weniger attraktiv", ("vergleich",), "schema", "antwort:groesste")
 X, Y = pan(3, 3, t)
 bars(b, X - 400, Y + 330, [(t + 0.2, 0.75, RED, "attraktiv"), (t + 0.6, 0.38, GREY, "weniger")], h=560, bw=170, gap=80, lab=46)
@@ -441,6 +474,8 @@ for i in range(10):
     b.s(t + i * 0.06, 0.12, rect(X - 700 + i * 140, Y - 120, 110, 110), INK, 6)
     if i < 7: b.s(t + 1.2 + i * 0.12, 0.15, poly((X - 690 + i * 140, Y - 20), (X - 600 + i * 140, Y - 110), n=4), RED, 10)
 label(b, t, "Senat", X, Y - 300, 80, INK); zahl2(A(4, "sieben von zehn"), X + 550, Y + 250, "7 von 10", 110)
+motion(4, "in rund sieben von zehn", "counter", {"label": "SENATSWAHLEN", "value": 7, "suffix": " von 10", "caption": "GEWANN DER KOMPETENTER WIRKENDE"}, 3.6,
+       "Zahl zählt in Handschrift auf 7 VON 10 hoch, roter Kreis, darunter GEWANN DER KOMPETENTER WIRKENDE", ("zahl",), "exakt", num="7 von 10")
 t = S(4, "Beim Repräsentantenhaus", "Zahl in Handschrift", "Darunter: REPRÄSENTANTENHAUS – 2 VON 3", ("zahl",), "exakt", num="2 von 3")
 label(b, t, "Repräsentantenhaus:", X - 350, Y + 250, 64, INK); label(b, t + 0.6, "2 von 3", X - 350, Y + 360, 80, RED)
 t = S(4, "Und selbst wenn", "Tagesuhr", "Stoppuhr mit 1 SEKUNDE, daneben blitzen zwei Gesichter auf und verschwinden", ("zeit",), "exakt", num="1 Sekunde")
@@ -523,6 +558,8 @@ label(b, t - 0.2, "Einbruch: Jahre Haft", X - 300, Y - 360, 64, INK)
 bars(b, X - 300, Y + 330, [(t + 0.2, 0.28 * 2, RED, "attraktiv: knapp 3"), (A(5, "Ohne Foto"), 0.52 * 2 / 1.05, GREY, "andere: rund 5")], h=500, bw=200, gap=200, lab=44)
 t = S(5, "Ohne Foto", "Zahl in Handschrift", "Zweiter Balken wächst auf rund 5 Jahre, die 5 wird eingekreist", ("zahl",), "exakt", num="5 Jahre")
 zahl2(t + 0.8, X + 450, Y - 100, "5", 160)
+motion(5, "Ohne Foto oder", "bars", {"label": "EINBRUCH", "title": "Strafe in Jahren", "unit": " J.", "bars": [["attraktiv", 2.8, True], ["ohne Foto", 5.1, False], ["weniger attraktiv", 5.2, False]]}, 4.6,
+       "Schraffur-Balken EINBRUCH: attraktiv 2,8 Jahre (rot), ohne Foto 5,1, weniger attraktiv 5,2", ("zahl", "vergleich"), "exakt", num="5 Jahre")
 t = S(5, "Doch dann kam", "Schlüsselwort erscheint", "Riesiges Wort WENDUNG, Musik setzt kurz aus", ("geschehen",), "schema", "frage:wendung")
 X, Y = pan(5, 4, t)
 schluesselwort(b, t, X, Y - 100, "Die Wendung", 140, RED, INK)
@@ -539,6 +576,8 @@ t = S(5, "Jetzt drehte", "Handgezeichnetes Diagramm", "Diagramm BETRUG: jetzt is
 X, Y = pan(5, 6, t)
 label(b, t - 0.2, "Betrug: Jahre Haft", X - 300, Y - 360, 64, INK)
 bars(b, X - 300, Y + 330, [(A(5, "fünfeinhalb"), 0.94, RED, "attraktiv: 5,5"), (A(5, "die anderen gut"), 0.76, GREY, "andere: gut 4")], h=500, bw=200, gap=200, axis_t=t, lab=44)
+motion(5, "die anderen gut vier", "bars", {"label": "BETRUG", "title": "Strafe in Jahren", "unit": " J.", "bars": [["attraktiv", 5.45, True], ["ohne Foto", 4.35, False], ["weniger attraktiv", 4.35, False]]}, 4.4,
+       "Schraffur-Balken BETRUG: jetzt attraktiv 5,45 Jahre am höchsten (rot), die anderen je 4,35", ("zahl", "vergleich"), "exakt", num="4 Jahre")
 t = S(5, "Die attraktive Angeklagte", "Pose wechselt", "Die lächelnde Angeklagte bekommt ein trauriges Gesicht", ("person",), "schema")
 fig(t, X + 600, Y + 450, 0.9, face="sad")
 t = S(5, "fünfeinhalb Jahre", "Zahl in Handschrift", "Über dem höheren Balken: 5,5 Jahre, rot eingekreist", ("zahl",), "exakt", num="5,5 Jahre")
@@ -599,6 +638,8 @@ X, Y = pan(6, 4, t)
 fig(t, X - 550, Y + 450, 1.0, face="neutral"); fig(t + 0.2, X - 100, Y + 450, 1.0, face="neutral"); b.s(t + 0.4, 0.3, rect(X - 500, Y + 180, 90, 120), INK, 6)
 t = S(6, "Hat deine Sympathie", "Live-Strich", "Sprechblase: HAT DEINE SYMPATHIE DEIN URTEIL BEEINFLUSST?", ("geschehen",), "exakt")
 bubble(b, t, X - 400, Y - 230, 820, 200, "Hat Sympathie dein Urteil beeinflusst?", 46, INK)
+motion(6, "Hat deine Sympathie", "phone", {"label": "NACHGESTELLT", "app": "STUDIE 1977", "messages": [["Hat deine Sympathie dein Urteil beeinflusst?", False], ["Nein. Der Akzent war einfach nervig.", True]]}, 4.6,
+       "Gezeichnetes Handy: Frage HAT DEINE SYMPATHIE DEIN URTEIL BEEINFLUSST?, Antwort NEIN, DER AKZENT WAR EINFACH NERVIG (nachgestellt)", ("geschehen",), "schema")
 t = S(6, "Die meisten verneinten", "Pose wechselt", "Versuchsperson schüttelt den Kopf: NEIN!", ("gefuehl",), "schema")
 bubble(b, t, X + 350, Y - 120, 300, 150, "Nein!", 80, RED, tail=(-1, 1))
 t = S(6, "Wer den kalten", "Ursache-Wirkungs-Kette", "Pfeil wird umgedreht: AKZENT → ABNEIGUNG statt ABNEIGUNG → AKZENT", ("erklaerung",), "schema")
@@ -645,6 +686,8 @@ X, Y = pan(7, 3, t)
 schluesselwort(b, t, X - 500, Y, "Bio", 130, RED, INK)
 for i, w_ in enumerate(("gesund", "leicht", "lecker")):
     arrow(b, t + 0.4 + i * 0.3, X - 330, Y - 30, X + 150, Y - 280 + i * 260, INK, 6); label(b, t + 0.6 + i * 0.3, w_, X + 400, Y - 260 + i * 260, 70, INK)
+motion(7, "Ein gutes Merkmal", "flow", {"label": "BIO-HALO", "nodes": [{"icon": "doc", "label": "„Bio“"}, {"icon": "heart", "label": "gesund"}, {"icon": "eye", "label": "weniger Kalorien?"}], "packet": "doc"}, 4.4,
+       "Gedankenwolken-Ablauf: Etikett BIO → Herz GESUND → Auge WENIGER KALORIEN?, ein Zettel wandert durch")
 t = S(7, "Auch auf Dinge", "Mythos durchstreichen", "LEICHT wird rot durchgestrichen – hat mit Bio nichts zu tun", ("erklaerung",), "schema")
 b.s(t + 0.4, 0.3, line(X + 300, Y - 10, X + 520, Y - 30, n=8), RED, 11); b.snd("gs_paper.wav", t + 0.4, 0.3)
 t = S(7, "Und es gibt", "Metapher verwandelt sich", "Der Heiligenschein dreht sich um und wird zu zwei roten Hörnern", ("erklaerung",), "schema", "frage:rueckseite")
@@ -733,6 +776,8 @@ label(b, t + 0.8, "strukturiert", X, Y - 300, 90, INK)
 t = S(8, "Sie sagen im Schnitt", "Handgezeichnetes Diagramm", "Zwei Balken TREFFSICHERHEIT: strukturiert höher als nach Gefühl", ("vergleich",), "schema")
 X, Y = pan(8, 7, t)
 bars(b, X - 300, Y + 330, [(t + 0.2, 0.85, RED, "strukturiert"), (A(8, "lockeres"), 0.5, GREY, "nach Gefühl")], h=520, bw=200, gap=150, lab=46)
+motion(8, "besser voraus", "bars", {"label": "SCHMIDT & HUNTER 1998", "title": "Wie gut sagt das Gespräch die Leistung voraus?", "unit": "", "bars": [["strukturiert", 0.51, True], ["nach Gefühl", 0.38, False]]}, 4.2,
+       "Schraffur-Balken: strukturiertes Gespräch 0,51 (rot) höher als nach Gefühl 0,38, Quelle Schmidt & Hunter 1998", ("vergleich", "zeit"), "exakt", num="1998")
 t = S(8, "Ein zweiter Trick", "Netz der Menschen", "Hauptfigur fragt eine zweite Person, die den ersten Eindruck nicht kennt (Augenbinde)", ("geschehen",), "schema")
 X, Y = pan(8, 8, t)
 fig(t, X - 500, Y + 450, 1.0, hero=True, face="neutral"); fig(t + 0.3, X + 300, Y + 450, 1.0, face="neutral")
@@ -813,4 +858,5 @@ if __name__ == "__main__":
         print("FEHLEND:", v.missing, "TOTAL", round(v.TOTAL, 1)); sys.exit(0)
     if "--drehbuch" in sys.argv:
         drehbuch(); sys.exit(0)
+    MO.build(v.dir)
     v.render()

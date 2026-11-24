@@ -4,3 +4,4 @@ videos/*/video.mp4
 videos/*/_raw*.mp4
 videos/*/music_bed.wav
 videos/*/vo/voice_all.wav
+videos/*/motion/*.mp4

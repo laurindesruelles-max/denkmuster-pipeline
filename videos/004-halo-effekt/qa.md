@@ -70,3 +70,8 @@ Technik ✅ · Ton ✅ (0 major) · Faktencheck ✅ · Recht ✅ → bei vidIQ a
 - Ursache: Text-Maske in engine/wb.py begann bei x0 statt x0 + x_bearing → rechter Rand jeder Schrift 15–20 px abgeschnitten. Behoben, Video neu gerendert, gleiche Ton-Nachbearbeitung (master.py + EQ).
 - qa.py erneut: Länge 11:43 ✅, −14,8 LUFS ✅, 1080p ✅, Thumbnail ✅. Einzelbilder geprüft: Schrift vollständig.
 - vidIQ-Entwurf mit neuer Fassung aktualisiert (revision c6671d2e), weiterhin nicht veröffentlicht.
+
+## Nachtrag 24.11.2026 abends (Laurin: „nichts von den neuen Animationen dabei“)
+- 9 Motion-Clips (engine/motion_dm.py) eingebaut: flow (Thorndike 1 Eindruck → 1 Urteil → alle Noten), stack (Forschungslage 1972–2000), flip (gleicher Text – Foto zählt mit), counter (7 von 10 Senat), bars ×2 (Einbruch 2,8/5,1/5,2 J.; Betrug 5,45/4,35/4,35 J.), phone (nachgestellte Frage aus Nisbett & Wilson), flow (Bio → gesund → weniger Kalorien?), bars (Schmidt & Hunter 0,51 vs 0,38). Zahlen = Werte aus dem Faktencheck.
+- Bild-Drehbuch neu: OK ✅ (211 Einstellungen, 17,8/Min.). Neu gerendert, gleiche Ton-Nachbearbeitung; qa.py ✅ (11:43, −14,8 LUFS); earshot „close“, 0 major ✅.
+- vidIQ-Entwurf aktualisiert (revision 32352826), weiterhin nicht veröffentlicht.

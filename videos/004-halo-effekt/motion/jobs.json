@@ -1,0 +1,148 @@
+[
+ {
+  "comp": "flip",
+  "props": {
+   "teaser": "Gleicher Text …",
+   "front": {
+    "icon": "doc",
+    "title": "gleiche Note?"
+   },
+   "back": {
+    "title": "Foto zählt mit",
+    "sub": "attraktiver = bessere Note"
+   },
+   "at": 2.0
+  },
+  "len": 4.0,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/659699bbd140.mp4"
+ },
+ {
+  "comp": "counter",
+  "props": {
+   "label": "SENATSWAHLEN",
+   "value": 7,
+   "suffix": " von 10",
+   "caption": "GEWANN DER KOMPETENTER WIRKENDE"
+  },
+  "len": 3.6,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/352d4f5085fe.mp4"
+ },
+ {
+  "comp": "bars",
+  "props": {
+   "label": "EINBRUCH",
+   "title": "Strafe in Jahren",
+   "unit": " J.",
+   "bars": [
+    [
+     "attraktiv",
+     2.8,
+     true
+    ],
+    [
+     "ohne Foto",
+     5.1,
+     false
+    ],
+    [
+     "weniger attraktiv",
+     5.2,
+     false
+    ]
+   ]
+  },
+  "len": 4.6,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/825d4b5bb565.mp4"
+ },
+ {
+  "comp": "bars",
+  "props": {
+   "label": "BETRUG",
+   "title": "Strafe in Jahren",
+   "unit": " J.",
+   "bars": [
+    [
+     "attraktiv",
+     5.45,
+     true
+    ],
+    [
+     "ohne Foto",
+     4.35,
+     false
+    ],
+    [
+     "weniger attraktiv",
+     4.35,
+     false
+    ]
+   ]
+  },
+  "len": 4.4,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/ea1cc6b8cdc2.mp4"
+ },
+ {
+  "comp": "phone",
+  "props": {
+   "label": "NACHGESTELLT",
+   "app": "STUDIE 1977",
+   "messages": [
+    [
+     "Hat deine Sympathie dein Urteil beeinflusst?",
+     false
+    ],
+    [
+     "Nein. Der Akzent war einfach nervig.",
+     true
+    ]
+   ]
+  },
+  "len": 4.6,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/3d09d4c7441f.mp4"
+ },
+ {
+  "comp": "flow",
+  "props": {
+   "label": "BIO-HALO",
+   "nodes": [
+    {
+     "icon": "doc",
+     "label": "„Bio“"
+    },
+    {
+     "icon": "heart",
+     "label": "gesund"
+    },
+    {
+     "icon": "eye",
+     "label": "weniger Kalorien?"
+    }
+   ],
+   "packet": "doc"
+  },
+  "len": 4.4,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/8055ec7f495e.mp4"
+ },
+ {
+  "comp": "bars",
+  "props": {
+   "label": "SCHMIDT & HUNTER 1998",
+   "title": "Wie gut sagt das Gespräch die Leistung voraus?",
+   "unit": "",
+   "bars": [
+    [
+     "strukturiert",
+     0.51,
+     true
+    ],
+    [
+     "nach Gefühl",
+     0.38,
+     false
+    ]
+   ]
+  },
+  "len": 4.2,
+  "out": "/home/claude/denkmuster-pipeline/videos/004-halo-effekt/motion/db70f598821d.mp4"
+ }
+]
