@@ -6,3 +6,5 @@ Bau: `DM_SFX=<ordner mit assets/sfx + gs_sub_drop/gs_slap/gs_paper (= Goldsmith 
 Master danach: volume +1,2 dB + alimiter (limit 0,72 / 0,74, 4× Oversampling) → −14,7 LUFS, −2,3 dBTP.
 Higgsfield-Credits: siehe qa.md. vidIQ: 15 (3× Titel-Score).
 Faktencheck: Agent vor dem Einsprechen (2 MUSS + 12 SOLL umgesetzt), Kurzcheck danach (0 MUSS, 3 SOLL umgesetzt → K0, K3, K9 neu eingesprochen).
+
+Status: öffentlich seit 25.11.2026 nach Laurins Ja – https://www.youtube.com/watch?v=87ZQLKN6svo (mit 9 Motion-Clips, Text-Masken-Fix).
