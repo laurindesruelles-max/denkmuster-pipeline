@@ -4,7 +4,7 @@ YouTube: **Denkmuster** (@denkmustertv, Channel-ID UCJxoOFwP2Ezx188RZKi4Y8A), ü
 Nische: Psychologie im Alltag – „warum Menschen tun, was sie tun“, deutsch, Themen aus aller Welt.
 Stil: **Whiteboard** (Marker-Zeichnungen, die live entstehen, Kamera fährt übers Board), feste Hauptfigur mit **blauer Spirallocke + orangem Schal**.
 Stimme: Higgsfield **„Helena“** (`text2speech_v2`, variant `elevenlabs`, voice_id `3c2b83c0-2e0a-5ae8-998a-a5fe71b7eccd`).
-Rhythmus: **jeden Tag ein Video** (Laurin 17.11.2026). Laurin erlaubt, direkt öffentlich zu veröffentlichen, wenn Faktencheck + Prüfbericht sauber sind.
+Rhythmus: **alle 4 Tage ein Video** wie alle Kanäle (Laurin 18.11. / HANDWERK.md; geplanter Lauf am 4., 8., 12. … des Monats, 14:07 Uhr). Laurin erlaubt, direkt öffentlich zu veröffentlichen, wenn Faktencheck + Prüfbericht sauber sind.
 
 ## Ordner
 | Pfad | Inhalt |
