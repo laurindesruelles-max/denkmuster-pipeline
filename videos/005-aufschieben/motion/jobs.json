@@ -1,0 +1,216 @@
+[
+ {
+  "comp": "stack",
+  "props": {
+   "label": "STEEL 2007",
+   "cards": [
+    [
+     "Ellis & Knaus",
+     "1977"
+    ],
+    [
+     "Harriott & Ferrari",
+     "1996"
+    ],
+    [
+     "O'Brien",
+     "2002"
+    ],
+    [
+     "Steel: Meta-Analyse",
+     "2007"
+    ]
+   ],
+   "symbol": "?",
+   "question": "Was ist Aufschieben?"
+  },
+  "len": 4.4,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/b995fbd06d1d.mp4"
+ },
+ {
+  "comp": "flip",
+  "props": {
+   "teaser": "Mein Ich in der Zukunft …",
+   "front": {
+    "icon": "person",
+    "title": "das bin doch ich"
+   },
+   "back": {
+    "title": "wie ein Fremder",
+    "sub": "bekommt die halbe Tasse"
+   },
+   "at": 2.0
+  },
+  "len": 4.2,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/465a8dbffed6.mp4"
+ },
+ {
+  "comp": "bars",
+  "props": {
+   "label": "TICE & BAUMEISTER 1997",
+   "title": "Zusammenhang Aufschieben – schlechtere Note (r)",
+   "unit": "",
+   "bars": [
+    [
+     "Hausarbeit",
+     0.26,
+     false
+    ],
+    [
+     "Prüfungen",
+     0.66,
+     true
+    ]
+   ]
+  },
+  "len": 4.4,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/97e5ab1657a6.mp4"
+ },
+ {
+  "comp": "flow",
+  "props": {
+   "label": "JOHANSSON U. A. 2023",
+   "nodes": [
+    {
+     "icon": "clock",
+     "label": "Aufschieben"
+    },
+    {
+     "icon": "brain",
+     "label": "9 Monate später"
+    },
+    {
+     "icon": "heart",
+     "label": "Schlaf, Einsamkeit, Geld"
+    }
+   ],
+   "packet": "doc"
+  },
+  "len": 4.6,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/9cb8ee09793b.mp4"
+ },
+ {
+  "comp": "counter",
+  "props": {
+   "label": "ROSENBAUM U. A. 2014",
+   "value": 9,
+   "suffix": " Versuche",
+   "caption": "FAST ALLE NAHMEN DEN NÄHEREN EIMER"
+  },
+  "len": 4.0,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/0881f14e4ce4.mp4"
+ },
+ {
+  "comp": "phone",
+  "props": {
+   "label": "KENNST DU DAS?",
+   "app": "POSTEINGANG",
+   "messages": [
+    [
+     "10 neue E-Mails",
+     false
+    ],
+    [
+     "Alle beantwortet!",
+     true
+    ],
+    [
+     "Die große Aufgabe? Morgen.",
+     true
+    ]
+   ]
+  },
+  "len": 4.6,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/bd844abf204d.mp4"
+ },
+ {
+  "comp": "stack",
+  "props": {
+   "label": "ZITIERT IN ...",
+   "cards": [
+    [
+     "Bücher",
+     "zitiert"
+    ],
+    [
+     "Vorträge",
+     "zitiert"
+    ],
+    [
+     "Ratgeber",
+     "zitiert"
+    ],
+    [
+     "Original",
+     "2002"
+    ]
+   ],
+   "symbol": "!",
+   "question": "Stimmt das wirklich?"
+  },
+  "len": 4.4,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/751c37371eb9.mp4"
+ },
+ {
+  "comp": "flip",
+  "props": {
+   "teaser": "Feste Fristen wirken …",
+   "front": {
+    "icon": "doc",
+    "title": "fast doppelt so gut"
+   },
+   "back": {
+    "title": "zurückgezogen",
+    "sub": "Sept. 2026 – Ergebnis nicht haltbar"
+   },
+   "at": 2.0
+  },
+  "len": 4.4,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/82b668c66714.mp4"
+ },
+ {
+  "comp": "bars",
+  "props": {
+   "label": "GOLLWITZER & BRANDSTÄTTER 1997",
+   "title": "Bericht rechtzeitig geschrieben",
+   "unit": " %",
+   "bars": [
+    [
+     "mit Plan",
+     71,
+     true
+    ],
+    [
+     "ohne Plan",
+     32,
+     false
+    ]
+   ]
+  },
+  "len": 4.6,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/3da205b310c3.mp4"
+ },
+ {
+  "comp": "flow",
+  "props": {
+   "label": "DAS MUSTER",
+   "nodes": [
+    {
+     "icon": "heart",
+     "label": "mieses Gefühl"
+    },
+    {
+     "icon": "brain",
+     "label": "Kopf schützt sich"
+    },
+    {
+     "icon": "person",
+     "label": "Rechnung an Ich morgen"
+    }
+   ],
+   "packet": "doc"
+  },
+  "len": 5.0,
+  "out": "/home/claude/denkmuster-pipeline/videos/005-aufschieben/motion/573672c35e53.mp4"
+ }
+]

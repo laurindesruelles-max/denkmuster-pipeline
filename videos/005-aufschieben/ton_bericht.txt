@@ -1,0 +1,58 @@
+SOUNDS  Sounds: 103 geplant -> 79 behalten (~6.2/Min.). Entfernt: verboten 0, defekt 0, Wiederholung 22, gestapelt 0, zu dicht 2, Schleife 0, Datei fehlt 0.
+
+MUSIK   Spannungskurve denkmuster: 25 Beats, 21 Musikabschnitte, längster Abschnitt 51 s
+  0:07.9  frage        ██
+  0:14.2  frage        ██
+  0:37.0  kapitel      ██
+  1:25.6  enthuellung  ██
+  1:44.2  frage        ██
+  1:45.1  kapitel      ██
+  2:32.5  frage        ██
+  3:17.9  frage        ██
+  3:18.8  kapitel      ██
+  4:37.0  frage        ██
+  4:38.2  kapitel      ██
+  5:21.8  frage        ██
+  5:49.6  frage        ██
+  5:52.9  kapitel      ██
+  7:07.9  kapitel      ██
+  7:39.6  frage        ██
+  8:10.4  frage        ██
+  8:23.1  frage        ██
+  8:30.8  kapitel      ██
+  9:25.4  frage        ██
+  9:57.2  frage        ██
+  9:58.1  kapitel      ██
+  10:12.6  enthuellung  ██
+  11:18.5  enthuellung  ██
+  12:33.4  frage        ██
+Musik:
+  0:08.0–0:37.0  dm_music_1.mp3 ab 65 s
+  0:41.8–1:26.8  dm_music_2.mp3 ab 42 s
+  1:26.8–1:45.1  dm_music_4.mp3 ab 74 s
+  1:49.9–2:33.7  dm_music_4.mp3 ab 58 s
+  2:33.7–3:18.8  dm_music_2.mp3 ab 41 s
+  3:23.6–4:14.6  dm_music_3.mp3 ab 25 s
+  4:14.6–4:38.2  dm_music_1.mp3 ab 65 s
+  4:43.0–5:23.0  dm_music_2.mp3 ab 42 s
+  5:23.0–5:52.9  dm_music_4.mp3 ab 65 s
+  5:57.7–6:48.7  dm_music_4.mp3 ab 34 s
+  6:48.7–7:07.9  dm_music_2.mp3 ab 64 s
+  7:12.7–7:40.8  dm_music_1.mp3 ab 63 s
+  7:40.8–8:11.6  dm_music_3.mp3 ab 80 s
+  8:11.6–8:30.8  dm_music_1.mp3 ab 93 s
+  8:35.6–9:26.6  dm_music_3.mp3 ab 60 s
+  9:26.6–9:58.1  dm_music_1.mp3 ab 64 s
+  10:02.9–10:53.9  dm_music_2.mp3 ab 32 s
+  10:53.9–11:19.7  dm_music_4.mp3 ab 69 s
+  11:19.7–11:57.0  dm_music_2.mp3 ab 56 s
+  11:57.0–12:34.6  dm_music_5.mp3 ab 79 s
+  12:34.6–12:51.7  dm_music_2.mp3 ab 71 s
+Lücken ohne neuen Reiz > 22 s: 0
+
+ENDKONTROLLE
+OK  Lautheit -15.2 LUFS (Ziel −14…−16)
+OK  Spitze -1.1 dBTP (Ziel ≤ −1)
+OK  Stille-Löcher > 2,5 s: 0
+OK  Musik unter Stimme: 15.3 dB (Ziel 12–24)
+OK  Musik ohne Bewegung > 75 s: keine

@@ -25,6 +25,7 @@
 | 002 | 18.11.2026 | Warum das Warten auf GTA 6 schöner sein kann als das Spiel (https://www.youtube.com/watch?v=v4u2cwV5TzM) | 11:58 | ~50 | öffentlich |
 | 003 | 21.11.2026 | Warum Menschen, die nie um Hilfe bitten, sich so oft irren (https://www.youtube.com/watch?v=aBJTAT7Wwac) | 10:30 | ~37 | geplant: öffentlich 22.11.2026, 17:00 |
 | 004 | 24.11.2026 | Der Halo-Effekt: Warum wir schönen Menschen mehr zutrauen (https://www.youtube.com/watch?v=87ZQLKN6svo) | 11:43 | ~39 | öffentlich seit 25.11.2026 (Laurins Ja) |
+| 005 | 27.11.2026 | Aufschieben ist keine Faulheit: Was wirklich in deinem Kopf passiert (https://www.youtube.com/watch?v=MCDKRh0UzFA) | 12:51 | ~38 | eingeplant: öffentlich So 29.11.2026, 17:00 |
 
 ## Ton & Musik mit audiokit (Laurin 18.11.2026)
 Problem: Soundeffekte oft unpassend/billig, Musik zu gleichförmig – Laurin schaut die eigenen Videos nicht zu Ende. vidIQ-Auswertung 18.11.: größter Absprung in den ersten ~30 s; Musik läuft 1,5–3 Min. gleich durch, kein Spannungsaufbau vor Enthüllungen; Passagen von 25–60 s ohne neuen Reiz.
@@ -77,3 +78,11 @@ Grundlage: Auswertung erfolgreicher Ausreißer-Videos in allen 5 Nischen (vidIQ)
 - Kosten: 13 × Helena (10 + 3 Neueinsprachen) + 2 Thumbnail-Motive ≈ 39 Credits.
 - **Abgeschnittene Buchstaben (Laurin 24.11.2026):** Die Schreib-Maske für Text in wb.py begann bei x0 statt x0 + x_bearing → letzter Buchstabe / letzte Ziffer rechts um 15–20 px abgeschnitten (betraf auch 001–003). Behoben in engine/wb.py + preview.py; 004 neu gerendert.
 - **Motion-Graphics vergessen (Laurin 24.11.2026):** 004 wurde zuerst ohne die 2D-Motion-Graphics vom 23.11. gebaut – Skill und geplanter Task waren älter, README nannte sie nur „Erweiterung“. Jetzt Pflicht (README Schritt 6b, ≥ 8 Clips), Vorlage `motion(...)` in videos/004-halo-effekt/scenes.py (Vollbild-Overlay mit 0,25-s-Blende über b.overlay). Flip braucht front/back als Objekte {icon, title, sub}. Build ca. 1 Min. pro Clip.
+
+## Video 005 (27.11.2026)
+- Thema aus dem Ideen-Speicher (Aufschieben). Titel-Score: „Aufschieben ist keine Faulheit: …“ 83 > „Warum du alles aufschiebst …“ 78 > „Die Psychologie von Menschen, die alles aufschieben“ 77.
+- **Zurückgezogene Studien prüfen:** Der Faktencheck fand, dass Ariely & Wertenbroch 2002 (Fristen/Korrekturlesen) am 02.09.2026 zurückgezogen wurde. Nicht mehr als Beleg nutzen. Daraus wurde eine Wendung („Der Fristen-Mythos“). Bei bekannten Klassikern immer Retraction Watch prüfen; bei Rückzügen nur belegte Fakten, keine Fälschungs-Unterstellung.
+- **TTS kann Wörter verschlucken:** Helena ließ in K7 das Satzende „fertig“ weg (ASR auf der Einzeldatei, Pegel zeigte 1,5 s Stille). Deshalb ASR-Abgleich je Kapitel-Datei direkt nach dem Einsprechen, nicht erst am fertigen Video.
+- Motion-Clips: Karten im `stack` immer mit echten Autoren/Jahren, keine Platzhalter wie „Studie 2008“; Balkenwerte nur echte Zahlen (z. B. r-Werte), nicht „schematisch“.
+- Ein Render (13 Min. Video, 13 Motion-Clips) dauert ~20 Min. + ~1–1,5 Min. je neuem Clip → Faktencheck-Endkontrolle möglichst vor dem ersten Render abschließen.
+- earshot: HF-Download über xet scheiterte → `HF_HUB_DISABLE_XET=1` setzen.

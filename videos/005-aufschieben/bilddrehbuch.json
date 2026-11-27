@@ -1,0 +1,2538 @@
+[
+ {
+  "satz": "Sonntag, zweiundzwanzig Uhr. [22 Uhr]",
+  "sek": 2.4,
+  "zeigt": "Uhr zeigt 22 Uhr, daneben SONNTAG; darunter die Hauptfigur am Schreibtisch mit Laptop",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Die Abgabe ist morgen früh. [morgen]",
+  "sek": 2.0,
+  "zeigt": "Auf dem Laptop-Bildschirm erscheint ABGABE: MORGEN 8 UHR in Rot",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Seit drei Wochen weißt du davon. [3 Wochen]",
+  "sek": 1.92,
+  "zeigt": "Ein Kalender wird neben die Uhr gehängt, drei Wochen werden rot durchgestrichen",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und was machst du?",
+  "sek": 1.12,
+  "zeigt": "Kamera fährt weiter: Fragezeichen über der Hauptfigur",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du räumst den Schreibtisch auf.",
+  "sek": 1.76,
+  "zeigt": "Hauptfigur läuft nach links zum Schreibtisch, ordnet Stifte: SCHREIBTISCH AUFRÄUMEN",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du schaust kurz aufs Handy.",
+  "sek": 1.7,
+  "zeigt": "In der Mitte oben ein gezeichnetes Handy mit Herz und rotem Punkt: kurz aufs Handy",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Du schaust noch ein Video.",
+  "sek": 1.6,
+  "zeigt": "Rechts ein Bildschirm mit Play-Dreieck: NOCH EIN VIDEO",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Bist du einfach faul?",
+  "sek": 1.92,
+  "zeigt": "FAUL? wird groß in Handschrift geschrieben",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:faul",
+  "kapitel": 0
+ },
+ {
+  "satz": "Die Forschung sagt: wahrscheinlich nicht.",
+  "sek": 2.96,
+  "zeigt": "FAUL wird rot durchgestrichen: WAHRSCHEINLICH NICHT",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Aufschieben ist vor allem kein Zeitproblem.",
+  "sek": 2.88,
+  "zeigt": "Eine Uhr mit dem Wort ZEITPROBLEM wird durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Es ist etwas ganz anderes.",
+  "sek": 2.08,
+  "zeigt": "Gedankenblase über einem Kopfprofil, darin ein abgedecktes Fragezeichen-Feld ???",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:was",
+  "kapitel": 0
+ },
+ {
+  "satz": "In diesem Video gehen wir sieben Stationen durch. [7 Stationen]",
+  "sek": 3.36,
+  "zeigt": "Ein Weg mit sieben leeren Stationen wird gezogen, Überschrift 7 STATIONEN",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "frage:stationen",
+  "kapitel": 0
+ },
+ {
+  "satz": "Zähl mit, wie viele auf dich zutreffen.",
+  "sek": 2.93,
+  "zeigt": "Die Hauptfigur läuft klein an den Start des Weges: ZÄHL MIT!",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "Und am Ende kommt ein Trick, mit dem in einer Studie",
+  "sek": 3.2,
+  "zeigt": "Am Ende des Weges eine abgedeckte Karte DER TRICK: ??? – Auflösung erst in Kapitel 8",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:trick",
+  "kapitel": 0
+ },
+ {
+  "satz": "mehr als doppelt so viele Menschen ihre Aufgabe rechtzeitig erledigt haben. [2x]",
+  "sek": 5.01,
+  "zeigt": "Neben der Karte: x2 in Handschrift, rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 0
+ },
+ {
+  "satz": "(Kapitelkarte) Nicht faul",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 1: Nummer im Kreis, Titel „Nicht faul“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Fangen wir mit einem Missverständnis an. Wer aufschiebt, gilt schnell als faul.",
+  "sek": 4.24,
+  "zeigt": "Board teilt sich: links FAUL, rechts AUFSCHIEBEN",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Aber Faulheit heißt: Man hat keine Lust, etwas zu tun,",
+  "sek": 3.2,
+  "zeigt": "Links: eine Figur liegt entspannt in der Hängematte, lächelt: KEINE LUST",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "und fühlt sich damit oft ganz wohl.",
+  "sek": 2.08,
+  "zeigt": "Über der Hauptfigur wächst ein schwerer Stein: MIES",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Wer aufschiebt, will die Aufgabe eigentlich erledigen. Und fühlt sich mies dabei.",
+  "sek": 5.02,
+  "zeigt": "Rechts: Hauptfigur vor einer Aufgabe, will sie erledigen, schaut aber besorgt",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Der Psychologe Piers Steel von der Universität Calgary hat zweitausendsieben [2007, über 200]",
+  "sek": 5.12,
+  "zeigt": "Karteikarte 2007 · Piers Steel · Univ. Calgary · über 200 Arbeiten",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "über zweihundert Arbeiten zum Aufschieben ausgewertet. [2007]",
+  "sek": 3.53,
+  "zeigt": "Studien-Stapel: Karten Ellis & Knaus 1977, Harriott & Ferrari 1996, O'Brien 2002 und Steel-Meta-Analyse 2007 stapeln sich, Frage WAS IST AUFSCHIEBEN?",
+  "animation": "Studien-Stapel (`motion` stack)",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Seine Definition: Aufschieben heißt, etwas, das man sich vorgenommen hat,",
+  "sek": 4.88,
+  "zeigt": "Rechts schreibt sich die Definition: VORGENOMMEN – FREIWILLIG VERSCHOBEN – OBWOHL ES SCHADET",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "freiwillig zu verschieben,",
+  "sek": 1.68,
+  "zeigt": "Zweite Zeile der Definition schreibt sich: FREIWILLIG VERSCHOBEN",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "obwohl man erwartet, dass es einem dadurch schlechter geht.",
+  "sek": 3.31,
+  "zeigt": "Dritte Zeile in Rot: OBWOHL ES SCHADET",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Freiwillig. Obwohl man es besser weiß.",
+  "sek": 2.8,
+  "zeigt": "Das Wort FREIWILLIG wird rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Und das betrifft nicht nur ein paar Menschen.",
+  "sek": 2.48,
+  "zeigt": "Kamera fährt zu einer großen Menge kleiner Figuren",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "In seiner Übersicht zitiert Steel ältere Schätzungen: [80–95 Prozent]",
+  "sek": 3.74,
+  "zeigt": "Von 100 Figuren werden 80 bis 95 rot: STUDIERENDE (ältere Schätzung)",
+  "animation": "100 Figuren",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Achtzig bis fünfundneunzig Prozent der Studierenden schieben auf. [80–95 Prozent]",
+  "sek": 4.0,
+  "zeigt": "Über den 100 Figuren: 80–95 % DER STUDIERENDEN in Rot, die Figuren färben sich rot",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "In einer kleinen Befragung von gut zweihundert Erwachsenen",
+  "sek": 3.44,
+  "zeigt": "Kamera fährt weiter: Hauptfigur zwischen anderen Erwachsenen",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "wurde etwa jeder Fünfte als chronischer Aufschieber eingestuft. [1 von 5, 1996]",
+  "sek": 4.53,
+  "zeigt": "Strichmännchen-Raster: 60 Figuren, jede fünfte rot und traurig, 1 VON 5 ERWACHSENEN chronisch (211 Befragte, 1996)",
+  "animation": "Strichmännchen-Raster (`motion` grid)",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Station Nummer eins:",
+  "sek": 1.76,
+  "zeigt": "Rückkehr zum Hook: Station 1 WEISS ES wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 1
+ },
+ {
+  "satz": "Du weißt genau, was zu tun ist, und tust es trotzdem nicht.",
+  "sek": 3.68,
+  "zeigt": "Hauptfigur steht vor der Aufgabe, dreht sich weg",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 1
+ },
+ {
+  "satz": "Aber warum handelt ein Kopf so gegen sich selbst?",
+  "sek": 3.91,
+  "zeigt": "Rote Schleife kreist um ein Kopfprofil: WARUM?",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:warum",
+  "kapitel": 1
+ },
+ {
+  "satz": "(Kapitelkarte) Es geht ums Gefühl",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 2: Nummer im Kreis, Titel „Es geht ums Gefühl“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die Antwort liegt nicht in deinem Kalender.",
+  "sek": 2.4,
+  "zeigt": "Ein Kalender wird gezeichnet und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Sie liegt in deinem Gefühl.",
+  "sek": 2.24,
+  "zeigt": "Rechts ein Gehirn, die Mitte (Gefühl) wird rot schraffiert: GEFÜHL",
+  "animation": "Gehirn-Skizze",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:warum",
+  "kapitel": 2
+ },
+ {
+  "satz": "Zweitausendeins machten Dianne Tice und ihre Kollegen an der [2001, 88]",
+  "sek": 3.6,
+  "zeigt": "Karteikarte 2001 · Tice u. a. · Case Western, Ohio · 88 Studierende",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "zahl",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Case Western Reserve University in Ohio ein raffiniertes Experiment mit",
+  "sek": 4.96,
+  "zeigt": "Unter der Ortsmarke: CASE WESTERN RESERVE UNIVERSITY",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "achtundachtzig Studierenden. [88]",
+  "sek": 1.95,
+  "zeigt": "Rechts wird 88 geschrieben und rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Zuerst wurden manche von ihnen in schlechte Stimmung versetzt.",
+  "sek": 3.76,
+  "zeigt": "Studentin liest ein Blatt, ihr Gesicht wird traurig, Regenwolke darüber",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Dann hieß es: Gleich kommt ein Mathetest.",
+  "sek": 2.88,
+  "zeigt": "Rechts ein Mathe-Blatt mit 347 × 268 = ? MATHETEST",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Ihr habt fünfzehn Minuten zum Üben. [15 Minuten]",
+  "sek": 2.48,
+  "zeigt": "Stoppuhr erscheint: 15 MINUTEN ÜBEN, Zeiger startet",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Im Raum lagen bei manchen auch verlockende Ablenkungen: ein Puzzle, ein Videospiel, Zeitschriften.",
+  "sek": 6.81,
+  "zeigt": "Kamera fährt: Tisch mit Puzzleteil, Gamepad, Zeitschrift – verlockend",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Und jetzt kommt der Trick.",
+  "sek": 1.76,
+  "zeigt": "TRICK DER FORSCHER wird groß geschrieben, Fragezeichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:kerze",
+  "kapitel": 2
+ },
+ {
+  "satz": "Einigen wurde gesagt, eine Duftkerze würde ihre Stimmung für eine Weile einfrieren.",
+  "sek": 5.28,
+  "zeigt": "Eine Duftkerze wird gezeichnet, darüber ein Eiskristall: STIMMUNG EINGEFROREN",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Egal, was sie tun, ihre Laune bleibt, wie sie ist.",
+  "sek": 3.5,
+  "zeigt": "Regler LAUNE schlägt aus, bleibt aber festgefroren in der Mitte",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Was passierte?",
+  "sek": 1.36,
+  "zeigt": "Rechts eine Frage an den Zuschauer: WER SCHIEBT AUF? Countdown 3-2-1",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:ergebnis",
+  "kapitel": 2
+ },
+ {
+  "satz": "Wer schlecht gelaunt war, Ablenkungen vor sich hatte und glaubte, die Stimmung lasse sich ändern,",
+  "sek": 5.52,
+  "zeigt": "Kette: SCHLECHTE LAUNE + ABLENKUNG + ÄNDERBAR → GREIFT ZUM SPIEL",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "griff zur Ablenkung.",
+  "sek": 1.67,
+  "zeigt": "Roter Pfeil zum Gamepad: GREIFT ZUR ABLENKUNG",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Im Schnitt übten diese Studierenden [1 von 15 Minuten]",
+  "sek": 2.24,
+  "zeigt": "Stoppuhr: nur gut 1 von 15 Minuten geübt, rote 1 eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:ergebnis",
+  "kapitel": 2
+ },
+ {
+  "satz": "nur gut eine Minute von fünfzehn. [2001, 1,3 Minuten]",
+  "sek": 2.64,
+  "zeigt": "Schraffur-Balken: schlechte Laune + änderbar nur 1,3 Min. geübt (rot), schlecht + eingefroren 9,3 Min. (Tice u. a. 2001, mit verlockenden Ablenkungen)",
+  "animation": "Schraffur-Balken (`motion` bars)",
+  "inhalt": [
+   "vergleich",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Wer dagegen glaubte, die Stimmung sei eingefroren, schob deutlich weniger auf.",
+  "sek": 5.12,
+  "zeigt": "Figur mit eingefrorener Laune sitzt am Mathe-Blatt und übt",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:kerze",
+  "kapitel": 2
+ },
+ {
+  "satz": "Das heißt: Aufschieben ist ein Versuch, sich schneller besser zu fühlen.",
+  "sek": 5.13,
+  "zeigt": "Kette: MIESES GEFÜHL → HANDY → KURZ BESSER",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die Forscher Fuschia Sirois und Timothy Pychyl nennen das kurzfristige Stimmungsreparatur. [2013]",
+  "sek": 6.48,
+  "zeigt": "STIMMUNGSREPARATUR wird groß geschrieben, darunter Sirois & Pychyl 2013",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Die Aufgabe macht ein unangenehmes Gefühl. Langeweile, Angst, Zweifel.",
+  "sek": 5.44,
+  "zeigt": "Ein Blatt Papier verwandelt sich in eine dunkle Wolke mit LANGEWEILE, ANGST, ZWEIFEL",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Und das Handy macht es weg. Für den Moment.",
+  "sek": 3.34,
+  "zeigt": "Gedankenwolken-Ablauf: Aufgabe → mieses Gefühl → Handy, Abzweig KURZ BESSER",
+  "animation": "Gedankenwolken-Ablauf (`motion` flow)",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 2
+ },
+ {
+  "satz": "Station Nummer zwei: Du schiebst nicht die Aufgabe auf, sondern das Gefühl.",
+  "sek": 5.36,
+  "zeigt": "Rückkehr zum Hook: Station 2 GEFÜHL wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 2
+ },
+ {
+  "satz": "Doch wer zahlt am Ende die Rechnung?",
+  "sek": 3.01,
+  "zeigt": "Eine Rechnung wird gezeichnet, Empfänger ???",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:rechnung",
+  "kapitel": 2
+ },
+ {
+  "satz": "(Kapitelkarte) Dein Zukunfts-Ich",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 3: Nummer im Kreis, Titel „Dein Zukunfts-Ich“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Die Rechnung zahlt jemand, den du kaum kennst: dein Ich von morgen.",
+  "sek": 4.24,
+  "zeigt": "Zwei Hauptfiguren: links HEUTE (entspannt), rechts MORGEN (gebeugt mit Rechnung)",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:rechnung",
+  "kapitel": 3
+ },
+ {
+  "satz": "An der Princeton University ließ die Psychologin Emily Pronin [2008]",
+  "sek": 3.76,
+  "zeigt": "Karteikarte 2008 · Emily Pronin · Princeton · ekliges Getränk",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "zweitausendacht Studierende über ein ekliges Getränk entscheiden. [2008]",
+  "sek": 3.84,
+  "zeigt": "Die Karteikarte 2008 · Emily Pronin wird angeheftet",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Eine Mischung aus Ketchup, Sojasoße und Wasser.",
+  "sek": 3.44,
+  "zeigt": "Rechts ein Glas, drei Pfeile: KETCHUP + SOJASOSSE + WASSER",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Sie sollten festlegen, wie viel davon getrunken wird.",
+  "sek": 3.6,
+  "zeigt": "Messbecher mit Fragezeichen: WIE VIEL?",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:menge",
+  "kapitel": 3
+ },
+ {
+  "satz": "Sollten sie selbst noch in derselben Sitzung trinken, wählten sie etwa zwei Esslöffel. [2 Esslöffel]",
+  "sek": 5.28,
+  "zeigt": "Links: Figur JETZT bekommt ein fast leeres Glas: ca. 2 Esslöffel",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "vergleich",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:menge",
+  "kapitel": 3
+ },
+ {
+  "satz": "Sollte ihr eigenes Ich im nächsten Semester trinken, wählten sie etwa eine halbe Tasse. [halbe Tasse]",
+  "sek": 5.52,
+  "zeigt": "Mitte: dieselbe Figur NÄCHSTES SEMESTER bekommt ein halbvolles Glas (halbe Tasse)",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Ungefähr so viel wie für einen fremden Studenten.",
+  "sek": 3.6,
+  "zeigt": "Rechts: ein FREMDER bekommt ebenfalls ein halbvolles Glas, Gleichheitszeichen",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "",
+  "sek": 0.0,
+  "zeigt": "Die Zukunfts-Figur bekommt ein Namensschild: FREMDER?",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Das Zukunfts-Ich wird behandelt wie ein anderer Mensch.",
+  "sek": 3.6,
+  "zeigt": "Notizzettel DAS BIN DOCH ICH dreht sich um: WIE EIN FREMDER in Rot",
+  "animation": "Mythos dreht sich um (`motion` flip)",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Forscher der Stanford University gingen noch weiter. [2009, 18]",
+  "sek": 3.44,
+  "zeigt": "Karteikarte 2009 · Stanford · 18 Personen im Hirnscanner",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "ort",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Sie legten achtzehn Menschen in einen Hirnscanner. [18]",
+  "sek": 2.99,
+  "zeigt": "Ein Hirnscanner (Röhre) wird gezeichnet, eine Figur liegt darin",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Die Teilnehmer dachten an sich selbst, heute und in zehn Jahren. [10 Jahre]",
+  "sek": 4.4,
+  "zeigt": "Zeitstrahl: HEUTE – IN 10 JAHREN, auf beiden Seiten die Hauptfigur",
+  "animation": "Zeitstrahl Leben",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Beim Gedanken an das Ich in zehn Jahren war eine Hirnregion, die mit dem eigenen Selbst zu tun hat,",
+  "sek": 5.84,
+  "zeigt": "Gehirn über der Zukunfts-Figur, eine Region vorne wird nur schwach (grau) schraffiert: WENIGER AKTIV",
+  "animation": "Gehirn-Skizze",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "weniger aktiv.",
+  "sek": 1.52,
+  "zeigt": "Roter Pfeil nach unten an der Hirnregion: WENIGER AKTIV",
+  "animation": "Gehirn-Skizze",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Ein bisschen so, als dächte man an jemand anderen.",
+  "sek": 3.28,
+  "zeigt": "Neben der Zukunfts-Figur steht ein Fremder, Verbindungslinie zwischen beiden",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Wichtig: Diese Studie war klein. Aber sie passt ins Bild. [18]",
+  "sek": 5.02,
+  "zeigt": "KLEINE STUDIE (18) wird geschrieben, gestrichelt umrandet",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Station Nummer drei: Du lädst die Arbeit bei einem Fremden ab.",
+  "sek": 4.32,
+  "zeigt": "Rückkehr zum Hook: Station 3 FREMDER wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 3
+ },
+ {
+  "satz": "Und dieser Fremde bist du.",
+  "sek": 2.24,
+  "zeigt": "Ein Paket wird von der Figur HEUTE zu ICH MORGEN geschoben",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 3
+ },
+ {
+  "satz": "Bleibt die Frage: Lohnt sich der Deal wenigstens kurzfristig?",
+  "sek": 4.82,
+  "zeigt": "Regler LOHNT SICH? schwankt zwischen JA und NEIN",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:lohnt",
+  "kapitel": 3
+ },
+ {
+  "satz": "(Kapitelkarte) Erst gut, dann teuer",
+  "sek": 4.94,
+  "zeigt": "Kapitelkarte 4: Nummer im Kreis, Titel „Erst gut, dann teuer“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Neunzehnhundertsiebenundneunzig begleiteten Dianne Tice und Roy Baumeister [1997]",
+  "sek": 4.56,
+  "zeigt": "Karteikarte 1997 · Tice & Baumeister · Kurs Gesundheitspsychologie",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Studierende eines Kurses für Gesundheitspsychologie durch das Semester.",
+  "sek": 4.16,
+  "zeigt": "Rechts eine Reihe Studierender im Hörsaal",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Zuerst wurde gemessen, wer zum Aufschieben neigt.",
+  "sek": 3.14,
+  "zeigt": "Fragebogen: NEIGST DU ZUM AUFSCHIEBEN? mit Kästchen",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Dann notierten die Studierenden ihren Stress und ihre körperlichen Beschwerden.",
+  "sek": 4.72,
+  "zeigt": "Tagebuch: Kalenderseiten blättern, Einträge STRESS und BESCHWERDEN",
+  "animation": "Studie im Zeitraffer",
+  "inhalt": [
+   "geschehen",
+   "zeit"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Am Anfang des Semesters sah es gut aus für die Aufschieber.",
+  "sek": 3.44,
+  "zeigt": "Achsen werden gezogen: SEMESTER (Anfang → Ende), STRESS nach oben",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:kurve",
+  "kapitel": 4
+ },
+ {
+  "satz": "Sie hatten weniger Stress und weniger Beschwerden als die anderen.",
+  "sek": 3.62,
+  "zeigt": "Rote Linie AUFSCHIEBER startet unten, graue Linie ANDERE höher",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Klar: Die Abgabe war ja noch weit weg.",
+  "sek": 2.8,
+  "zeigt": "Kleine Hauptfigur liegt in der Hängematte, die Abgabe-Flagge steht weit weg",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Doch gegen Ende drehte sich das Bild.",
+  "sek": 2.64,
+  "zeigt": "Die rote Linie schießt steil nach oben, überholt die graue",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:kurve",
+  "kapitel": 4
+ },
+ {
+  "satz": "Jetzt hatten die Aufschieber deutlich mehr Stress und mehr Beschwerden.",
+  "sek": 4.48,
+  "zeigt": "Kamera fährt zur Hauptfigur, ein riesiger Stein wächst auf ihren Schultern: STRESS",
+  "animation": "Gewicht auf den Schultern",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Über das ganze Semester gerechnet hatten sie insgesamt mehr Beschwerden.",
+  "sek": 4.21,
+  "zeigt": "Daneben: INSGESAMT MEHR BESCHWERDEN, ein rotes Plus eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Und die Noten? [1997]",
+  "sek": 1.2,
+  "zeigt": "Schraffur-Balken: Wie stark hängt Aufschieben mit schlechteren Noten zusammen – Hausarbeit r = 0,26, Prüfungen r = 0,66 (rot), Tice & Baumeister 1997, Studie 2",
+  "animation": "Schraffur-Balken (`motion` bars)",
+  "inhalt": [
+   "vergleich",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Die waren bei den Aufschiebern im Schnitt schlechter.",
+  "sek": 2.8,
+  "zeigt": "Zeugnis mit roter schlechterer Note, Pfeil nach unten",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Bei der Hausarbeit und vor allem in den Prüfungen.",
+  "sek": 3.44,
+  "zeigt": "Rechts: Hausarbeit (Blatt) und Prüfung (Uhr + Blatt), bei der Prüfung ein dickes rotes Minus",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Wichtig: Das waren kleine Kurse, und auch hier sehen wir einen Zusammenhang, keinen Beweis.",
+  "sek": 6.41,
+  "zeigt": "KLEINE KURSE · ZUSAMMENHANG, KEIN BEWEIS in Grau",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Die Erleichterung am Anfang ist also kein Geschenk. Sie ist ein Kredit.",
+  "sek": 4.48,
+  "zeigt": "Ein Geschenk wird gezeichnet und verwandelt sich in einen Kreditvertrag mit ZINSEN",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:lohnt",
+  "kapitel": 4
+ },
+ {
+  "satz": "Und der wird mit Zinsen zurückgezahlt.",
+  "sek": 2.8,
+  "zeigt": "Neben dem Kredit: + ZINSEN, rot eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 4
+ },
+ {
+  "satz": "Station Nummer vier: Aufschieben fühlt sich erst gut an und wird dann teuer.",
+  "sek": 6.01,
+  "zeigt": "Rückkehr zum Hook: Station 4 KREDIT wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 4
+ },
+ {
+  "satz": "Aber ist das nur ein Semester-Effekt? Oder reicht die Spur weiter?",
+  "sek": 4.81,
+  "zeigt": "Eine gestrichelte Spur führt aus dem Bild heraus, Fragezeichen am Ende",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:spur",
+  "kapitel": 4
+ },
+ {
+  "satz": "(Kapitelkarte) Die lange Spur",
+  "sek": 4.86,
+  "zeigt": "Kapitelkarte 5: Nummer im Kreis, Titel „Die lange Spur“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Zweitausenddreiundzwanzig erschien eine große Studie aus Schweden. [2023, 3525]",
+  "sek": 3.84,
+  "zeigt": "Karteikarte 2023 · Johansson u. a. · Schweden · 3.525 Studierende",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "zahl",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:spur",
+  "kapitel": 5
+ },
+ {
+  "satz": "Forschende um Fred Johansson befragten dreitausendfünfhundertfünfundzwanzig Studierende von [3525]",
+  "sek": 5.44,
+  "zeigt": "Rechts wird 3.525 groß geschrieben und eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "acht Hochschulen rund um Stockholm und Örebro. [8 Hochschulen]",
+  "sek": 3.37,
+  "zeigt": "Acht kleine Uni-Gebäude rund um STOCKHOLM und ÖREBRO",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "ort",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Neun Monate später fragten sie noch einmal nach. [9 Monate]",
+  "sek": 3.12,
+  "zeigt": "Kalender blättert 9 Monate weiter: 9 MONATE SPÄTER",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Das Ergebnis: Wer stärker zum Aufschieben neigte, berichtete später im Schnitt etwas mehr Symptome von",
+  "sek": 6.24,
+  "zeigt": "Achsen AUFSCHIEBEN → SYMPTOME, eine leicht ansteigende Linie",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Depression, Angst und Stress.",
+  "sek": 2.45,
+  "zeigt": "Rechts schreiben sich DEPRESSION, ANGST, STRESS untereinander",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Dazu häufiger schlechten Schlaf, Einsamkeit, Geldsorgen und weniger Bewegung. [2023, 9 Monate]",
+  "sek": 5.2,
+  "zeigt": "Gedankenwolken-Ablauf: Aufschieben → 9 Monate später → schlechter Schlaf, Einsamkeit, Geldsorgen (Johansson u. a. 2023)",
+  "animation": "Gedankenwolken-Ablauf (`motion` flow)",
+  "inhalt": [
+   "erklaerung",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Und sogar öfter belastende Schmerzen in Schultern und Armen.",
+  "sek": 3.84,
+  "zeigt": "Hauptfigur reibt sich die Schulter, rote Schmerz-Zacken an Schulter und Arm",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Jetzt ganz wichtig: Die Unterschiede waren klein.",
+  "sek": 3.12,
+  "zeigt": "KLEINE UNTERSCHIEDE wird geschrieben und unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Und so eine Studie zeigt einen Zusammenhang. Sie beweist nicht, dass das Aufschieben die Ursache ist.",
+  "sek": 6.0,
+  "zeigt": "Board teilt sich: ZUSAMMENHANG (Linie zwischen zwei Punkten) vs. URSACHE (Pfeil) – Pfeil wird rot durchgestrichen",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Vielleicht geht es manchen schon vorher schlechter, und sie schieben deshalb mehr auf.",
+  "sek": 4.32,
+  "zeigt": "Umgekehrter Pfeil: SCHLECHTES BEFINDEN → MEHR AUFSCHIEBEN",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Die Forscher haben frühere Werte deshalb mit eingerechnet, und der Zusammenhang blieb trotzdem sichtbar.",
+  "sek": 5.76,
+  "zeigt": "Waagschale: FRÜHERE WERTE werden abgezogen, die Linie bleibt sichtbar",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Ganz ausschließen lassen sich andere Ursachen aber nicht.",
+  "sek": 3.53,
+  "zeigt": "Darunter in Grau: ANDERE URSACHEN MÖGLICH",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Station Nummer fünf: Aufschieben ist kein harmloser Spleen.",
+  "sek": 4.64,
+  "zeigt": "Rückkehr zum Hook: Station 5 SPUR wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 5
+ },
+ {
+  "satz": "Es kann sich durch viele Bereiche des Lebens ziehen.",
+  "sek": 2.88,
+  "zeigt": "Von der Hauptfigur gehen Linien zu Schlaf, Geld, Freunde, Gesundheit",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 5
+ },
+ {
+  "satz": "Und jetzt kommt eine Wendung, mit der kaum jemand rechnet. Es gibt auch das genaue Gegenteil.",
+  "sek": 6.37,
+  "zeigt": "Das Wort AUFSCHIEBEN wird gespiegelt und dreht sich um: ???",
+  "animation": "Metapher verwandelt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:gegenteil",
+  "kapitel": 5
+ },
+ {
+  "satz": "(Kapitelkarte) Das Gegenteil",
+  "sek": 4.86,
+  "zeigt": "Kapitelkarte 6: Nummer im Kreis, Titel „Das Gegenteil“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Zweitausendvierzehn bat der Psychologe David Rosenbaum an der Penn State University [2014]",
+  "sek": 4.96,
+  "zeigt": "Karteikarte 2014 · David Rosenbaum · Penn State, USA",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Studierende in einen langen Gang.",
+  "sek": 2.24,
+  "zeigt": "Ein langer Gang wird mit zwei Linien gezogen",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "ort"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Im Gang standen zwei Eimer. Einer weiter vorne, einer weiter hinten.",
+  "sek": 4.65,
+  "zeigt": "Zwei Eimer erscheinen: einer vorne, einer weiter hinten",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Die Aufgabe: Nimm einen Eimer und trag ihn bis ans Ende des Gangs.",
+  "sek": 4.88,
+  "zeigt": "Hauptfigur läuft in den Gang hinein",
+  "animation": "Figur bewegt sich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Die vernünftige Wahl wäre der hintere Eimer. Den trägt man eine kürzere Strecke.",
+  "sek": 5.04,
+  "zeigt": "Gestrichelte Linie vom hinteren Eimer zum Ende: KURZE STRECKE (grün gemeint, hier schwarz)",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:eimer",
+  "kapitel": 6
+ },
+ {
+  "satz": "",
+  "sek": 0.0,
+  "zeigt": "Die Figur greift den VORDEREN Eimer – lange rote Strecke bis zum Ende",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:eimer",
+  "kapitel": 6
+ },
+ {
+  "satz": "Doch fast alle griffen zum vorderen Eimer und schleppten ihn dafür weiter. [9 Versuche, 2014]",
+  "sek": 4.53,
+  "zeigt": "Zahl rot eingekreist: 9 Versuche, Unterschrift FAST ALLE NAHMEN DEN NÄHEREN EIMER (Rosenbaum u. a. 2014)",
+  "animation": "Zahl rot eingekreist (`motion` counter)",
+  "inhalt": [
+   "zahl",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Warum? Viele sagten: Sie wollten die Aufgabe so schnell wie möglich erledigen.",
+  "sek": 5.28,
+  "zeigt": "Gedankenblase über der Figur: SCHNELL ERLEDIGEN!",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Rosenbaum nannte das Prä-Krastination.",
+  "sek": 3.28,
+  "zeigt": "PRÄ-KRASTINATION wird groß geschrieben und unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Das Gegenteil von Aufschieben.",
+  "sek": 2.07,
+  "zeigt": "Darunter Board geteilt: AUFSCHIEBEN ↔ PRÄ-KRASTINATION",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:gegenteil",
+  "kapitel": 6
+ },
+ {
+  "satz": "Er vermutet: Etwas sofort abzuhaken, entlastet den Kopf.",
+  "sek": 4.4,
+  "zeigt": "Gehirn mit einer Liste, ein Punkt wird abgehakt, der Kopf wird leichter",
+  "animation": "Gehirn-Skizze",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Und hier liegt die Wendung.",
+  "sek": 1.76,
+  "zeigt": "Kamera fährt zu einer Waage mit JETZT und SPÄTER",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Aufschieben und Prä-Krastination wirken wie Gegensätze, aber in beiden Fällen",
+  "sek": 5.35,
+  "zeigt": "Über der Waage: DAS JETZT GEWINNT, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "gewinnt das Jetzt.",
+  "sek": 1.52,
+  "zeigt": "Über der Waage: DAS JETZT GEWINNT, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Der eine schiebt die Aufgabe weg. Der andere hakt schnell irgendetwas ab, egal, ob es sinnvoll ist.",
+  "sek": 6.33,
+  "zeigt": "Links Figur schiebt Kiste weg, rechts Figur hakt eine Liste ab",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Kennst du das?",
+  "sek": 1.36,
+  "zeigt": "Gezeichnetes Handy: 10 NEUE E-MAILS – ALLE BEANTWORTET – DIE GROSSE AUFGABE? MORGEN.",
+  "animation": "Gezeichnetes Handy (`motion` phone)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Du beantwortest zehn kleine E-Mails, statt die eine große Aufgabe anzufangen. [10]",
+  "sek": 5.2,
+  "zeigt": "Zehn kleine Briefumschläge mit Haken, daneben ein großer unberührter Stapel",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "Station Nummer sechs: Auch wer ständig beschäftigt wirkt, kann das Wichtige aufschieben.",
+  "sek": 5.76,
+  "zeigt": "Rückkehr zum Hook: Station 6 GEGENTEIL wird rot abgehakt",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 6
+ },
+ {
+  "satz": "Doch was hilft dann wirklich?",
+  "sek": 2.08,
+  "zeigt": "Rote Schleife um ein großes WAS HILFT?",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:hilft",
+  "kapitel": 6
+ },
+ {
+  "satz": "Dazu gibt es ein berühmtes Experiment.",
+  "sek": 2.72,
+  "zeigt": "Eine abgedeckte Karteikarte BERÜHMTES EXPERIMENT ??? wird angeheftet",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:fristen",
+  "kapitel": 6
+ },
+ {
+  "satz": "Und eine Wendung, die erst zweitausendsechsundzwanzig bekannt wurde. [2026]",
+  "sek": 4.72,
+  "zeigt": "Neben der Karte: WENDUNG 2026! in Rot",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 6
+ },
+ {
+  "satz": "(Kapitelkarte) Der Fristen-Mythos",
+  "sek": 4.86,
+  "zeigt": "Kapitelkarte 7: Nummer im Kreis, Titel „Der Fristen-Mythos“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Zweitausendzwei erschien ein berühmtes Experiment über Fristen. [2002]",
+  "sek": 3.92,
+  "zeigt": "Karteikarte 2002 · Fristen-Experiment · Korrekturlesen",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Menschen sollten Texte Korrektur lesen.",
+  "sek": 2.48,
+  "zeigt": "Figur am Tisch, roter Stift, ein Text mit Fehlern wird markiert",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Wer feste Fristen von außen bekam, fand",
+  "sek": 2.8,
+  "zeigt": "Zwei Balken: FESTE FRISTEN fast doppelt so hoch wie EINE FRIST AM ENDE – mit Fragezeichen ANGEBLICH",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "angeblich fast doppelt so viele Fehler wie Menschen mit nur einer Frist ganz am Ende.",
+  "sek": 5.01,
+  "zeigt": "ANGEBLICH! in Rot neben den Balken",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Die Studie wurde unzählige Male zitiert, in Büchern, Vorträgen und Ratgebern.",
+  "sek": 5.6,
+  "zeigt": "Studien-Stapel: Karten Buch, Vortrag, Ratgeber stapeln sich, Frage STIMMT DAS WIRKLICH?",
+  "animation": "Studien-Stapel (`motion` stack)",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Auch dieses Video hätte sie dir fast als Beweis präsentiert.",
+  "sek": 3.76,
+  "zeigt": "Hauptfigur hält schon eine Karteikarte hoch, zögert",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Doch zweitausendsechsundzwanzig kam die Wendung. [2026]",
+  "sek": 3.12,
+  "zeigt": "Kalenderblatt 2026 erscheint, die Figur erschrickt",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Die Ökonomen Kyle Hyndman und Alberto Bisin wiederholten das Experiment und fanden",
+  "sek": 5.68,
+  "zeigt": "Das Experiment wird ein zweites Mal gezeichnet: WIEDERHOLT – Balken fast gleich hoch",
+  "animation": "Experiment nachgespielt",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "kaum einen Effekt.",
+  "sek": 1.65,
+  "zeigt": "Über den Wiederholungs-Balken: KAUM EIN EFFEKT in Rot",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Andere Forscher meldeten Auffälligkeiten in den Originaldaten.",
+  "sek": 3.92,
+  "zeigt": "Lupe über einer Datentabelle, einige Zeilen sind rot markiert: AUFFÄLLIG",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Und im September zog die Fachzeitschrift die Studie zurück. [September 2026]",
+  "sek": 3.68,
+  "zeigt": "Die Karteikarte 2002 wird rot durchgestrichen: ZURÜCKGEZOGEN (Sept. 2026)",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "zeit",
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:fristen",
+  "kapitel": 7
+ },
+ {
+  "satz": "Sie könne die Verlässlichkeit der Ergebnisse nicht mehr bestätigen. Beide Autoren stimmten der Rücknahme zu. [2026]",
+  "sek": 6.79,
+  "zeigt": "Notizzettel FAST DOPPELT SO GUT dreht sich um: ZURÜCKGEZOGEN – SEPT. 2026 in Rot",
+  "animation": "Mythos dreht sich um (`motion` flip)",
+  "inhalt": [
+   "erklaerung",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Was bleibt also?",
+  "sek": 1.52,
+  "zeigt": "Großes Fragezeichen: WAS BLEIBT?",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Dieselben Ökonomen hatten schon zweitausendzwanzig in einem Experiment gefunden: [2020]",
+  "sek": 5.12,
+  "zeigt": "Karteikarte 2020 · Bisin & Hyndman · Experiment mit Studierenden",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "person",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Viele Studierende setzen sich freiwillig Fristen.",
+  "sek": 3.29,
+  "zeigt": "Figur trägt selbst Fristen in einen Kalender ein (rote Kreise)",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Sie ahnen also, dass sie aufschieben werden.",
+  "sek": 2.72,
+  "zeigt": "Gedankenblase: ICH KENNE MICH ...",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Aber sie wurden dadurch nicht häufiger fertig.",
+  "sek": 3.12,
+  "zeigt": "Zwei gleich hohe Balken: MIT EIGENEN FRISTEN = OHNE, Gleichheitszeichen",
+  "animation": "Handgezeichnetes Diagramm",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Station Nummer sieben:",
+  "sek": 1.68,
+  "zeigt": "Rückkehr zum Hook: Station 7 FRIST wird rot abgehakt – alle Stationen erreicht",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "teaser:stationen",
+  "kapitel": 7
+ },
+ {
+  "satz": "Du verlässt dich auf eine Frist, die gut klingt, aber allein nicht zuverlässig wirkt.",
+  "sek": 4.78,
+  "zeigt": "Unter dem Weg: FRIST ALLEIN REICHT NICHT",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Das ist übrigens selbst ein Denkmuster: Eine einfache, schöne Geschichte glauben wir besonders gern.",
+  "sek": 6.32,
+  "zeigt": "EINFACHE, SCHÖNE GESCHICHTE wird geschrieben, daneben ein Gehirn mit Herz",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 7
+ },
+ {
+  "satz": "Und damit sind wir beim Trick, der besser belegt ist. Wie kommt man da raus?",
+  "sek": 5.48,
+  "zeigt": "Kamera fährt zur abgedeckten TRICK-Karte vom Anfang",
+  "animation": "Kamerafahrt übers Board",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "teaser:trick",
+  "kapitel": 7
+ },
+ {
+  "satz": "(Kapitelkarte) So trickst du es aus",
+  "sek": 4.7,
+  "zeigt": "Kapitelkarte 8: Nummer im Kreis, Titel „So trickst du es aus“ wird geschrieben und rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Der erste Schritt klingt seltsam: Vergib dir.",
+  "sek": 3.6,
+  "zeigt": "SCHRITT 1: VERGIB DIR wird groß geschrieben",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:hilft",
+  "kapitel": 8
+ },
+ {
+  "satz": "An der Carleton University in Ottawa befragten Michael Wohl, Timothy Pychyl und Shannon Bennett [2010, 119]",
+  "sek": 5.84,
+  "zeigt": "Karteikarte 2010 · Wohl, Pychyl & Bennett · Ottawa · 119 Erstsemester",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "zahl",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "hundertneunzehn Erstsemester vor zwei Prüfungen. [119]",
+  "sek": 3.09,
+  "zeigt": "Rechts: 119 groß, rot eingekreist; darunter zwei Prüfungsblätter",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Wer sich verziehen hatte, dass er vor der ersten Prüfung aufgeschoben hatte,",
+  "sek": 4.24,
+  "zeigt": "Hauptfigur legt sich die Hand aufs Herz, lächelt; Pfeil zu Prüfung 2 mit weniger Aufschieben",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "person"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "schob vor der zweiten Prüfung weniger auf,",
+  "sek": 2.48,
+  "zeigt": "Roter Pfeil: WENIGER AUFGESCHOBEN vor Prüfung 2",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "vor allem, wer vorher stark aufgeschoben hatte.",
+  "sek": 2.94,
+  "zeigt": "Grau darunter: VOR ALLEM BEI STARKEN AUFSCHIEBERN",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Die Erklärung der Forscher: weniger schlechte Gefühle.",
+  "sek": 3.92,
+  "zeigt": "Regler SCHLECHTE GEFÜHLE sinkt nach unten",
+  "animation": "Innerer Regler",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Und weniger schlechte Gefühle heißt, du erinnerst dich an Station zwei, weniger Grund zur Flucht.",
+  "sek": 6.16,
+  "zeigt": "Kette zurück zu Station 2: WENIGER GEFÜHL → WENIGER FLUCHT",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Wer sich selbst fertigmacht, füttert genau das Gefühl, vor dem er wegläuft.",
+  "sek": 4.82,
+  "zeigt": "Rote Schleife um eine traurige Figur: SELBSTVORWURF füttert das Gefühl",
+  "animation": "Gedankenschleife",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Der zweite Schritt ist der Trick vom Anfang.",
+  "sek": 2.4,
+  "zeigt": "Die TRICK-Karte vom Anfang wird aufgedeckt: SCHRITT 2",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:trick",
+  "kapitel": 8
+ },
+ {
+  "satz": "Er stammt von Peter Gollwitzer und Veronika Brandstätter, untersucht mit Studierenden in München. [1997]",
+  "sek": 6.29,
+  "zeigt": "Karteikarte 1997 · Gollwitzer & Brandstätter · München",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zeit",
+   "person",
+   "ort"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Kurz vor Weihnachten bekamen Studierende eine Aufgabe: [24. Dezember]",
+  "sek": 3.44,
+  "zeigt": "Kamera fährt: Weihnachtsbaum und Kalenderblatt 24. DEZEMBER",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Schreibt innerhalb von zwei Tagen nach Heiligabend einen Bericht darüber, wie ihr den Abend verbracht habt. [2 Tage]",
+  "sek": 6.4,
+  "zeigt": "Uhr: INNERHALB VON 2 TAGEN, Bericht-Blatt",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit",
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Ein Teil legte vorher genau fest, wann und wo sie schreiben.",
+  "sek": 4.08,
+  "zeigt": "Board teilt sich: MIT PLAN (wann + wo) vs. OHNE PLAN",
+  "animation": "Zwei Wege",
+  "inhalt": [
+   "vergleich"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "frage:plan",
+  "kapitel": 8
+ },
+ {
+  "satz": "Ein Wenn-dann-Plan.",
+  "sek": 1.76,
+  "zeigt": "WENN – DANN wird geschrieben und unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "So ein Plan könnte lauten: Wenn ich am ersten Feiertag gefrühstückt habe, setze ich mich an den",
+  "sek": 5.84,
+  "zeigt": "Kette: FRÜHSTÜCK → KÜCHENTISCH → SCHREIBEN (gezeichnete Tasse, Tisch, Stift)",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Küchentisch und schreibe.",
+  "sek": 1.93,
+  "zeigt": "Pfeil zum gezeichneten Küchentisch",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Das Ergebnis: Von denen, die überhaupt einen Bericht zurückschickten, hatten ihn mit Plan [71 Prozent, 32 Prozent]",
+  "sek": 5.76,
+  "zeigt": "Zwei Zahlen: 71 % mit Plan (rot eingekreist), 32 % ohne Plan",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:plan",
+  "kapitel": 8
+ },
+ {
+  "satz": "einundsiebzig Prozent rechtzeitig geschrieben. [71 Prozent]",
+  "sek": 2.89,
+  "zeigt": "71 % wird geschrieben und rot eingekreist: MIT PLAN",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Ohne Plan nur zweiunddreißig Prozent. [32 Prozent]",
+  "sek": 2.72,
+  "zeigt": "Rechts: 32 % ohne Plan in Grau",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Mehr als doppelt so viele. [71 Prozent, 32 Prozent, 1997]",
+  "sek": 2.0,
+  "zeigt": "Schraffur-Balken: mit Plan 71 % (rot), ohne Plan 32 %, Gollwitzer & Brandstätter 1997",
+  "animation": "Schraffur-Balken (`motion` bars)",
+  "inhalt": [
+   "vergleich",
+   "zahl",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Die Gruppen waren klein. [17 und 19]",
+  "sek": 1.76,
+  "zeigt": "In Grau: KLEINE GRUPPEN (17 und 19)",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Aber eine spätere Auswertung von vierundneunzig Tests aus vielen Studien kam zu einem ähnlichen Schluss: [94, 2006]",
+  "sek": 6.48,
+  "zeigt": "Stapel aus Karteikarten: AUSWERTUNG VON 94 TESTS (2006)",
+  "animation": "Studien-Karteikarte",
+  "inhalt": [
+   "zahl",
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Wenn-dann-Pläne helfen deutlich.",
+  "sek": 2.83,
+  "zeigt": "WENN-DANN HILFT DEUTLICH, rot unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Denn der Plan nimmt deinem Kopf die Entscheidung ab.",
+  "sek": 2.72,
+  "zeigt": "Zoom in den Kopf: ein Weichensteller nimmt die Entscheidung ab – Schild AUTOMATISCH",
+  "animation": "Blick in den Kopf",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Du musst nicht mehr auf die richtige Stimmung warten.",
+  "sek": 2.72,
+  "zeigt": "ERST DIE RICHTIGE STIMMUNG wird geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Die Situation selbst ist das Startsignal.",
+  "sek": 2.78,
+  "zeigt": "Situation (Uhr) → Startsignal (Startflagge)",
+  "animation": "Ursache-Wirkungs-Kette",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Probier es heute aus.",
+  "sek": 1.68,
+  "zeigt": "Hauptfigur schaut den Zuschauer an: PROBIER ES HEUTE AUS!",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Nimm die eine Aufgabe, die du gerade wegschiebst, und sag laut:",
+  "sek": 4.0,
+  "zeigt": "Die eine weggeschobene Aufgabe als Blatt mit Staubwolke",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Wenn es morgen neun Uhr ist, öffne ich die Datei. [9 Uhr]",
+  "sek": 3.44,
+  "zeigt": "Uhr springt auf 9 UHR, daneben: DATEI ÖFFNEN",
+  "animation": "Tagesuhr",
+  "inhalt": [
+   "zeit"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Nur öffnen. Mehr nicht.",
+  "sek": 3.68,
+  "zeigt": "Laptop klappt auf, rotes NUR ÖFFNEN. Haken",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 8
+ },
+ {
+  "satz": "Aufschieben ist also keine Faulheit.",
+  "sek": 2.4,
+  "zeigt": "FAUL wird geschrieben und rot durchgestrichen",
+  "animation": "Mythos durchstreichen",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:faul",
+  "kapitel": 9
+ },
+ {
+  "satz": "Es ist ein Kopf, der sich vor einem schlechten Gefühl schützen will und dabei die Rechnung an dein Zukunfts-Ich schickt.",
+  "sek": 6.48,
+  "zeigt": "Gedankenwolken-Ablauf: mieses Gefühl → Kopf schützt sich → Rechnung an Ich morgen",
+  "animation": "Gedankenwolken-Ablauf (`motion` flow)",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "antwort:was",
+  "kapitel": 9
+ },
+ {
+  "satz": "Das Gute: Wenn du das Muster kennst, kannst du es unterbrechen.",
+  "sek": 4.12,
+  "zeigt": "Hauptfigur zerschneidet eine Kette mit einer Schere: MUSTER UNTERBROCHEN",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Mit Nachsicht statt Selbstvorwürfen. Und mit einem klaren Wenn-dann-Plan.",
+  "sek": 5.36,
+  "zeigt": "Zwei Werkzeuge: Herz (NACHSICHT) und Wenn-dann-Karte",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Und falls dich das Aufschieben dauerhaft belastet und es dir richtig schlecht geht:",
+  "sek": 4.64,
+  "zeigt": "Hauptfigur spricht mit einer zweiten Person: SPRICH MIT JEMANDEM",
+  "animation": "Netz der Menschen",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Sprich mit jemandem darüber, zum Beispiel mit einer",
+  "sek": 2.88,
+  "zeigt": "Die zweite Person legt der Hauptfigur die Hand auf die Schulter",
+  "animation": "Pose wechselt",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Beratungsstelle oder deiner Ärztin.",
+  "sek": 2.73,
+  "zeigt": "Kleines Gebäude BERATUNG und ein Arztkoffer mit Kreuz",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Dieses Video ersetzt keine Beratung.",
+  "sek": 2.56,
+  "zeigt": "ERSETZT KEINE BERATUNG, in Grau unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "erklaerung"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Jetzt bin ich neugierig:",
+  "sek": 1.68,
+  "zeigt": "Großes Kommentarfeld wird gezeichnet",
+  "animation": "Mitmach-Test",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Welche Aufgabe schiebst du gerade vor dir her?",
+  "sek": 2.96,
+  "zeigt": "Im Kommentarfeld: WELCHE AUFGABE SCHIEBST DU GERADE AUF?",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Und wie viele der sieben Stationen haben auf dich zugetroffen? [7]",
+  "sek": 3.67,
+  "zeigt": "Rechts oben: ? / 7 Stationen, eingekreist",
+  "animation": "Zahl in Handschrift",
+  "inhalt": [
+   "zahl"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "antwort:stationen",
+  "kapitel": 9
+ },
+ {
+  "satz": "Schreib es in die Kommentare.",
+  "sek": 1.92,
+  "zeigt": "SCHREIB'S IN DIE KOMMENTARE! unter dem Feld, unterstrichen",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Und wenn du mehr darüber wissen willst, warum Menschen tun, was sie tun:",
+  "sek": 4.0,
+  "zeigt": "DENKMUSTER-Schriftzug, Hauptfigur jubelt, eine Glocke wird gezeichnet",
+  "animation": "Hauptfigur (blaue Locke, oranger Schal)",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Abonniere Denkmuster und aktiviere die Glocke.",
+  "sek": 3.12,
+  "zeigt": "DENKMUSTER wird groß geschrieben, darunter ABONNIEREN",
+  "animation": "Schlüsselwort erscheint",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "exakt",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Dann verpasst du kein Video.",
+  "sek": 1.92,
+  "zeigt": "Glocke wackelt, kleine Striche um die Glocke",
+  "animation": "Live-Strich",
+  "inhalt": [
+   "geschehen"
+  ],
+  "genauigkeit": "schema",
+  "neugier": "",
+  "kapitel": 9
+ },
+ {
+  "satz": "Bis zum nächsten Mal.",
+  "sek": 3.44,
+  "zeigt": "Kamera fährt weit zurück: das ganze Schluss-Board als ein Bild",
+  "animation": "Board-Panorama",
+  "inhalt": [
+   "gefuehl"
+  ],
+  "genauigkeit": "stimmung",
+  "neugier": "",
+  "kapitel": 9
+ }
+]

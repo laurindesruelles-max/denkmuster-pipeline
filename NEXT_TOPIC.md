@@ -5,6 +5,6 @@
 
 ## Ideen-Speicher
 - (GTA-6-Winkel noch offen: „Warum wir in Spielen Dinge tun, die wir im echten Leben nie tun würden“ – Online-Enthemmung, Avatar-Identifikation)
-- Warum wir aufschieben (Prokrastination)
 - Menschen, die immer zu früh kommen
 - Warum wir Dingen glauben, die wir schon kennen (Mere-Exposure)
+- (erledigt: Aufschieben/Prokrastination → Video 005, 27.11.2026)

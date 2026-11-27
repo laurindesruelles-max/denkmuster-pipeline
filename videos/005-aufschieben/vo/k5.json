@@ -1,0 +1,796 @@
+{
+"words": [
+{
+"w": "Zweitausenddreiundzwanzig",
+"s": 0.16,
+"e": 1.28
+},
+{
+"w": "erschien",
+"s": 1.44,
+"e": 1.84
+},
+{
+"w": "eine",
+"s": 2.0,
+"e": 2.12
+},
+{
+"w": "große",
+"s": 2.16,
+"e": 2.56
+},
+{
+"w": "Studie",
+"s": 2.56,
+"e": 2.96
+},
+{
+"w": "aus",
+"s": 3.04,
+"e": 3.16
+},
+{
+"w": "Schweden.",
+"s": 3.2,
+"e": 3.84
+},
+{
+"w": "Forschende",
+"s": 4.0,
+"e": 4.48
+},
+{
+"w": "um",
+"s": 4.64,
+"e": 4.76
+},
+{
+"w": "Fred",
+"s": 4.8,
+"e": 5.04
+},
+{
+"w": "Johansson",
+"s": 5.2,
+"e": 5.76
+},
+{
+"w": "befragten",
+"s": 5.92,
+"e": 6.4
+},
+{
+"w": "dreitausendfünfhundertfünfundzwanzig",
+"s": 6.56,
+"e": 8.32
+},
+{
+"w": "Studierende",
+"s": 8.48,
+"e": 9.04
+},
+{
+"w": "von",
+"s": 9.2,
+"e": 9.32
+},
+{
+"w": "acht",
+"s": 9.44,
+"e": 9.6
+},
+{
+"w": "Hochschulen",
+"s": 9.68,
+"e": 10.32
+},
+{
+"w": "rund",
+"s": 10.4,
+"e": 10.56
+},
+{
+"w": "um",
+"s": 10.64,
+"e": 10.76
+},
+{
+"w": "Stockholm",
+"s": 10.8,
+"e": 11.28
+},
+{
+"w": "und",
+"s": 11.36,
+"e": 11.48
+},
+{
+"w": "Örebro.",
+"s": 11.52,
+"e": 12.4
+},
+{
+"w": "Neun",
+"s": 12.813,
+"e": 13.133
+},
+{
+"w": "Monate",
+"s": 13.213,
+"e": 13.533
+},
+{
+"w": "später",
+"s": 13.693,
+"e": 14.013
+},
+{
+"w": "fragten",
+"s": 14.093,
+"e": 14.573
+},
+{
+"w": "sie",
+"s": 14.653,
+"e": 14.773
+},
+{
+"w": "noch",
+"s": 14.893,
+"e": 15.013
+},
+{
+"w": "einmal",
+"s": 15.053,
+"e": 15.293
+},
+{
+"w": "nach.",
+"s": 15.453,
+"e": 15.773
+},
+{
+"w": "Das",
+"s": 15.933,
+"e": 16.053
+},
+{
+"w": "Ergebnis:",
+"s": 16.173,
+"e": 16.893
+},
+{
+"w": "Wer",
+"s": 17.133,
+"e": 17.373
+},
+{
+"w": "stärker",
+"s": 17.453,
+"e": 17.853
+},
+{
+"w": "zum",
+"s": 17.933,
+"e": 18.053
+},
+{
+"w": "Aufschieben",
+"s": 18.173,
+"e": 18.653
+},
+{
+"w": "neigte,",
+"s": 18.653,
+"e": 19.213
+},
+{
+"w": "berichtete",
+"s": 19.293,
+"e": 19.773
+},
+{
+"w": "später",
+"s": 19.853,
+"e": 20.173
+},
+{
+"w": "im",
+"s": 20.173,
+"e": 20.293
+},
+{
+"w": "Schnitt",
+"s": 20.333,
+"e": 20.733
+},
+{
+"w": "etwas",
+"s": 20.813,
+"e": 20.933
+},
+{
+"w": "mehr",
+"s": 21.133,
+"e": 21.253
+},
+{
+"w": "Symptome",
+"s": 21.373,
+"e": 21.933
+},
+{
+"w": "von",
+"s": 22.013,
+"e": 22.133
+},
+{
+"w": "Depression,",
+"s": 22.173,
+"e": 22.893
+},
+{
+"w": "Angst",
+"s": 22.973,
+"e": 23.373
+},
+{
+"w": "und",
+"s": 23.453,
+"e": 23.573
+},
+{
+"w": "Stress.",
+"s": 23.693,
+"e": 24.413
+},
+{
+"w": "Dazu",
+"s": 24.628,
+"e": 24.868
+},
+{
+"w": "häufiger",
+"s": 25.108,
+"e": 25.428
+},
+{
+"w": "schlechten",
+"s": 25.588,
+"e": 25.908
+},
+{
+"w": "Schlaf,",
+"s": 25.988,
+"e": 26.468
+},
+{
+"w": "Einsamkeit,",
+"s": 26.628,
+"e": 27.428
+},
+{
+"w": "Geldsorgen",
+"s": 27.508,
+"e": 28.228
+},
+{
+"w": "und",
+"s": 28.388,
+"e": 28.508
+},
+{
+"w": "weniger",
+"s": 28.628,
+"e": 28.948
+},
+{
+"w": "Bewegung.",
+"s": 29.028,
+"e": 29.748
+},
+{
+"w": "Und",
+"s": 29.828,
+"e": 29.948
+},
+{
+"w": "sogar",
+"s": 30.068,
+"e": 30.388
+},
+{
+"w": "öfter",
+"s": 30.388,
+"e": 30.628
+},
+{
+"w": "belastende",
+"s": 30.788,
+"e": 31.348
+},
+{
+"w": "Schmerzen",
+"s": 31.508,
+"e": 31.908
+},
+{
+"w": "in",
+"s": 31.988,
+"e": 32.108
+},
+{
+"w": "Schultern",
+"s": 32.148,
+"e": 32.548
+},
+{
+"w": "und",
+"s": 32.628,
+"e": 32.748
+},
+{
+"w": "Armen.",
+"s": 32.788,
+"e": 33.428
+},
+{
+"w": "Jetzt",
+"s": 33.668,
+"e": 33.908
+},
+{
+"w": "ganz",
+"s": 34.068,
+"e": 34.308
+},
+{
+"w": "wichtig:",
+"s": 34.388,
+"e": 34.948
+},
+{
+"w": "Die",
+"s": 35.108,
+"e": 35.228
+},
+{
+"w": "Unterschiede",
+"s": 35.268,
+"e": 35.908
+},
+{
+"w": "waren",
+"s": 35.908,
+"e": 36.028
+},
+{
+"w": "klein.",
+"s": 36.228,
+"e": 36.788
+},
+{
+"w": "Und",
+"s": 36.788,
+"e": 36.908
+},
+{
+"w": "so",
+"s": 37.028,
+"e": 37.148
+},
+{
+"w": "eine",
+"s": 37.268,
+"e": 37.388
+},
+{
+"w": "Studie",
+"s": 37.428,
+"e": 37.828
+},
+{
+"w": "zeigt",
+"s": 37.908,
+"e": 38.148
+},
+{
+"w": "einen",
+"s": 38.308,
+"e": 38.428
+},
+{
+"w": "Zusammenhang.",
+"s": 38.548,
+"e": 39.348
+},
+{
+"w": "Sie",
+"s": 39.425,
+"e": 39.545
+},
+{
+"w": "beweist",
+"s": 39.665,
+"e": 40.145
+},
+{
+"w": "nicht,",
+"s": 40.305,
+"e": 40.545
+},
+{
+"w": "dass",
+"s": 40.625,
+"e": 40.745
+},
+{
+"w": "das",
+"s": 40.785,
+"e": 40.905
+},
+{
+"w": "Aufschieben",
+"s": 40.945,
+"e": 41.505
+},
+{
+"w": "die",
+"s": 41.585,
+"e": 41.705
+},
+{
+"w": "Ursache",
+"s": 41.745,
+"e": 42.225
+},
+{
+"w": "ist.",
+"s": 42.305,
+"e": 42.625
+},
+{
+"w": "Vielleicht",
+"s": 42.785,
+"e": 43.185
+},
+{
+"w": "geht",
+"s": 43.185,
+"e": 43.425
+},
+{
+"w": "es",
+"s": 43.505,
+"e": 43.625
+},
+{
+"w": "manchen",
+"s": 43.665,
+"e": 43.905
+},
+{
+"w": "schon",
+"s": 44.065,
+"e": 44.225
+},
+{
+"w": "vorher",
+"s": 44.305,
+"e": 44.545
+},
+{
+"w": "schlechter,",
+"s": 44.705,
+"e": 45.025
+},
+{
+"w": "und",
+"s": 45.185,
+"e": 45.305
+},
+{
+"w": "sie",
+"s": 45.345,
+"e": 45.465
+},
+{
+"w": "schieben",
+"s": 45.505,
+"e": 45.825
+},
+{
+"w": "deshalb",
+"s": 45.905,
+"e": 46.225
+},
+{
+"w": "mehr",
+"s": 46.305,
+"e": 46.425
+},
+{
+"w": "auf.",
+"s": 46.545,
+"e": 46.945
+},
+{
+"w": "Die",
+"s": 47.105,
+"e": 47.225
+},
+{
+"w": "Forscher",
+"s": 47.265,
+"e": 47.665
+},
+{
+"w": "haben",
+"s": 47.825,
+"e": 47.945
+},
+{
+"w": "frühere",
+"s": 48.065,
+"e": 48.385
+},
+{
+"w": "Werte",
+"s": 48.545,
+"e": 48.785
+},
+{
+"w": "deshalb",
+"s": 48.945,
+"e": 49.265
+},
+{
+"w": "mit",
+"s": 49.265,
+"e": 49.385
+},
+{
+"w": "eingerechnet,",
+"s": 49.425,
+"e": 50.145
+},
+{
+"w": "und",
+"s": 50.385,
+"e": 50.505
+},
+{
+"w": "der",
+"s": 50.625,
+"e": 50.745
+},
+{
+"w": "Zusammenhang",
+"s": 50.785,
+"e": 51.345
+},
+{
+"w": "blieb",
+"s": 51.425,
+"e": 51.665
+},
+{
+"w": "trotzdem",
+"s": 51.745,
+"e": 52.065
+},
+{
+"w": "sichtbar.",
+"s": 52.145,
+"e": 52.785
+},
+{
+"w": "Ganz",
+"s": 52.865,
+"e": 53.105
+},
+{
+"w": "ausschließen",
+"s": 53.185,
+"e": 53.745
+},
+{
+"w": "lassen",
+"s": 53.905,
+"e": 54.145
+},
+{
+"w": "sich",
+"s": 54.225,
+"e": 54.345
+},
+{
+"w": "andere",
+"s": 54.465,
+"e": 54.585
+},
+{
+"w": "Ursachen",
+"s": 54.785,
+"e": 55.185
+},
+{
+"w": "aber",
+"s": 55.345,
+"e": 55.465
+},
+{
+"w": "nicht.",
+"s": 55.665,
+"e": 56.065
+},
+{
+"w": "Station",
+"s": 56.391,
+"e": 56.791
+},
+{
+"w": "Nummer",
+"s": 57.111,
+"e": 57.351
+},
+{
+"w": "fünf:",
+"s": 57.431,
+"e": 57.991
+},
+{
+"w": "Aufschieben",
+"s": 58.231,
+"e": 58.951
+},
+{
+"w": "ist",
+"s": 59.031,
+"e": 59.151
+},
+{
+"w": "kein",
+"s": 59.191,
+"e": 59.431
+},
+{
+"w": "harmloser",
+"s": 59.511,
+"e": 60.071
+},
+{
+"w": "Spleen.",
+"s": 60.151,
+"e": 60.871
+},
+{
+"w": "Es",
+"s": 61.031,
+"e": 61.151
+},
+{
+"w": "kann",
+"s": 61.271,
+"e": 61.391
+},
+{
+"w": "sich",
+"s": 61.511,
+"e": 61.631
+},
+{
+"w": "durch",
+"s": 61.751,
+"e": 61.871
+},
+{
+"w": "viele",
+"s": 61.911,
+"e": 62.151
+},
+{
+"w": "Bereiche",
+"s": 62.231,
+"e": 62.711
+},
+{
+"w": "des",
+"s": 62.711,
+"e": 62.831
+},
+{
+"w": "Lebens",
+"s": 62.871,
+"e": 63.271
+},
+{
+"w": "ziehen.",
+"s": 63.351,
+"e": 63.831
+},
+{
+"w": "Und",
+"s": 63.911,
+"e": 64.031
+},
+{
+"w": "jetzt",
+"s": 64.071,
+"e": 64.191
+},
+{
+"w": "kommt",
+"s": 64.391,
+"e": 64.631
+},
+{
+"w": "eine",
+"s": 64.631,
+"e": 64.751
+},
+{
+"w": "Wendung,",
+"s": 64.871,
+"e": 65.351
+},
+{
+"w": "mit",
+"s": 65.351,
+"e": 65.471
+},
+{
+"w": "der",
+"s": 65.511,
+"e": 65.631
+},
+{
+"w": "kaum",
+"s": 65.751,
+"e": 65.991
+},
+{
+"w": "jemand",
+"s": 66.071,
+"e": 66.311
+},
+{
+"w": "rechnet.",
+"s": 66.391,
+"e": 67.031
+},
+{
+"w": "Es",
+"s": 67.191,
+"e": 67.311
+},
+{
+"w": "gibt",
+"s": 67.431,
+"e": 67.551
+},
+{
+"w": "auch",
+"s": 67.751,
+"e": 67.871
+},
+{
+"w": "das",
+"s": 67.911,
+"e": 68.031
+},
+{
+"w": "genaue",
+"s": 68.071,
+"e": 68.471
+},
+{
+"w": "Gegenteil.",
+"s": 68.551,
+"e": 69.191
+}
+],
+"dur": 69.28,
+"recognized": "2023 erschien eine große Studie aus Schweden. Forschende um Fred Johansen befragten 3.525 Studierende von acht Hochschulen rund um Stockholm und Örebro. Neun Monate später fragten sie noch einmal nach. Das Ergebnis? Wer stärker zum Aufschieben neigte, berichtete später im Schnitt etwas mehr Symptome von Depression, Angst und Stress. Daz häufiger schlechten Schlaf, Einsamkeit, Geldsorgen und weniger Bewegung. Und sogar öfter belastende Schmerzen in Schultern und Armen. Jetzt ganz wichtig, die Unterschieden waren klein, und so eine Studie zeigt einen Zusammenhang. Sie beweist nicht, dass das Aufschieben die Ursache ist. Vielleicht geht es manchen schon vorher schlechter und sie schieben deshalb mehr auf. Die Forscher haben frühere Werte deshalb mit eingerechnet und der Zusammenhang blieb trotzdem sichtbar. Ganz ausschließen lassen sich andere Ursachen aber nicht. Station Nummer 5. Aufschieben ist kein harmloser Spleen. Es kann sich durch viele Bereiche des Lebens ziehen. Und jetzt kommt eine Wendung, mit der kaum jemand rechnet. Es gibt auch das genaue Gegenteil."
+}

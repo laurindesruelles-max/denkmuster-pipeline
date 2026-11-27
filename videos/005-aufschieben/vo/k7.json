@@ -1,0 +1,926 @@
+{
+"words": [
+{
+"w": "Zweitausendzwei",
+"s": 0.16,
+"e": 0.8
+},
+{
+"w": "erschien",
+"s": 0.96,
+"e": 1.36
+},
+{
+"w": "ein",
+"s": 1.44,
+"e": 1.56
+},
+{
+"w": "berühmtes",
+"s": 1.6,
+"e": 2.08
+},
+{
+"w": "Experiment",
+"s": 2.16,
+"e": 2.64
+},
+{
+"w": "über",
+"s": 2.8,
+"e": 2.92
+},
+{
+"w": "Fristen.",
+"s": 3.04,
+"e": 3.84
+},
+{
+"w": "Menschen",
+"s": 4.08,
+"e": 4.2
+},
+{
+"w": "sollten",
+"s": 4.48,
+"e": 4.8
+},
+{
+"w": "Texte",
+"s": 4.88,
+"e": 5.28
+},
+{
+"w": "Korrektur",
+"s": 5.36,
+"e": 5.84
+},
+{
+"w": "lesen.",
+"s": 5.92,
+"e": 6.4
+},
+{
+"w": "Wer",
+"s": 6.56,
+"e": 6.8
+},
+{
+"w": "feste",
+"s": 6.88,
+"e": 7.12
+},
+{
+"w": "Fristen",
+"s": 7.28,
+"e": 7.6
+},
+{
+"w": "von",
+"s": 7.84,
+"e": 7.96
+},
+{
+"w": "außen",
+"s": 8.0,
+"e": 8.24
+},
+{
+"w": "bekam,",
+"s": 8.32,
+"e": 8.88
+},
+{
+"w": "fand",
+"s": 8.96,
+"e": 9.28
+},
+{
+"w": "angeblich",
+"s": 9.36,
+"e": 9.92
+},
+{
+"w": "fast",
+"s": 9.92,
+"e": 10.04
+},
+{
+"w": "doppelt",
+"s": 10.16,
+"e": 10.56
+},
+{
+"w": "so",
+"s": 10.56,
+"e": 10.68
+},
+{
+"w": "viele",
+"s": 10.72,
+"e": 10.88
+},
+{
+"w": "Fehler",
+"s": 10.96,
+"e": 11.36
+},
+{
+"w": "wie",
+"s": 11.44,
+"e": 11.56
+},
+{
+"w": "Menschen",
+"s": 11.68,
+"e": 11.8
+},
+{
+"w": "mit",
+"s": 12.08,
+"e": 12.2
+},
+{
+"w": "nur",
+"s": 12.24,
+"e": 12.36
+},
+{
+"w": "einer",
+"s": 12.4,
+"e": 12.52
+},
+{
+"w": "Frist",
+"s": 12.72,
+"e": 13.04
+},
+{
+"w": "ganz",
+"s": 13.2,
+"e": 13.44
+},
+{
+"w": "am",
+"s": 13.44,
+"e": 13.56
+},
+{
+"w": "Ende.",
+"s": 13.6,
+"e": 14.0
+},
+{
+"w": "Die",
+"s": 14.369,
+"e": 14.489
+},
+{
+"w": "Studie",
+"s": 14.609,
+"e": 15.089
+},
+{
+"w": "wurde",
+"s": 15.169,
+"e": 15.289
+},
+{
+"w": "unzählige",
+"s": 15.409,
+"e": 16.049
+},
+{
+"w": "Male",
+"s": 16.209,
+"e": 16.449
+},
+{
+"w": "zitiert,",
+"s": 16.609,
+"e": 17.089
+},
+{
+"w": "in",
+"s": 17.169,
+"e": 17.289
+},
+{
+"w": "Büchern,",
+"s": 17.329,
+"e": 17.889
+},
+{
+"w": "Vorträgen",
+"s": 17.969,
+"e": 18.529
+},
+{
+"w": "und",
+"s": 18.609,
+"e": 18.729
+},
+{
+"w": "Ratgebern.",
+"s": 18.769,
+"e": 19.809
+},
+{
+"w": "Auch",
+"s": 19.969,
+"e": 20.209
+},
+{
+"w": "dieses",
+"s": 20.289,
+"e": 20.529
+},
+{
+"w": "Video",
+"s": 20.609,
+"e": 21.009
+},
+{
+"w": "hätte",
+"s": 21.009,
+"e": 21.409
+},
+{
+"w": "sie",
+"s": 21.409,
+"e": 21.529
+},
+{
+"w": "dir",
+"s": 21.569,
+"e": 21.689
+},
+{
+"w": "fast",
+"s": 21.809,
+"e": 21.929
+},
+{
+"w": "als",
+"s": 22.049,
+"e": 22.169
+},
+{
+"w": "Beweis",
+"s": 22.289,
+"e": 22.689
+},
+{
+"w": "präsentiert.",
+"s": 22.769,
+"e": 23.409
+},
+{
+"w": "Doch",
+"s": 23.728,
+"e": 24.048
+},
+{
+"w": "zweitausendsechsundzwanzig",
+"s": 24.208,
+"e": 25.408
+},
+{
+"w": "kam",
+"s": 25.568,
+"e": 25.688
+},
+{
+"w": "die",
+"s": 25.888,
+"e": 26.008
+},
+{
+"w": "Wendung.",
+"s": 26.048,
+"e": 26.688
+},
+{
+"w": "Die",
+"s": 26.848,
+"e": 26.968
+},
+{
+"w": "Ökonomen",
+"s": 27.008,
+"e": 27.408
+},
+{
+"w": "Kyle",
+"s": 27.648,
+"e": 28.088
+},
+{
+"w": "Hyndman",
+"s": 28.088,
+"e": 28.528
+},
+{
+"w": "und",
+"s": 28.688,
+"e": 28.768
+},
+{
+"w": "Alberto",
+"s": 28.768,
+"e": 29.248
+},
+{
+"w": "Bisin",
+"s": 29.328,
+"e": 29.968
+},
+{
+"w": "wiederholten",
+"s": 30.128,
+"e": 30.688
+},
+{
+"w": "das",
+"s": 30.848,
+"e": 30.968
+},
+{
+"w": "Experiment",
+"s": 31.008,
+"e": 31.488
+},
+{
+"w": "und",
+"s": 31.808,
+"e": 31.928
+},
+{
+"w": "fanden",
+"s": 32.048,
+"e": 32.368
+},
+{
+"w": "kaum",
+"s": 32.528,
+"e": 32.768
+},
+{
+"w": "einen",
+"s": 32.928,
+"e": 33.048
+},
+{
+"w": "Effekt.",
+"s": 33.168,
+"e": 33.728
+},
+{
+"w": "Andere",
+"s": 34.183,
+"e": 34.423
+},
+{
+"w": "Forscher",
+"s": 34.583,
+"e": 34.903
+},
+{
+"w": "meldeten",
+"s": 35.063,
+"e": 35.463
+},
+{
+"w": "Auffälligkeiten",
+"s": 35.623,
+"e": 36.423
+},
+{
+"w": "in",
+"s": 36.423,
+"e": 36.543
+},
+{
+"w": "den",
+"s": 36.583,
+"e": 36.703
+},
+{
+"w": "Originaldaten.",
+"s": 36.743,
+"e": 37.943
+},
+{
+"w": "Und",
+"s": 38.103,
+"e": 38.223
+},
+{
+"w": "im",
+"s": 38.343,
+"e": 38.463
+},
+{
+"w": "September",
+"s": 38.503,
+"e": 38.903
+},
+{
+"w": "zog",
+"s": 39.063,
+"e": 39.303
+},
+{
+"w": "die",
+"s": 39.383,
+"e": 39.463
+},
+{
+"w": "Fachzeitschrift",
+"s": 39.463,
+"e": 40.263
+},
+{
+"w": "die",
+"s": 40.343,
+"e": 40.463
+},
+{
+"w": "Studie",
+"s": 40.503,
+"e": 40.983
+},
+{
+"w": "zurück.",
+"s": 41.063,
+"e": 41.543
+},
+{
+"w": "Sie",
+"s": 41.783,
+"e": 41.903
+},
+{
+"w": "könne",
+"s": 42.023,
+"e": 42.143
+},
+{
+"w": "die",
+"s": 42.343,
+"e": 42.463
+},
+{
+"w": "Verlässlichkeit",
+"s": 42.503,
+"e": 43.223
+},
+{
+"w": "der",
+"s": 43.383,
+"e": 43.503
+},
+{
+"w": "Ergebnisse",
+"s": 43.543,
+"e": 44.103
+},
+{
+"w": "nicht",
+"s": 44.183,
+"e": 44.303
+},
+{
+"w": "mehr",
+"s": 44.343,
+"e": 44.463
+},
+{
+"w": "bestätigen.",
+"s": 44.583,
+"e": 45.383
+},
+{
+"w": "Beide",
+"s": 45.771,
+"e": 46.091
+},
+{
+"w": "Autoren",
+"s": 46.171,
+"e": 46.491
+},
+{
+"w": "stimmten",
+"s": 46.651,
+"e": 47.131
+},
+{
+"w": "der",
+"s": 47.211,
+"e": 47.291
+},
+{
+"w": "Rücknahme",
+"s": 47.291,
+"e": 47.851
+},
+{
+"w": "zu.",
+"s": 47.931,
+"e": 48.331
+},
+{
+"w": "Was",
+"s": 48.571,
+"e": 48.691
+},
+{
+"w": "bleibt",
+"s": 48.811,
+"e": 49.131
+},
+{
+"w": "also?",
+"s": 49.291,
+"e": 49.851
+},
+{
+"w": "Dieselben",
+"s": 50.091,
+"e": 50.651
+},
+{
+"w": "Ökonomen",
+"s": 50.731,
+"e": 51.131
+},
+{
+"w": "hatten",
+"s": 51.451,
+"e": 51.691
+},
+{
+"w": "schon",
+"s": 51.771,
+"e": 51.931
+},
+{
+"w": "zweitausendzwanzig",
+"s": 52.091,
+"e": 52.811
+},
+{
+"w": "in",
+"s": 53.051,
+"e": 53.171
+},
+{
+"w": "einem",
+"s": 53.291,
+"e": 53.411
+},
+{
+"w": "Experiment",
+"s": 53.531,
+"e": 54.011
+},
+{
+"w": "gefunden:",
+"s": 54.251,
+"e": 54.971
+},
+{
+"w": "Viele",
+"s": 55.211,
+"e": 55.531
+},
+{
+"w": "Studierende",
+"s": 55.691,
+"e": 56.251
+},
+{
+"w": "setzen",
+"s": 56.411,
+"e": 56.731
+},
+{
+"w": "sich",
+"s": 56.811,
+"e": 56.931
+},
+{
+"w": "freiwillig",
+"s": 56.971,
+"e": 57.531
+},
+{
+"w": "Fristen.",
+"s": 57.611,
+"e": 58.251
+},
+{
+"w": "Sie",
+"s": 58.501,
+"e": 58.621
+},
+{
+"w": "ahnen",
+"s": 58.741,
+"e": 59.221
+},
+{
+"w": "also,",
+"s": 59.301,
+"e": 59.541
+},
+{
+"w": "dass",
+"s": 59.541,
+"e": 59.661
+},
+{
+"w": "sie",
+"s": 59.781,
+"e": 59.901
+},
+{
+"w": "aufschieben",
+"s": 59.941,
+"e": 60.501
+},
+{
+"w": "werden.",
+"s": 60.661,
+"e": 61.061
+},
+{
+"w": "Aber",
+"s": 61.221,
+"e": 61.341
+},
+{
+"w": "sie",
+"s": 61.461,
+"e": 61.581
+},
+{
+"w": "wurden",
+"s": 61.701,
+"e": 61.941
+},
+{
+"w": "dadurch",
+"s": 62.021,
+"e": 62.341
+},
+{
+"w": "nicht",
+"s": 62.421,
+"e": 62.541
+},
+{
+"w": "häufiger",
+"s": 62.581,
+"e": 63.061
+},
+{
+"w": "fertig.",
+"s": 63.221,
+"e": 63.941
+},
+{
+"w": "Station",
+"s": 64.341,
+"e": 64.741
+},
+{
+"w": "Nummer",
+"s": 64.981,
+"e": 65.301
+},
+{
+"w": "sieben:",
+"s": 65.381,
+"e": 65.621
+},
+{
+"w": "Du",
+"s": 66.021,
+"e": 66.141
+},
+{
+"w": "verlässt",
+"s": 66.261,
+"e": 66.741
+},
+{
+"w": "dich",
+"s": 66.741,
+"e": 66.901
+},
+{
+"w": "auf",
+"s": 66.901,
+"e": 67.021
+},
+{
+"w": "eine",
+"s": 67.061,
+"e": 67.181
+},
+{
+"w": "Frist,",
+"s": 67.221,
+"e": 67.701
+},
+{
+"w": "die",
+"s": 67.701,
+"e": 67.821
+},
+{
+"w": "gut",
+"s": 67.861,
+"e": 67.981
+},
+{
+"w": "klingt,",
+"s": 68.101,
+"e": 68.581
+},
+{
+"w": "aber",
+"s": 68.661,
+"e": 68.781
+},
+{
+"w": "allein",
+"s": 68.901,
+"e": 69.141
+},
+{
+"w": "nicht",
+"s": 69.221,
+"e": 69.341
+},
+{
+"w": "zuverlässig",
+"s": 69.461,
+"e": 70.101
+},
+{
+"w": "wirkt.",
+"s": 70.181,
+"e": 70.581
+},
+{
+"w": "Das",
+"s": 70.8,
+"e": 70.92
+},
+{
+"w": "ist",
+"s": 71.12,
+"e": 71.24
+},
+{
+"w": "übrigens",
+"s": 71.36,
+"e": 71.76
+},
+{
+"w": "selbst",
+"s": 71.84,
+"e": 72.08
+},
+{
+"w": "ein",
+"s": 72.16,
+"e": 72.28
+},
+{
+"w": "Denkmuster:",
+"s": 72.32,
+"e": 73.28
+},
+{
+"w": "Eine",
+"s": 73.44,
+"e": 73.68
+},
+{
+"w": "einfache,",
+"s": 73.76,
+"e": 74.32
+},
+{
+"w": "schöne",
+"s": 74.4,
+"e": 74.72
+},
+{
+"w": "Geschichte",
+"s": 74.8,
+"e": 75.28
+},
+{
+"w": "glauben",
+"s": 75.36,
+"e": 75.76
+},
+{
+"w": "wir",
+"s": 75.76,
+"e": 75.88
+},
+{
+"w": "besonders",
+"s": 76.0,
+"e": 76.4
+},
+{
+"w": "gern.",
+"s": 76.4,
+"e": 77.04
+},
+{
+"w": "Und",
+"s": 77.12,
+"e": 77.24
+},
+{
+"w": "damit",
+"s": 77.36,
+"e": 77.6
+},
+{
+"w": "sind",
+"s": 77.68,
+"e": 77.8
+},
+{
+"w": "wir",
+"s": 77.92,
+"e": 78.04
+},
+{
+"w": "beim",
+"s": 78.08,
+"e": 78.24
+},
+{
+"w": "Trick,",
+"s": 78.32,
+"e": 78.64
+},
+{
+"w": "der",
+"s": 78.64,
+"e": 78.76
+},
+{
+"w": "besser",
+"s": 78.8,
+"e": 79.12
+},
+{
+"w": "belegt",
+"s": 79.2,
+"e": 79.6
+},
+{
+"w": "ist.",
+"s": 79.68,
+"e": 80.0
+},
+{
+"w": "Wie",
+"s": 80.16,
+"e": 80.28
+},
+{
+"w": "kommt",
+"s": 80.4,
+"e": 80.72
+},
+{
+"w": "man",
+"s": 80.72,
+"e": 80.84
+},
+{
+"w": "da",
+"s": 80.88,
+"e": 81.0
+},
+{
+"w": "raus?",
+"s": 81.04,
+"e": 81.36
+}
+],
+"dur": 81.6,
+"recognized": "2002 erschien ein berühmtes Experiment über Fristen. Menschen sollten Texte Korrektur lesen. Wer feste Fristen von außen bekam, fand angeblich fast doppelt so viele Fehler wie Menschen mit nur einer Frist ganz am Ende. Die Studie wurde unzählige Male zitiert, in Büchern, Vorträgen und Ratgebern. Auch dieses Video hätte sie dir fast als Beweis präsentiert. Doch 2026 kam die Wendung. Die Ökonomen Kil Hindman und Alberto Bizin wiederholten das Experiment und fanden kaum einen Effekt. Andere Forscher meldeten Auffälligkeiten in den Originaldaten. Und im September zog die Fachzeitschrift die Studie zurück. Sie können die Verlässlichkeit der Ergebnisse nicht mehr bestätigen. Beide Autoren stimmten der Rücknahme zu. Was bleibt also? Dieselben Ökonomen hatten schon 2020 in einem Experiment gefunden, viele Studierende setzen sich freiwillig Fristen. Sie ahnen also, dass sie aufschieben werden. Aber sie wurden dadurch nicht häufiger fertig. Station Nummer 7 Du verlässt dich auf eine Frist, die gut klingt, aber allein nicht zuverlässig wirkt. Das ist übrigens selbst ein Denkmuster. Eine einfache, schöne Geschichte glauben wir besonders gern. Und damit sind wir beim Trick, der besser belegt ist. Wie kommt man da raus?"
+}
